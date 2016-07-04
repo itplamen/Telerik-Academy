@@ -1,0 +1,20 @@
+C:\Users\Plamen\Desktop\01. Introduction to ASP.NET\01. Simple Sumator (ASP.NET Web Forms)\bin\roslyn\csc.exe
+C:\Users\Plamen\Desktop\01. Introduction to ASP.NET\01. Simple Sumator (ASP.NET Web Forms)\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Plamen\Desktop\01. Introduction to ASP.NET\01. Simple Sumator (ASP.NET Web Forms)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Plamen\Desktop\01. Introduction to ASP.NET\01. Simple Sumator (ASP.NET Web Forms)\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Plamen\Desktop\01. Introduction to ASP.NET\01. Simple Sumator (ASP.NET Web Forms)\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Plamen\Desktop\01. Introduction to ASP.NET\01. Simple Sumator (ASP.NET Web Forms)\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Plamen\Desktop\01. Introduction to ASP.NET\01. Simple Sumator (ASP.NET Web Forms)\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Plamen\Desktop\01. Introduction to ASP.NET\01. Simple Sumator (ASP.NET Web Forms)\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Plamen\Desktop\01. Introduction to ASP.NET\01. Simple Sumator (ASP.NET Web Forms)\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Plamen\Desktop\01. Introduction to ASP.NET\01. Simple Sumator (ASP.NET Web Forms)\bin\roslyn\vbc.exe
+C:\Users\Plamen\Desktop\01. Introduction to ASP.NET\01. Simple Sumator (ASP.NET Web Forms)\bin\roslyn\VBCSCompiler.exe
+C:\Users\Plamen\Desktop\01. Introduction to ASP.NET\01. Simple Sumator (ASP.NET Web Forms)\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Plamen\Desktop\01. Introduction to ASP.NET\01. Simple Sumator (ASP.NET Web Forms)\bin\_01.Simple_Sumator__ASP.NET_Web_Forms_.dll.config
+C:\Users\Plamen\Desktop\01. Introduction to ASP.NET\01. Simple Sumator (ASP.NET Web Forms)\bin\_01.Simple_Sumator__ASP.NET_Web_Forms_.dll
+C:\Users\Plamen\Desktop\01. Introduction to ASP.NET\01. Simple Sumator (ASP.NET Web Forms)\bin\_01.Simple_Sumator__ASP.NET_Web_Forms_.pdb
+C:\Users\Plamen\Desktop\01. Introduction to ASP.NET\01. Simple Sumator (ASP.NET Web Forms)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Plamen\Desktop\01. Introduction to ASP.NET\01. Simple Sumator (ASP.NET Web Forms)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Plamen\Desktop\01. Introduction to ASP.NET\01. Simple Sumator (ASP.NET Web Forms)\obj\Debug\01. Simple Sumator (ASP.NET Web Forms).csprojResolveAssemblyReference.cache
+C:\Users\Plamen\Desktop\01. Introduction to ASP.NET\01. Simple Sumator (ASP.NET Web Forms)\obj\Debug\_01.Simple_Sumator__ASP.NET_Web_Forms_.dll
+C:\Users\Plamen\Desktop\01. Introduction to ASP.NET\01. Simple Sumator (ASP.NET Web Forms)\obj\Debug\_01.Simple_Sumator__ASP.NET_Web_Forms_.pdb

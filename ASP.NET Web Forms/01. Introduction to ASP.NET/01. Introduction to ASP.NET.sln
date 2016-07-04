@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Simple Sumator (ASP.NET Web Forms)", "01. Simple Sumator (ASP.NET Web Forms)\01. Simple Sumator (ASP.NET Web Forms).csproj", "{8CBF4AFD-F6FD-443D-B0D0-4DDD3EB38E75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Simple Sumator (ASP.NET MVC)", "01. Simple Sumator (ASP.NET MVC)\01. Simple Sumator (ASP.NET MVC).csproj", "{E4D37BE3-3E31-44E9-8D10-BAF75E1A77B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Text to Image - HttpHandler", "02. Text to Image - HttpHandler\02. Text to Image - HttpHandler.csproj", "{1A39821B-F325-4A8A-ABF3-7A895A545EAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CBF4AFD-F6FD-443D-B0D0-4DDD3EB38E75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CBF4AFD-F6FD-443D-B0D0-4DDD3EB38E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CBF4AFD-F6FD-443D-B0D0-4DDD3EB38E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CBF4AFD-F6FD-443D-B0D0-4DDD3EB38E75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4D37BE3-3E31-44E9-8D10-BAF75E1A77B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4D37BE3-3E31-44E9-8D10-BAF75E1A77B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4D37BE3-3E31-44E9-8D10-BAF75E1A77B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4D37BE3-3E31-44E9-8D10-BAF75E1A77B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A39821B-F325-4A8A-ABF3-7A895A545EAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A39821B-F325-4A8A-ABF3-7A895A545EAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A39821B-F325-4A8A-ABF3-7A895A545EAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A39821B-F325-4A8A-ABF3-7A895A545EAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
