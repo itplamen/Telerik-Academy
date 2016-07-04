@@ -1,0 +1,85 @@
+﻿header
+{
+    display: block;
+    text-align: center;
+    background-color: #afccd3;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+header#Country
+{
+    background-color: #ffaa00;
+}
+
+aside 
+{
+    float: left;
+    background-color: #ffee77; 
+    width: 200px;
+    margin-bottom: 10px;
+}
+
+aside ul
+{
+    list-style: none;
+    margin: 0;
+    padding: 10px;
+}
+
+aside ul li
+{
+    padding: 5px;
+}
+
+aside ul li:hover
+{
+    background-color: #e8a950;
+}
+    
+aside a
+{
+    text-decoration: none;
+}
+
+section
+{
+    float: left;
+    margin-left: 10px;
+}
+
+section:after
+{
+    clear: both;
+}
+
+.bg-flag, .uk-flag
+{
+    display: inline-block;
+    width: 120px;
+    height: 80px;
+    border-radius: 10px;
+}
+
+.bg-flag
+{
+    background-image: url('images/bg-flag.jpg');
+}
+
+.uk-flag
+{
+    background-image: url('images/uk-flag.jpg');
+}
+
+footer
+{
+    display: block;
+    text-align: center;
+    background-color: #afccd3;
+    font-size: 16px;
+    padding: 5px;
+    margin-top: 10px;
+    clear: both;
+}

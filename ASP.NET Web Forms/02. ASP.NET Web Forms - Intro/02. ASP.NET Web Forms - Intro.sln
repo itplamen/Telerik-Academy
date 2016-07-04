@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Print your name", "01. Print your name\01. Print your name.csproj", "{033831D7-82F2-4735-B476-DCE286D301D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Dump lifecycle events", "02. Dump lifecycle events\02. Dump lifecycle events.csproj", "{F73C9988-02A2-4204-8905-18164D788BC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{033831D7-82F2-4735-B476-DCE286D301D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{033831D7-82F2-4735-B476-DCE286D301D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{033831D7-82F2-4735-B476-DCE286D301D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{033831D7-82F2-4735-B476-DCE286D301D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F73C9988-02A2-4204-8905-18164D788BC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F73C9988-02A2-4204-8905-18164D788BC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F73C9988-02A2-4204-8905-18164D788BC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F73C9988-02A2-4204-8905-18164D788BC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

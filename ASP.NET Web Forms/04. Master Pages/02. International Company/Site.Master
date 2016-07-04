@@ -1,0 +1,26 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="_02.International_Company.Site" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>International Company</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <header>
+        <asp:ContentPlaceHolder ID="HeaderContentPlaceHolder" runat="server">
+        </asp:ContentPlaceHolder>
+        <h3>International business company</h3>
+    </header>
+
+    <form id="mainForm" runat="server">
+        <asp:ContentPlaceHolder ID="PageContentPlaceHolder" runat="server">
+        </asp:ContentPlaceHolder>
+    </form>
+
+    <footer>
+        <p>Created by <a href="https://github.com/itplamen">itplamen &copy;</a></p>
+    </footer>
+</body>
+</html>

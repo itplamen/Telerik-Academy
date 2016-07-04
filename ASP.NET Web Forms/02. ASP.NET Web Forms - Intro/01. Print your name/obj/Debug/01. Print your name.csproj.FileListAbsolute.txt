@@ -1,0 +1,20 @@
+C:\Users\Plamen\Desktop\02. ASP.NET Web Forms - Intro\01. Print your name\bin\roslyn\csc.exe
+C:\Users\Plamen\Desktop\02. ASP.NET Web Forms - Intro\01. Print your name\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Plamen\Desktop\02. ASP.NET Web Forms - Intro\01. Print your name\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Plamen\Desktop\02. ASP.NET Web Forms - Intro\01. Print your name\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Plamen\Desktop\02. ASP.NET Web Forms - Intro\01. Print your name\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Plamen\Desktop\02. ASP.NET Web Forms - Intro\01. Print your name\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Plamen\Desktop\02. ASP.NET Web Forms - Intro\01. Print your name\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Plamen\Desktop\02. ASP.NET Web Forms - Intro\01. Print your name\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Plamen\Desktop\02. ASP.NET Web Forms - Intro\01. Print your name\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Plamen\Desktop\02. ASP.NET Web Forms - Intro\01. Print your name\bin\roslyn\vbc.exe
+C:\Users\Plamen\Desktop\02. ASP.NET Web Forms - Intro\01. Print your name\bin\roslyn\VBCSCompiler.exe
+C:\Users\Plamen\Desktop\02. ASP.NET Web Forms - Intro\01. Print your name\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Plamen\Desktop\02. ASP.NET Web Forms - Intro\01. Print your name\bin\_01.Print_your_name.dll.config
+C:\Users\Plamen\Desktop\02. ASP.NET Web Forms - Intro\01. Print your name\bin\_01.Print_your_name.dll
+C:\Users\Plamen\Desktop\02. ASP.NET Web Forms - Intro\01. Print your name\bin\_01.Print_your_name.pdb
+C:\Users\Plamen\Desktop\02. ASP.NET Web Forms - Intro\01. Print your name\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Plamen\Desktop\02. ASP.NET Web Forms - Intro\01. Print your name\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Plamen\Desktop\02. ASP.NET Web Forms - Intro\01. Print your name\obj\Debug\01. Print your name.csprojResolveAssemblyReference.cache
+C:\Users\Plamen\Desktop\02. ASP.NET Web Forms - Intro\01. Print your name\obj\Debug\_01.Print_your_name.dll
+C:\Users\Plamen\Desktop\02. ASP.NET Web Forms - Intro\01. Print your name\obj\Debug\_01.Print_your_name.pdb

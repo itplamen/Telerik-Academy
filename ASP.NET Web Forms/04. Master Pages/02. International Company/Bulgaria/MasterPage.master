@@ -1,0 +1,25 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="_02.International_Company.Bulgaria.MasterPage" %>
+
+<asp:Content ContentPlaceHolderID="HeaderContentPlaceHolder" runat="server">
+     
+</asp:Content>
+
+<asp:Content ContentPlaceHolderID="PageContentPlaceHolder" ID="ContentPage" runat="server">
+    <header id="Country">
+        <p>Bulgaria</p>
+    </header>
+
+    <aside>
+        <ul>
+            <li><a href="Home.aspx">Home</a></li>
+            <li><a href="About.aspx">About</a></li>
+            <li><a href="Contacts.aspx">Contacts</a></li>
+            <li><a href="/Home.aspx">Back To Welcome Page...</a></li>
+        </ul>
+    </aside>
+
+    <section>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder" runat="server" />
+    </section>
+
+</asp:Content>

@@ -1,0 +1,36 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="_01.Profile_Page.Site" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Profile Page</title>
+    <link href="style.css" type="text/css" rel="stylesheet" />
+</head>
+<body>
+    <form id="MainForm" runat="server">
+        <header>
+            <h1>Welcome!</h1>
+        </header>
+    
+        <aside>
+            <ul>
+                <li><a href="~/Home.aspx" runat="server">Home</a></li>
+                <li><a href="~/PersonalInfo.aspx" runat="server">Personal Info</a></li>
+                <li><a href="~/AdditionalInfo.aspx" runat="server">Additional Info</a></li>
+                <li><a href="~/Friends.aspx" runat="server">Friends</a></li>
+            </ul>
+        </aside>
+
+        <section>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder" runat="server">
+
+            </asp:ContentPlaceHolder>
+        </section>
+
+        <footer>
+            <p>Created by <a href="https://github.com/itplamen">itplamen &copy;</a></p>
+        </footer>
+    </form>
+</body>
+</html>

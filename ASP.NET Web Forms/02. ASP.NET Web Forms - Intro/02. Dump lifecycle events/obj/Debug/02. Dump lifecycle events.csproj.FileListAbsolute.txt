@@ -1,0 +1,20 @@
+C:\Users\Plamen\Desktop\02. ASP.NET Web Forms - Intro\02. Dump lifecycle events\bin\roslyn\csc.exe
+C:\Users\Plamen\Desktop\02. ASP.NET Web Forms - Intro\02. Dump lifecycle events\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Plamen\Desktop\02. ASP.NET Web Forms - Intro\02. Dump lifecycle events\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Plamen\Desktop\02. ASP.NET Web Forms - Intro\02. Dump lifecycle events\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Plamen\Desktop\02. ASP.NET Web Forms - Intro\02. Dump lifecycle events\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Plamen\Desktop\02. ASP.NET Web Forms - Intro\02. Dump lifecycle events\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Plamen\Desktop\02. ASP.NET Web Forms - Intro\02. Dump lifecycle events\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Plamen\Desktop\02. ASP.NET Web Forms - Intro\02. Dump lifecycle events\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Plamen\Desktop\02. ASP.NET Web Forms - Intro\02. Dump lifecycle events\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Plamen\Desktop\02. ASP.NET Web Forms - Intro\02. Dump lifecycle events\bin\roslyn\vbc.exe
+C:\Users\Plamen\Desktop\02. ASP.NET Web Forms - Intro\02. Dump lifecycle events\bin\roslyn\VBCSCompiler.exe
+C:\Users\Plamen\Desktop\02. ASP.NET Web Forms - Intro\02. Dump lifecycle events\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Plamen\Desktop\02. ASP.NET Web Forms - Intro\02. Dump lifecycle events\bin\_02.Dump_lifecycle_events.dll.config
+C:\Users\Plamen\Desktop\02. ASP.NET Web Forms - Intro\02. Dump lifecycle events\bin\_02.Dump_lifecycle_events.dll
+C:\Users\Plamen\Desktop\02. ASP.NET Web Forms - Intro\02. Dump lifecycle events\bin\_02.Dump_lifecycle_events.pdb
+C:\Users\Plamen\Desktop\02. ASP.NET Web Forms - Intro\02. Dump lifecycle events\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Plamen\Desktop\02. ASP.NET Web Forms - Intro\02. Dump lifecycle events\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Plamen\Desktop\02. ASP.NET Web Forms - Intro\02. Dump lifecycle events\obj\Debug\02. Dump lifecycle events.csprojResolveAssemblyReference.cache
+C:\Users\Plamen\Desktop\02. ASP.NET Web Forms - Intro\02. Dump lifecycle events\obj\Debug\_02.Dump_lifecycle_events.dll
+C:\Users\Plamen\Desktop\02. ASP.NET Web Forms - Intro\02. Dump lifecycle events\obj\Debug\_02.Dump_lifecycle_events.pdb
