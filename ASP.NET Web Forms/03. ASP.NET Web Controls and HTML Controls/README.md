@@ -16,4 +16,3 @@
 1. **Web Calculator**
 	* Make a simple Web Calculator. The calculator should support the operations like addition,  subtraction, multiplication, division and square root. Validation is essential!
 
-![calculator picture](./calculator-homework.png)
