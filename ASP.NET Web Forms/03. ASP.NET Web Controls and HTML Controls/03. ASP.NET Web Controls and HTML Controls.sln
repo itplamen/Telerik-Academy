@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Random number (HTML Controls)", "01. Random number (HTML Controls)\01. Random number (HTML Controls).csproj", "{BA0C9734-FCD0-44BB-AF19-12E0453A2CF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Random number (Web Controls)", "01. Random number (Web Controls)\01. Random number (Web Controls).csproj", "{3317CC44-A9B8-4149-863B-9530CD7365CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Escaping", "02. Escaping\02. Escaping.csproj", "{C6F30BC9-1278-4F47-A6B4-29D41C51FBD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Students and courses registration", "03. Students and courses registration\03. Students and courses registration.csproj", "{0EF909C4-0AB1-4259-A163-BC365732FDD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Web Calculator", "05. Web Calculator\05. Web Calculator.csproj", "{47AEC893-9372-4275-A27C-0EDADC58DDC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Tic-Tac-Toe", "04. Tic-Tac-Toe\04. Tic-Tac-Toe.csproj", "{435770EA-4838-4257-96CB-8064861CC806}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA0C9734-FCD0-44BB-AF19-12E0453A2CF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA0C9734-FCD0-44BB-AF19-12E0453A2CF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA0C9734-FCD0-44BB-AF19-12E0453A2CF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA0C9734-FCD0-44BB-AF19-12E0453A2CF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3317CC44-A9B8-4149-863B-9530CD7365CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3317CC44-A9B8-4149-863B-9530CD7365CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3317CC44-A9B8-4149-863B-9530CD7365CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3317CC44-A9B8-4149-863B-9530CD7365CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6F30BC9-1278-4F47-A6B4-29D41C51FBD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6F30BC9-1278-4F47-A6B4-29D41C51FBD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6F30BC9-1278-4F47-A6B4-29D41C51FBD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6F30BC9-1278-4F47-A6B4-29D41C51FBD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EF909C4-0AB1-4259-A163-BC365732FDD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EF909C4-0AB1-4259-A163-BC365732FDD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EF909C4-0AB1-4259-A163-BC365732FDD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EF909C4-0AB1-4259-A163-BC365732FDD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47AEC893-9372-4275-A27C-0EDADC58DDC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47AEC893-9372-4275-A27C-0EDADC58DDC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47AEC893-9372-4275-A27C-0EDADC58DDC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47AEC893-9372-4275-A27C-0EDADC58DDC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{435770EA-4838-4257-96CB-8064861CC806}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{435770EA-4838-4257-96CB-8064861CC806}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{435770EA-4838-4257-96CB-8064861CC806}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{435770EA-4838-4257-96CB-8064861CC806}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

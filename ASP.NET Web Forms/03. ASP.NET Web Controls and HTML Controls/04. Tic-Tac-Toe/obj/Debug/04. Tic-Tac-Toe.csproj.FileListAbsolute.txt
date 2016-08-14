@@ -1,0 +1,20 @@
+C:\Users\itplamen\Desktop\03. ASP.NET Web Controls and HTML Controls\04. Tic-Tac-Toe\bin\roslyn\csc.exe
+C:\Users\itplamen\Desktop\03. ASP.NET Web Controls and HTML Controls\04. Tic-Tac-Toe\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\itplamen\Desktop\03. ASP.NET Web Controls and HTML Controls\04. Tic-Tac-Toe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\itplamen\Desktop\03. ASP.NET Web Controls and HTML Controls\04. Tic-Tac-Toe\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\itplamen\Desktop\03. ASP.NET Web Controls and HTML Controls\04. Tic-Tac-Toe\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\itplamen\Desktop\03. ASP.NET Web Controls and HTML Controls\04. Tic-Tac-Toe\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\itplamen\Desktop\03. ASP.NET Web Controls and HTML Controls\04. Tic-Tac-Toe\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\itplamen\Desktop\03. ASP.NET Web Controls and HTML Controls\04. Tic-Tac-Toe\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\itplamen\Desktop\03. ASP.NET Web Controls and HTML Controls\04. Tic-Tac-Toe\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\itplamen\Desktop\03. ASP.NET Web Controls and HTML Controls\04. Tic-Tac-Toe\bin\roslyn\vbc.exe
+C:\Users\itplamen\Desktop\03. ASP.NET Web Controls and HTML Controls\04. Tic-Tac-Toe\bin\roslyn\VBCSCompiler.exe
+C:\Users\itplamen\Desktop\03. ASP.NET Web Controls and HTML Controls\04. Tic-Tac-Toe\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\itplamen\Desktop\03. ASP.NET Web Controls and HTML Controls\04. Tic-Tac-Toe\bin\_04.Tic_Tac_Toe.dll.config
+C:\Users\itplamen\Desktop\03. ASP.NET Web Controls and HTML Controls\04. Tic-Tac-Toe\bin\_04.Tic_Tac_Toe.dll
+C:\Users\itplamen\Desktop\03. ASP.NET Web Controls and HTML Controls\04. Tic-Tac-Toe\bin\_04.Tic_Tac_Toe.pdb
+C:\Users\itplamen\Desktop\03. ASP.NET Web Controls and HTML Controls\04. Tic-Tac-Toe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\itplamen\Desktop\03. ASP.NET Web Controls and HTML Controls\04. Tic-Tac-Toe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\itplamen\Desktop\03. ASP.NET Web Controls and HTML Controls\04. Tic-Tac-Toe\obj\Debug\_04.Tic_Tac_Toe.dll
+C:\Users\itplamen\Desktop\03. ASP.NET Web Controls and HTML Controls\04. Tic-Tac-Toe\obj\Debug\_04.Tic_Tac_Toe.pdb
+C:\Users\itplamen\Desktop\03. ASP.NET Web Controls and HTML Controls\04. Tic-Tac-Toe\obj\Debug\04. Tic-Tac-Toe.csprojResolveAssemblyReference.cache

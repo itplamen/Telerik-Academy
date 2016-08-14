@@ -1,0 +1,20 @@
+C:\Users\Plamen\Desktop\03. ASP.NET Web Controls and HTML Controls\05. Web Calculator\bin\roslyn\csc.exe
+C:\Users\Plamen\Desktop\03. ASP.NET Web Controls and HTML Controls\05. Web Calculator\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Plamen\Desktop\03. ASP.NET Web Controls and HTML Controls\05. Web Calculator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Plamen\Desktop\03. ASP.NET Web Controls and HTML Controls\05. Web Calculator\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Plamen\Desktop\03. ASP.NET Web Controls and HTML Controls\05. Web Calculator\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Plamen\Desktop\03. ASP.NET Web Controls and HTML Controls\05. Web Calculator\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Plamen\Desktop\03. ASP.NET Web Controls and HTML Controls\05. Web Calculator\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Plamen\Desktop\03. ASP.NET Web Controls and HTML Controls\05. Web Calculator\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Plamen\Desktop\03. ASP.NET Web Controls and HTML Controls\05. Web Calculator\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Plamen\Desktop\03. ASP.NET Web Controls and HTML Controls\05. Web Calculator\bin\roslyn\vbc.exe
+C:\Users\Plamen\Desktop\03. ASP.NET Web Controls and HTML Controls\05. Web Calculator\bin\roslyn\VBCSCompiler.exe
+C:\Users\Plamen\Desktop\03. ASP.NET Web Controls and HTML Controls\05. Web Calculator\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Plamen\Desktop\03. ASP.NET Web Controls and HTML Controls\05. Web Calculator\bin\_05.Web_Calculator.dll.config
+C:\Users\Plamen\Desktop\03. ASP.NET Web Controls and HTML Controls\05. Web Calculator\bin\_05.Web_Calculator.dll
+C:\Users\Plamen\Desktop\03. ASP.NET Web Controls and HTML Controls\05. Web Calculator\bin\_05.Web_Calculator.pdb
+C:\Users\Plamen\Desktop\03. ASP.NET Web Controls and HTML Controls\05. Web Calculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Plamen\Desktop\03. ASP.NET Web Controls and HTML Controls\05. Web Calculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Plamen\Desktop\03. ASP.NET Web Controls and HTML Controls\05. Web Calculator\obj\Debug\_05.Web_Calculator.dll
+C:\Users\Plamen\Desktop\03. ASP.NET Web Controls and HTML Controls\05. Web Calculator\obj\Debug\_05.Web_Calculator.pdb
+C:\Users\Plamen\Desktop\03. ASP.NET Web Controls and HTML Controls\05. Web Calculator\obj\Debug\05. Web Calculator.csprojResolveAssemblyReference.cache
