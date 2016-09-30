@@ -1,2 +1,2 @@
 # Telerik-Academy
-My programming experience at Telerik Academy.
+My programming experience at Online Telerik Academy.
