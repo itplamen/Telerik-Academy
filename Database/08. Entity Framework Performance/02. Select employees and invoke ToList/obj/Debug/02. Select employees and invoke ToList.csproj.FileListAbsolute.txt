@@ -1,0 +1,11 @@
+C:\Users\plamen\Desktop\08. Entity Framework Performance\02. Select employees and invoke ToList\bin\Debug\_02.Select_employees_and_invoke_ToList.exe.config
+C:\Users\plamen\Desktop\08. Entity Framework Performance\02. Select employees and invoke ToList\bin\Debug\_02.Select_employees_and_invoke_ToList.exe
+C:\Users\plamen\Desktop\08. Entity Framework Performance\02. Select employees and invoke ToList\bin\Debug\_02.Select_employees_and_invoke_ToList.pdb
+C:\Users\plamen\Desktop\08. Entity Framework Performance\02. Select employees and invoke ToList\bin\Debug\EntityFramework.dll
+C:\Users\plamen\Desktop\08. Entity Framework Performance\02. Select employees and invoke ToList\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\plamen\Desktop\08. Entity Framework Performance\02. Select employees and invoke ToList\bin\Debug\TelerikAcademy.Model.dll
+C:\Users\plamen\Desktop\08. Entity Framework Performance\02. Select employees and invoke ToList\bin\Debug\TelerikAcademy.Model.pdb
+C:\Users\plamen\Desktop\08. Entity Framework Performance\02. Select employees and invoke ToList\bin\Debug\EntityFramework.xml
+C:\Users\plamen\Desktop\08. Entity Framework Performance\02. Select employees and invoke ToList\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\plamen\Desktop\08. Entity Framework Performance\02. Select employees and invoke ToList\obj\Debug\_02.Select_employees_and_invoke_ToList.exe
+C:\Users\plamen\Desktop\08. Entity Framework Performance\02. Select employees and invoke ToList\obj\Debug\_02.Select_employees_and_invoke_ToList.pdb

@@ -1,0 +1,12 @@
+C:\Users\plamen\Desktop\08. Entity Framework Performance\01. Select employees with and without Include statement\bin\Debug\_01.Select_employees_with_and_without_Include_statement.exe.config
+C:\Users\plamen\Desktop\08. Entity Framework Performance\01. Select employees with and without Include statement\obj\Debug\01. Select employees with and without Include statement.csprojResolveAssemblyReference.cache
+C:\Users\plamen\Desktop\08. Entity Framework Performance\01. Select employees with and without Include statement\bin\Debug\_01.Select_employees_with_and_without_Include_statement.exe
+C:\Users\plamen\Desktop\08. Entity Framework Performance\01. Select employees with and without Include statement\bin\Debug\_01.Select_employees_with_and_without_Include_statement.pdb
+C:\Users\plamen\Desktop\08. Entity Framework Performance\01. Select employees with and without Include statement\bin\Debug\EntityFramework.dll
+C:\Users\plamen\Desktop\08. Entity Framework Performance\01. Select employees with and without Include statement\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\plamen\Desktop\08. Entity Framework Performance\01. Select employees with and without Include statement\bin\Debug\TelerikAcademy.Model.dll
+C:\Users\plamen\Desktop\08. Entity Framework Performance\01. Select employees with and without Include statement\bin\Debug\TelerikAcademy.Model.pdb
+C:\Users\plamen\Desktop\08. Entity Framework Performance\01. Select employees with and without Include statement\bin\Debug\EntityFramework.xml
+C:\Users\plamen\Desktop\08. Entity Framework Performance\01. Select employees with and without Include statement\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\plamen\Desktop\08. Entity Framework Performance\01. Select employees with and without Include statement\obj\Debug\_01.Select_employees_with_and_without_Include_statement.exe
+C:\Users\plamen\Desktop\08. Entity Framework Performance\01. Select employees with and without Include statement\obj\Debug\_01.Select_employees_with_and_without_Include_statement.pdb

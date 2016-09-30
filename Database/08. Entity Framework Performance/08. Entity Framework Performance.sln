@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Select employees with and without Include statement", "01. Select employees with and without Include statement\01. Select employees with and without Include statement.csproj", "{1327EE62-CD72-43D0-8A2A-EFAAEF4411EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelerikAcademy.Model", "TelerikAcademy.Model\TelerikAcademy.Model.csproj", "{0E05773F-1F49-4E1C-9BC6-B25A5BFDCC46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Select employees and invoke ToList", "02. Select employees and invoke ToList\02. Select employees and invoke ToList.csproj", "{460E0B7C-F741-4AFE-9166-480870FF905C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1327EE62-CD72-43D0-8A2A-EFAAEF4411EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1327EE62-CD72-43D0-8A2A-EFAAEF4411EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1327EE62-CD72-43D0-8A2A-EFAAEF4411EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1327EE62-CD72-43D0-8A2A-EFAAEF4411EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E05773F-1F49-4E1C-9BC6-B25A5BFDCC46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E05773F-1F49-4E1C-9BC6-B25A5BFDCC46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E05773F-1F49-4E1C-9BC6-B25A5BFDCC46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E05773F-1F49-4E1C-9BC6-B25A5BFDCC46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{460E0B7C-F741-4AFE-9166-480870FF905C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{460E0B7C-F741-4AFE-9166-480870FF905C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{460E0B7C-F741-4AFE-9166-480870FF905C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{460E0B7C-F741-4AFE-9166-480870FF905C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
