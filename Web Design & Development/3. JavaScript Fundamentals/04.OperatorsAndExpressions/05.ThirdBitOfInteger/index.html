@@ -1,0 +1,39 @@
+﻿<!--05.Write a boolean expression for finding if the bit 3 (counting from 0) of a given integer is 1 or 0.-->
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <input type="text" placeholder="Enter number: " id="number" />
+    <input type="button" value="check" onclick="checkDigit()" />
+
+    <script>
+        function checkDigit() {
+            var number = document.getElementById('number').value;
+
+            if (isNumberValid(number) === true) {
+                var check = number & 8;
+
+                if (check == '8') {
+                    console.log('The third bit is 1');
+                } else {
+                    console.log('The third bit is 0');
+                }
+            } else {
+                console.log('Invalid value!');
+            }
+        }
+
+        function isNumberValid(number) {
+
+            if (number < Number.MAX_VALUE && number > Number.MIN_VALUE) {
+                return true;
+            } else {
+                return false;
+            }
+        }
+    </script>
+</body>
+</html>

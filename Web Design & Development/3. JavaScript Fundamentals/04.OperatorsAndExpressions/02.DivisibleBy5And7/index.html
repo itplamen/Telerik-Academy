@@ -1,0 +1,39 @@
+﻿<!--02.Write a boolean expression that checks for given integer if it can be divided (without remainder) by 7 and 5 in the same time.-->
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <input type="text" placeholder="Enter number: " id="integerNumebr" />
+    <input type="button" value="check" onclick="checkNumber()" />
+
+    <script>
+        function checkNumber() {
+            var number = document.getElementById('integerNumebr').value;
+
+            if (isNumberValid(number) == true) {
+
+                if (number % 35 === 0) {
+                    console.log(true);
+                } else {
+                    console.log(false);
+                }
+            } else {
+                console.log('Invalid number!');
+            }
+
+        }
+
+        function isNumberValid(number) {
+
+            if (number < Number.MAX_VALUE && number > Number.MIN_VALUE) {
+                return true;
+            } else {
+                return false;
+            }
+        }
+    </script>
+</body>
+</html>

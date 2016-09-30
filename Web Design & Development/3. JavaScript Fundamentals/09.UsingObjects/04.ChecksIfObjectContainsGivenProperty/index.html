@@ -1,0 +1,33 @@
+﻿<!--04.Write a function that checks if a given object contains a given property
+Example:
+var obj  = …;
+var hasProp = hasProperty(obj, 'length');-->
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+    function hasProperty(obj, property) {
+        for (var prop in obj) {
+            if (prop === property) {
+                return true;
+            }
+        }
+
+        return false;
+    }
+
+    var obj = {
+        firstName: 'Plamen',
+        lastName: 'Georgiev',
+        age: '23'
+    }
+
+    console.log(hasProperty(obj, 'length'));
+    console.log(hasProperty(obj, 'age'));
+    </script>
+</body>
+</html>

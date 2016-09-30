@@ -1,0 +1,21 @@
+﻿table {
+    border-collapse:collapse;
+    width:35%;
+}
+
+.foot {
+    text-align:center;
+    background-color:lightblue;
+}
+
+.label {
+    text-align:right;
+}
+
+.input {
+    width:10%;
+}
+
+.intputData{
+    width:85%;
+}

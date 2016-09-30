@@ -1,0 +1,19 @@
+﻿<!--01.Write a script that allocates array of 20 integers and initializes each element by its index multiplied by 5. 
+Print the obtained array on the console.-->
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        var array = new Array(20);
+
+        for (var index = 0; index < array.length; index++) {
+            array[index] = index * 5;
+            console.log('Index: ' + index + ' ' + 'element: ' + array[index]);
+        }
+    </script>
+</body>
+</html>

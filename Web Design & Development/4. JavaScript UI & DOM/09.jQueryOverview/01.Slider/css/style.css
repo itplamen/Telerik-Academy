@@ -1,0 +1,32 @@
+#wrapper {
+    margin: 0 auto;
+    margin-top: 20px;
+    width: 600px;
+    height: 400px;
+}
+
+#left-arrow {
+    width: 48px;
+    height: 48px;
+    background: url('../images/slider-arrows.png') no-repeat bottom left;
+    position: absolute;
+    top: 180px;
+    left: 310px;
+}
+
+#left-arrow:hover {
+    background: url('../images/slider-arrows.png') no-repeat top left;
+}
+
+#right-arrow {
+    width: 48px;
+    height: 48px;
+    background: url('../images/slider-arrows.png') no-repeat bottom right;
+    position: absolute;
+    top: 180px;
+    left: 1000px;
+}
+
+#right-arrow:hover {
+    background: url('../images/slider-arrows.png') no-repeat top right;
+}

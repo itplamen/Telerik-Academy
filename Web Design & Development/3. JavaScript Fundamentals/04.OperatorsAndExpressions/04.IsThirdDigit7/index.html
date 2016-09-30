@@ -1,0 +1,39 @@
+﻿<!--04.Write an expression that checks for given integer if its third digit (right-to-left) is 7. E. g. 1732  true.-->
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <input type="text" placeholder="Enter number: " id="number" />
+    <input type="button" value="calculate" onclick="checkDigit()" />
+
+    <script>
+        function checkDigit() {
+            var number = document.getElementById('number').value;
+
+            if (isNumberValid(number) === true) {
+                var thirdDigit = parseInt((number / 100)) % 10;
+                
+                if (thirdDigit == '7') {
+                    console.log(true);
+                } else {
+                    console.log(false);
+                }
+            } else {
+                console.log('Invalid value!');
+            }
+        }
+
+        function isNumberValid(number) {
+
+            if (number < Number.MAX_VALUE && number > Number.MIN_VALUE) {
+                return true;
+            } else {
+                return false;
+            }
+        }
+    </script>
+</body>
+</html>

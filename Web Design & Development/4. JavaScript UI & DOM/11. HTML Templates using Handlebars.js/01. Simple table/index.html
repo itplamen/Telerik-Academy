@@ -1,0 +1,40 @@
+<!-- 01. Create the following using Handlebars.js -->
+
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <link type="text/css" rel="stylesheet" href="styles/style.css"/>
+    <script src="../libs/handlebars-v3.0.3.js"></script>
+    <script src="scripts/Courses.js"></script>
+    <script src="scripts/script.js"></script>
+</head>
+<body>
+<ul data-template></ul>
+    <table>
+        <thead>
+            <tr>
+                <th>№</th>
+                <th>Title</th>
+                <th>Date #1</th>
+                <th>Date #2</th>
+            </tr>
+        </thead>
+        <tbody id="table-body">
+
+        </tbody>
+    </table>
+
+    <script id="course-template" type="text/x-handlebars-template">
+        {{#list courses}}
+            <tr>
+                <td>{{id}}</td>
+                <td>{{title}}</td>
+                <td>{{firstDate}}</td>
+                <td>{{secondDate}}</td>
+            </tr>
+        {{/list}}
+    </script>
+</body>
+</html>

@@ -1,0 +1,71 @@
+<!-- 02.Write a script that creates 5 div elements and moves them in circular path with interval of 100 milliseconds. -->
+
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+    <canvas id="canvas" width="800" height="500"></canvas>
+    <script>
+        window.onload = function () {
+            drawDivs(5);
+        };
+
+        function drawDivs(numberOfDivs) {
+            var container = document.createElement('div');
+            container.style.position = 'absolute';
+            container.style.left = 600 + 'px';
+            container.style.top = 300 + 'px';
+
+            for (var i = 1; i <= numberOfDivs; i++) {
+               container.appendChild(createDiv());
+            }
+
+            document.body.appendChild(container);
+            moveDivs(container);
+        }
+
+        function moveDivs(container) {
+            var angle = 0;
+            var width = 120;
+            var height = 120;
+            var step = 2 * Math.PI / container.children.length;
+            var x = null;
+            var y = null;
+            var animationFrame = setInterval(function() {
+                for (var i = 0; i < container.children.length; i++) {
+                    x = Math.cos(angle + (i * step)) * width;
+                    y = Math.sin(angle + (i * step)) * height;
+                    container.children[i].style.left = x + 'px';
+                    container.children[i].style.top = y + 'px';
+                }
+
+                angle += 0.05;
+            }, 20);
+        }
+
+        function createDiv() {
+            var div = document.createElement('div');
+            div.style.position = 'absolute';
+            div.style.width = '50px';
+            div.style.height = '50px';
+            div.style.backgroundColor = getRandomColor();
+            return div;
+        }
+
+        function getRandomColor () {
+            var SYMBOLS_IN_COLOR = 6;
+            var letters = '0123456789ABCDEF'.split('');
+            var color = '#';
+
+            for (var i = 1; i <= SYMBOLS_IN_COLOR; i++ ) {
+                color += letters[Math.floor(Math.random() * 16)];
+            }
+
+            return color;
+        }
+    </script>
+</body>
+</html>

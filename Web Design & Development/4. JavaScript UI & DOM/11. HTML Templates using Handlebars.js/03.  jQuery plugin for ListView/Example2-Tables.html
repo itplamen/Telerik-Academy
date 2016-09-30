@@ -1,0 +1,47 @@
+<!--
+03. *Create a jQuery plugin for ListView
+    - Apply a template for each item of a collection
+    - Using the data-template attribute set the ID of the
+    template to use for the items
+    - Must work with different collections and templates
+-->
+
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <link type="text/css" rel="stylesheet" href="styles/style.css"/>
+    <script src="../libs/jquery-2.1.3.min.js"></script>
+    <script src="../libs/handlebars-v3.0.3.js"></script>
+    <script src="scripts/Students.js"></script>
+    <script src="scripts/listViewPlugin.js"></script>
+</head>
+<body>
+    <table>
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Name</th>
+                <th>Mark</th>
+            </tr>
+        </thead>
+        <tbody id="students-table" data-template="students-row-template">
+        </tbody>
+    </table>
+
+    <script id="students-row-template" type="text/x-handlebars-template">
+        <tr class="student-row">
+            <td>{{number}}</td>
+            <td>{{name}}</td>
+            <td>{{mark}}</td>
+        </tr>
+    </script>
+
+    <script>
+        window.onload = function() {
+            $('#students-table').listView(Students);
+        };
+    </script>
+</body>
+</html>

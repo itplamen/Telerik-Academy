@@ -1,0 +1,29 @@
+div {
+    border-radius: 10px;
+    margin-bottom: 20px;
+    float: left;
+    width: 700px;
+    text-align: center;
+    color: white;
+}
+
+#container, form {
+    background-color: blueviolet;
+}
+
+form {
+    border-radius: 10px;
+    float: right;
+    width: 330px;
+    padding: 10px;
+    color: white;
+}
+
+input[type="text"] {
+    width: 90px;
+    margin-bottom: 20px;
+}
+
+#parent-id {
+    margin-left: 28px;
+}

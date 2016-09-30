@@ -1,0 +1,39 @@
+﻿<!--01.Write an expression that checks if given integer is odd or even.-->
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <input type="text" placeholder="Enter number: " id="integerNumebr" />
+    <input type="button" value="check" onclick="checkNumber()" />
+
+    <script>
+        function checkNumber() {
+            var number = document.getElementById('integerNumebr').value;
+
+            if (isNumberValid(number) == true) {
+
+                if (number % 2 === 0) {
+                    console.log('The number is even.');
+                } else {
+                    console.log('The number is odd.');
+                }
+            } else {
+                console.log('Invalid number!');
+            }
+
+        }
+
+        function isNumberValid(number) {
+
+            if (number < Number.MAX_VALUE && number > Number.MIN_VALUE) {
+                return true;
+            } else {
+                return false;
+            }
+        }
+    </script>
+</body>
+</html>

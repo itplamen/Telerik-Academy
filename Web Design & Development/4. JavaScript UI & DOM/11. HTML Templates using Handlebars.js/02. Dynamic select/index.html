@@ -1,0 +1,23 @@
+<!-- 02. Create a dynamic select using Handlebars.js
+    - The options in the select should be generated based on
+    a collection of JavaScript objects -->
+
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <script src="../libs/handlebars-v3.0.3.js"></script>
+    <script src="scripts/Items.js"></script>
+    <script src="scripts/script.js"></script>
+</head>
+<body>
+    <select id="dynamic-select"></select>
+
+    <script id="select-template" type="text/x-handlebars-template">
+        {{#items}}
+            <option value="{{value}}">{{text}}</option>
+        {{/items}}
+    </script>
+</body>
+</html>

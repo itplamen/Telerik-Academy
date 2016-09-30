@@ -1,0 +1,36 @@
+<!--
+01. Implement a ComboBox control (like a dropdown list)
+    - The ComboBox holds a set of items (an array)
+    - Initially only a single item, the selected item, is visible
+    (the ComboBox is collapsed)
+    - When the selected item is clicked, all other items are
+    shown (the ComboBox is expanded)
+        - If an item is clicked, it becomes the selected item and the
+        ComboBox collapses
+    - Each of the items in a ComboBox can contain any valid
+    HTML code
+    - Use RequireJS and handlebars.js
+        - jQuery is not obligatory (use it if you will)
+-->
+
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <link type="text/css" rel="stylesheet" href="styles/style.css"/>
+    <script src="scripts/libs/require.js" data-main="scripts/app"></script>
+</head>
+<body>
+    <div id="combo-box"></div>
+
+    <script id="combo-box-template" type="text/x-handlebars-template">
+        {{#persons}}
+            <div class="person-item" id="person-item-{{id}}" >
+                <strong class="person-name">{{name}}</strong><p class="person-age">{{age}}</p>
+                <img src="{{avatarUrl}}" />
+            </div>
+        {{/persons}}
+    </script>
+</body>
+</html>

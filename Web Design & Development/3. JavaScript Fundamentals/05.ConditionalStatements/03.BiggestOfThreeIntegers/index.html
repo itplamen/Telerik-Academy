@@ -1,0 +1,57 @@
+﻿<!--03.Write a script that finds the biggest of three integers using nested if statements.-->
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <input type="text" placeholder="Enter first number: " id="firstNumber" /><br />
+    <input type="text" placeholder="Enter second number: " id="secondNumber" /><br />
+    <input type="text" placeholder="Enter third number: " id="thirdNumber" /><br />
+    <input type="button" value="show sign" onclick="findBiggestNumber()" />
+
+    <script>
+        function findBiggestNumber() {
+            var firstNumber = document.getElementById('firstNumber').value;
+            var secondNumber = document.getElementById('secondNumber').value;
+            var thirdNumber = document.getElementById('thirdNumber').value;
+
+            if (isNumbersValid(firstNumber, secondNumber, thirdNumber) == true) {
+                if (firstNumber == secondNumber && firstNumber == thirdNumber) {
+                    console.log('The numbers are equal!');
+                }else {
+                    if (firstNumber > secondNumber) {
+                        if (firstNumber > thirdNumber) {
+                            console.log('The biggest number is: ' + firstNumber);
+                        }
+                    }else {
+                        if (secondNumber > thirdNumber) {
+                            console.log('The biggest number is: ' + secondNumber);
+                        }else {
+                            console.log('The biggest number is: ' + thirdNumber);
+                        }
+                    }
+                }
+            } else {
+                console.log('Invalid number!');
+            }
+        }
+
+        function isNumbersValid(firstNumber, secondNumber, thirdNumber) {
+            if (isFinite(firstNumber) == true && isFinite(secondNumber) == true && isFinite(thirdNumber) == true) {
+                
+                // Check if numbers are integers.
+                if (parseInt(firstNumber) == parseFloat(firstNumber) &&
+                    parseInt(firstNumber) == parseFloat(firstNumber) &&
+                    parseInt(firstNumber) == parseFloat(firstNumber)) {
+                    
+                    return true;
+                }
+            } else {
+                return false;
+            }
+        }
+    </script>
+</body>
+</html>

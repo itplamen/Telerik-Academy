@@ -1,0 +1,20 @@
+<!--02.Create a function that gets the value of <input type="text"> ands prints its value to the console. -->
+
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+    <input type="text" id="textField"/>
+    <input type="button" value="Print" onclick="getValue()"/>
+
+    <script>
+        function getValue () {
+            var element = document.getElementById('textField');
+            alert('Value of input tag is: ' + element.value);
+        }
+    </script>
+</body>
+</html>

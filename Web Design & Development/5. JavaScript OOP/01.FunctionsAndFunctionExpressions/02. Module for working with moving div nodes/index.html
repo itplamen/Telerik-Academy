@@ -1,0 +1,33 @@
+<!--
+02. Create a module that works with moving div nodes.
+Implement functionality for:
+- Add new moving div element to the DOM
+    - The module should generate random background, font and
+    border colors for the div element
+    - All the div elements are with the same width and height
+- The movements of the div nodes can be either circular or
+rectangular
+- The elements should be moving all the time
+-->
+
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <style>
+        #add-div-btn {
+            float: right;
+            margin-top: 500px;
+            margin-right: 350px;
+        }
+    </style>
+</head>
+<body>
+    <script type="text/javascript" src="scripts/libs/jquery-2.1.3.min.js"></script>
+    <script type="text/javascript" src="scripts/Module.js"></script>
+    <script type="text/javascript">
+        Module.initializeDivElements(10);
+    </script>
+</body>
+</html>

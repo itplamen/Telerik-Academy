@@ -1,0 +1,49 @@
+<!--
+01. Implement the image.
+    - Use both circles and paths
+-->
+
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <style>
+        svg {
+            background-color: #f5ffe0;
+        }
+    </style>
+</head>
+<body>
+    <svg width="300" height="500">
+        <!-- Draw MEAN letters -->
+        <text x="30" y="100" fill="#3e3f37" font-size="30" font-weight="bold">M</text>
+        <text x="30" y="150" fill="#272726" font-size="30" font-weight="bold">E</text>
+        <text x="30" y="200" fill="#e23337" font-size="30" font-weight="bold">A</text>
+        <text x="30" y="250" fill="#8ec74e" font-size="30" font-weight="bold">N</text>
+
+        <!-- Draw circles -->
+        <circle r="50" cx="120" cy="100" fill="#3e3f37"></circle>
+        <path d="M 120 120 C 90 100 120 90 120 75" fill="#5eb14a"></path>
+        <path d="M 120 120 C 150 100 120 90 120 75" fill="#449644"></path>
+
+        <circle r="50" cx="120" cy="150" fill="#272726"></circle>
+        <text x="75" y="150" fill="#ffffff" font-size="23" font-weight="bold" font-family="Consolas">express</text>
+
+        <circle r="50" cx="120" cy="200" fill="#e23337"></circle>
+        <path d="M 100 210 L 93 180 L 120 168 M 120 166.89 M 100 210 H 120" stroke="#b3b2b2" fill="none" stroke-width="3"></path>
+        <path d="M 120 168 L 147 180 L 140 210 H 120" stroke="#b3b2b2" fill="#b63032" stroke-width="3"></path>
+        <path d=" M 118 168 L 121 168" stroke="#b3b2b2" fill="none" stroke-width="2"></path>
+        <path d="M 110 205 L 119.5 175 V 188 L 115 205 Z" stroke="#f1f0f0" fill="#f1f0f0" stroke-width="1"></path>
+        <path d="M 130 205 L 120.5 175 V 188 L 125 205 Z" stroke="#b3b3b3" fill="#b3b3b3" stroke-width="1"></path>
+
+        <circle r="50" cx="120" cy="250" fill="#8ec74e"></circle>
+        <path d="M 80 250 V 240 L 88 235 L 96 240 V 250 L 92 248 C 92 240 85 238 84 248 Z"fill="#47493F"></path>
+        <path d="M 103 246 V 240 L 110 235 L 117 240 V 246 L 110 250 Z" fill="#ffffff"></path>
+        <path d="M 126 246 V 240 L 133 235 L 140 240 V 246 L 133 250 Z M 136 238 V 225 L 140 228 V 240" fill="#47493F"></path>
+        <path d="M 130 244 V 242 L 133 240 L 136 242 V 244 L 133 246 Z" fill="#8ec74e"></path>
+        <path d="M 148 248 V 240 L 155 235 L 162 240 V 243 L 158 245 V 242 L 155 240 L 152 242 V 246 L 162 252 L 157 253 Z" fill="#47493F"></path>
+        <path d="M 153.5 245 V 243.5 L 155 242.2 L 156.5 243.5 V 245 L 155 246.2 Z" fill="#ffffff"></path>
+    </svg>
+</body>
+</html>

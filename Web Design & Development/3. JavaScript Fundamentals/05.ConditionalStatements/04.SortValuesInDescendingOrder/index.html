@@ -1,0 +1,58 @@
+﻿<!--04.Sort 3 real values in descending order using nested if statements.-->
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <input type="text" placeholder="Enter first number: " id="firstNumber" /><br />
+    <input type="text" placeholder="Enter second number: " id="secondNumber" /><br />
+    <input type="text" placeholder="Enter third number: " id="thirdNumber" /><br />
+    <input type="button" value="show sign" onclick="sortNumbers()" />
+
+    <script>
+        function sortNumbers() {
+            var firstNumber = document.getElementById('firstNumber').value;
+            var secondNumber = document.getElementById('secondNumber').value;
+            var thirdNumber = document.getElementById('thirdNumber').value;
+
+            if (isNumbersValid(firstNumber, secondNumber, thirdNumber) == true) {
+                if (firstNumber == secondNumber && firstNumber == thirdNumber) {
+                    console.log('The numbers are equal!');
+                }else {
+                    if (firstNumber > secondNumber) {
+                        if (firstNumber > thirdNumber) {
+                            if (secondNumber > thirdNumber) {
+                                console.log(firstNumber, secondNumber, thirdNumber);
+                            }else {
+                                console.log(firstNumber, thirdNumber, secondNumber);
+                            }
+                        }else {
+                            console.log(thirdNumber, firstNumber, secondNumber);
+                        }
+                    }else if (secondNumber > thirdNumber) {
+                        if (firstNumber > thirdNumber) {
+                            console.log(secondNumber, firstNumber, thirdNumber);
+                        }else {
+                            console.log(secondNumber, thirdNumber, firstNumber);
+                        }
+                    }else {
+                        console.log(thirdNumber, secondNumber, firstNumber);
+                    }
+                }
+            } else {
+                console.log('Invalid number!');
+            }
+        }
+
+        function isNumbersValid(firstNumber, secondNumber, thirdNumber) {
+            if (isFinite(firstNumber) == true && isFinite(secondNumber) == true && isFinite(thirdNumber) == true) {
+                return true;
+            } else {
+                return false;
+            }
+        }
+    </script>
+</body>
+</html>

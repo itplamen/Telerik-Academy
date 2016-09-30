@@ -1,0 +1,34 @@
+﻿<!--04.Write a script that finds the lexicographically smallest and largest property in document, window and navigator objects-->
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+   <script>
+       function getProperties(obj) {
+           var array = [];
+
+           for (var prop in obj) {
+               array.push(prop);
+           }
+
+           array.sort();
+           
+           console.log('Smallest: ' + array.shift());
+           console.log('Largest: ' + array.pop());
+           console.log('----------------------------')
+       }
+
+       console.log('Document: ');
+       getProperties(document)
+
+       console.log('Windows: ');
+       getProperties(window);
+
+       console.log('Navigator: ');
+       getProperties(navigator);
+    </script>
+</body>
+</html>

@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <style>
+        canvas{
+            margin-left: 250px;
+            border: 1px solid black;
+        }
+    </style>
+</head>
+<body>
+    <canvas id="the-canvas" width="800" height="500">This is not supported for your browser!</canvas>
+    <script>
+        drawBicycle();
+
+        function drawBicycle () {
+            var canvas = document.getElementById('the-canvas');
+            var context = canvas.getContext('2d');
+
+            var x = 100;
+            var y = 250;
+
+            context.fillStyle = '#8EC8D4';
+            context.strokeStyle = '#518B97';
+            context.lineWidth = 2;
+
+            drawWheels(context, x, y);
+            drawBicycleFrame(context, x, y);
+            drawBicycleSeat(context, x, y);
+            drawBicycleSteeringWheel(context, x, y);
+            drawBicyclePedals (context, x, y);
+        }
+
+        function drawWheels(context, x, y){
+            var numberOfWheels = 2;
+            var wheelX = x;
+            var wheelY = y + 150;
+            var radius = 60;
+
+            for (var i = 1; i <= numberOfWheels; i++) {
+                if (i === 1) {
+                    wheelX += 100;
+                }
+                else if (i === 2) {
+                    wheelX += 300;
+                }
+
+                drawWheel (context, wheelX, wheelY, radius);
+            }
+        }
+
+        function drawWheel(context, x, y, radius){
+            context.beginPath();
+            context.arc(x, y, radius, 0, 2 * Math.PI);
+            context.fill();
+            context.stroke();
+        }
+
+        function drawBicycleFrame(context, x, y) {
+            context.moveTo(x + 100, y + 150);
+            context.lineTo(x + 200, y + 70);
+            context.lineTo(x + 350, y + 70);
+            context.lineTo(x + 250, y + 150);
+            context.lineTo(x + 100, y + 150);
+            context.stroke();
+        }
+
+        function drawBicycleSeat (context, x, y) {
+            // Seat frame
+            context.beginPath();
+            context.moveTo(x + 250, y + 150);
+            context.lineTo(x + 175, y + 30);
+            context.stroke();
+
+            // Seat
+            context.beginPath();
+            context.moveTo(x + 145, y + 30);
+            context.lineTo(x + 205, y + 30);
+            context.stroke();
+        }
+
+        function drawBicycleSteeringWheel (context, x, y) {
+            context.beginPath();
+            context.moveTo(x + 400, y + 150);
+            context.lineTo(x + 325, y + 30);
+            context.lineTo(x + 280, y + 50);
+            context.moveTo(x + 325, y + 30);
+            context.lineTo(x + 340, y);
+            context.stroke();
+        }
+
+        function drawBicyclePedals (context, x, y) {
+            context.beginPath();
+            var radius = 17;
+            context.arc(x + 250, y + 150, radius, 0, 2 * Math.PI);
+            context.stroke();
+
+            // Pedals
+            context.beginPath();
+            context.moveTo(x + 235, y + 145);
+            context.lineTo(x + 205, y + 135);
+            context.stroke();
+            context.beginPath();
+            context.moveTo(x + 265, y + 155);
+            context.lineTo(x + 295, y + 165);
+            context.stroke();
+        }
+    </script>
+</body>
+</html>

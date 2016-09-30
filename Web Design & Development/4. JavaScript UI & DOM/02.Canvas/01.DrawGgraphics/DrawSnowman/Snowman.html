@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <style>
+        #the-canvas{
+            border: 1px solid black;
+        }
+    </style>
+</head>
+<body>
+    <canvas id="the-canvas" width="1000" height="500"></canvas>
+
+    <script>
+        window.onload = function() {
+            var canvas = document.getElementById('the-canvas');
+            var context = canvas.getContext('2d');
+            var snowman = new Snowman(context, 300, 300);
+        };
+
+        function Snowman (context, x, y) {
+            this.x = x;
+            this.y = y;
+            this.fillColor = '#8EC8D4';
+            this.strokeColor = '#396693';
+
+            this.drawHead = drawHead(context, this.x, this.y, 60, this.strokeColor, this.fillColor);
+            this.drawFace = drawFace(context, this.x, this.y, 10, this.strokeColor);
+            this.drawHat = drawHat(context, this.x - 225, this.y - 60, 20, this.strokeColor);
+        }
+
+        function drawHead (context, x, y, radius, strokeColor, fillColor) {
+            context.beginPath();
+            context.arc(x, y, radius, 0, 2 * Math.PI);
+            context.strokeStyle = strokeColor;
+            context.fillStyle = fillColor;
+            context.lineHeight = 2;
+            context.fill();
+            context.stroke();
+        }
+
+        function drawFace (context, x, y, radius, strokeColor) {
+            drawEye(context, x - 120, y - 20, 8, strokeColor);
+            drawEyeball(context,  x - 120,  y - 20, 3, strokeColor);
+            drawEye(context, x - 90, y - 20, 8, strokeColor);
+            drawEyeball(context,  x - 120,  y - 65, 3, strokeColor)
+            drawNose(context, x, y, strokeColor);
+            drawMouth(context, x, y, 8, strokeColor);
+        }
+
+        function drawEye (context, x, y, radius, strokeColor) {
+            context.save();
+            context.scale(1.5, 1);
+            context.beginPath();
+            context.arc(x, y, radius, 0, 2 * Math.PI);
+            context.strokeStyle = strokeColor;
+            context.lineWidth = 2;
+            context.stroke();
+            context.restore();
+        }
+
+        function drawEyeball (context, x, y, radius, fillColor) {
+            context.save();
+            context.rotate(Math.PI / 2);
+            context.save();
+            context.scale(2, 1);
+            context.beginPath();
+            context.arc(x - 40, y - 545, radius, 0, 2 * Math.PI);
+            context.restore();
+            context.fillStyle = fillColor;
+            context.fill();
+            context.restore();
+        }
+
+        function drawNose (context, x, y, strokeColor) {
+            context.beginPath();
+            context.moveTo(x - 5, y - 20);
+            context.lineTo(x - 20, y + 10);
+            context.lineTo(x - 5, y + 10);
+            context.lineWidth = 2;
+            context.strokeStyle = strokeColor;
+            context.stroke();
+        }
+
+        function drawMouth (context, x, y, radius, strokeColor) {
+            context.save();
+            context.rotate(Math.PI / 17);
+            context.save();
+            context.scale(3, 1);
+            context.beginPath();
+            context.arc(x - 185, y - 25, radius, 0, 2 * Math.PI);
+            context.strokeStyle = strokeColor;
+            context.lineWidth = 1.5;
+            context.restore()
+            context.stroke();
+            context.restore();
+        }
+
+        function drawHat (context, x, y, radius, fillColor) {
+            context.save();
+            context.scale(4, 1);
+            context.beginPath();
+            context.arc(x, y, radius, 0, 2 * Math.PI);
+            context.lineWidth = 1;
+            context.fillStyle = fillColor;
+            context.fill();
+            context.stroke();
+            context.restore();
+
+            drawCylinder(context, x, y, 20, fillColor);
+        }
+
+        function drawCylinder (context, x, y, radius, filColor) {
+            context.beginPath();
+            context.rect(x + 185, y - 80, x + 5, y - 150);
+            context.fillStyle = filColor;
+            context.fill();
+
+            context.beginPath();
+            context.save();
+            context.scale(2, 1);
+            context.arc(x + 75, y - 80, radius, 0, 2 * Math.PI);
+            context.fill();
+            context.restore();
+        }
+    </script>
+</body>
+</html>

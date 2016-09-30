@@ -1,0 +1,50 @@
+<!--
+ 01. Create a jQuery plugin for creating dropdown list
+    - By given the following:
+    <select id="dropdown">
+        <option value="1">One</option>
+        <option value="2">Two</option>
+    </select>
+
+    - Produces the following HTML:
+    <select id="dropdown" style="display: none">…</select>
+    <div class="dropdown-list-container">
+        <ul class="dropdown-list-options">
+            <li class="dropdown-list-option" data-value="0">One</li>
+            …
+        </ul>
+    </div>
+
+    - And make it work as SELECT node
+        - Selecting an one of the generated LI nodes, selects the
+        corresponding OPTION node
+            - So $('#dropdown:selected') works
+-->
+
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <link type="text/css" rel="stylesheet" href="css/style.css"/>
+    <script src="../libs/jquery-2.1.3.min.js"></script>
+    <script type="text/javascript" src="scripts/script.js"></script>
+</head>
+<body>
+    <img id="show-hide-list" src="images/show.png"/>
+
+    <select id="dropdown">
+        <option value="1">One</option>
+        <option value="2">Two</option>
+        <option value="3">Three</option>
+        <option value="4">Four</option>
+        <option value="5">Five</option>
+        <option value="6">Six</option>
+        <option value="7">Seven</option>
+    </select>
+
+    <script type="text/javascript">
+        $('#dropdown').dropdown();
+    </script>
+</body>
+</html>

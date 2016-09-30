@@ -1,0 +1,47 @@
+﻿<!--03.Write a script that finds the maximal sequence of equal elements in an array.
+Example: {2, 1, 1, 2, 3, 3, 2, 2, 2, 1}  {2, 2, 2}.-->
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        var array = [2, 1, 1, 2, 3, 3, 2, 2, 2, 1];
+        findMaximalSequence(array);
+
+        function findMaximalSequence(array) {
+            var currentLength = 1;
+            var maxLength = 0;
+            var number;
+
+            for (var i = 0; i < array.length - 1; i++) {
+
+                if (array[i] === array[i + 1]) {
+                    currentLength++;
+
+                    if (currentLength > maxLength) {
+                        maxLength = currentLength;
+                        number = array[i];
+                    }
+                }
+                else {
+                    currentLength = 1;
+                }
+
+            }
+
+            printSequence(number, maxLength);
+        }
+
+        function printSequence(number, maxLength) {
+
+            while (maxLength > 0) {
+                console.log(number);
+                maxLength--;
+            }
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,42 @@
+﻿<!--04.Write a script that finds the maximal increasing sequence in an array. Example: {3, 2, 3, 4, 2, 2, 4}  {2, 3, 4}.-->
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        var array = [3, 2, 3, 4, 2, 2, 4];
+        findSequence(array);
+
+        function findSequence(array) {
+            var currentCounter = 1;
+            var maxCounter = 0;
+            var endIndex = 0;
+
+            for (var i = 0; i < array.length - 1; i++) {
+                if (array[i] < array[i + 1]) {
+                    currentCounter++;
+
+                    if (currentCounter > maxCounter) {
+                        maxCounter = currentCounter;
+                        endIndex = i + 1;
+                    }
+                }
+                else {
+                    currentCounter = 1;
+                }
+            }
+
+            printSequence(array, endIndex - maxCounter, endIndex);
+        }
+
+        function printSequence(array, starIndex, endIndex) {
+            for (var i = starIndex + 1; i <= endIndex; i++) {
+                console.log(array[i]);
+            }
+        }
+    </script>
+</body>
+</html>

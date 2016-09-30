@@ -1,0 +1,50 @@
+﻿<!--01.Write an if statement that examines two integer variables and exchanges their values if the first one is greater than the second one.-->
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <input type="text" placeholder="Enter first number: " id="firstNumber" />
+    <input type="text" placeholder="Enter second number: " id="secondNumber" /><br />
+    <input type="button" value="check" onclick="checkNumbers()" />
+
+    <script>
+        function checkNumbers() {
+            var firstNumber = document.getElementById('firstNumber').value;
+            var secondNumber = document.getElementById('secondNumber').value;
+
+            if (isNumbersValid(firstNumber, secondNumber) === true) {
+                if (firstNumber > secondNumber) {
+                    var thirdNumber = firstNumber;
+                    firstNumber = secondNumber;
+                    secondNumber = thirdNumber;
+
+                    console.log('Exchange numbers...');
+                    console.log('First number is: ' + firstNumber);
+                    console.log('Second number is: ' + secondNumber);
+                } else {
+                    console.log('First number isnt greater than second numbr!');
+                    console.log('First number is: ' + firstNumber);
+                    console.log('Second number is: ' + secondNumber);
+                }
+            } else {
+                console.log('Invalid number!');
+            }
+        }
+
+        function isNumbersValid(firstNumber, secondNumber) {
+            if (isFinite(firstNumber) === true && isFinite(secondNumber) === true) {
+                
+                // Check if numbers are integers.
+                if (parseInt(firstNumber) == parseFloat(firstNumber) && parseInt(secondNumber) == parseFloat(secondNumber)) {
+                    return true;
+                }
+            } else {
+                return false;
+            }
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,14 @@
+div#container {
+    border: 1px solid black;
+    width: 1300px;
+    height: 500px;
+    margin: 0 auto;
+}
+
+#number-of-divs, #create-btn {
+    margin-bottom: 10px;
+}
+
+div.generated-div {
+    position: absolute;
+}

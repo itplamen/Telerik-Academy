@@ -1,0 +1,86 @@
+﻿<!--08.Write a script that converts a number in the range [0...999] to a text corresponding to its English pronunciation. Examples:
+	0  'Zero'
+	273  'Two hundred seventy three'
+	400  'Four hundred'
+	501  'Five hundred and one'
+	711  'Seven hundred and eleven'-->
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <input type="text" placeholder="Enter integer number: " id="number" />
+    <input type="button" value="convert" onclick="convertNumberToText()" />
+    
+    <script>
+        function convertNumberToText() {
+            var number = document.getElementById('number').value;
+
+            if (isNumberValid(number)) {
+                var fromZeroToNine = ['zero', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine'];
+                var fromTenToNineteen = ['ten', 'eleven', 'twelve', 'thirteen', 'fourteen', 'fifteen', 'sixteen', 'seventeen', 'eighteen', 'nineteen'];
+                var fromTwentyToHundred = ['twenty', 'thirty', 'fourty', 'fifty', 'sixty', 'seventy', 'eighty', 'ninety'];
+
+                var firstDigit = parseInt(number / 100);
+                var secondDigit = (parseInt(number / 10)) % 10;
+                var thirdDigit = number % 10;
+                var numberAsText = '';
+
+                if (number >= 100) {
+                    numberAsText += fromZeroToNine[firstDigit] + ' hundred ';
+                    if (secondDigit > 1) {
+                        if (thirdDigit != 0) {
+                            numberAsText += fromTwentyToHundred[secondDigit - 2] + ' ' + fromZeroToNine[thirdDigit];
+                        }
+                        else {
+                            numberAsText += fromTwentyToHundred[secondDigit - 2];
+                        }
+                    }
+                    else if (secondDigit == 1) {
+                        numberAsText += 'and ' + fromTenToNineteen[thirdDigit];
+                    }
+                    else {
+                        if (thirdDigit != 0) {
+                            numberAsText += 'and ' + fromZeroToNine[thirdDigit];
+                        }
+                    }
+                }
+                else {
+                    if (secondDigit > 1) {
+                        if (thirdDigit != 0) {
+                            numberAsText += fromTwentyToHundred[secondDigit - 2] + ' ' + fromZeroToNine[thirdDigit];
+                        }
+                        else {
+                            numberAsText += fromTwentyToHundred[secondDigit - 2];
+                        }
+                    }
+                    else if (secondDigit == 1) {
+                        numberAsText += fromTenToNineteen[thirdDigit];
+                    }
+                    else {
+                        numberAsText += fromZeroToNine[thirdDigit];
+                    }
+                }
+                console.log(numberAsText);
+            }
+            else {
+                console.log('Invalid number!');
+            }
+        }
+
+        function isNumberValid(number) {
+            if (number >= 0 && number <= 999) {
+
+                // Check if number is integer.
+                if (parseInt(number) == parseFloat(number)) {
+                    return true;
+                }
+            } else {
+                return false;
+            }
+        }
+    </script>
+</body>
+</html>

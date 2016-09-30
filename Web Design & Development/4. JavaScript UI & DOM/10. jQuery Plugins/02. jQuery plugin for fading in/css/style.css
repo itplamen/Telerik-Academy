@@ -1,0 +1,36 @@
+#message-box {
+    border: 1px solid lightgreen;
+    border-radius: 10px;
+    margin-left: 10px;
+    float: left;
+}
+
+.success-message, .error-message, .email-check-message,
+.password-check-message {
+    margin: 20px;
+    border-radius: 10px;
+    width: 200px;
+    height: 35px;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 15px;
+    float: left;
+}
+
+.success-message {
+    background-color: lightgreen;
+}
+
+.email-check-message {
+    background-color: purple;
+}
+
+.password-check-message {
+    background-color: green;
+}
+
+.error-message {
+    background-color: red;
+}
+
+

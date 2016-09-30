@@ -1,0 +1,111 @@
+﻿body {
+    width: 910px;
+    height: 650px;
+    background-color: lightgray;
+    border: 1px solid black;
+    margin:  2px auto;
+    font-family: Verdana, sans-serif;
+    font-size: 12px;
+    position: relative;
+}
+
+nav  {
+    float: left;
+    margin: 2px;
+}
+
+div.home a {
+    font-weight: bold;
+}
+
+nav li {
+    list-style-type: none;
+    margin-left: -40px;
+    color: darkred;
+}
+
+nav a {
+    text-decoration: none;
+    color: #000;
+}
+
+     nav a:hover {
+        text-decoration: underline;
+        font-weight: bold;
+    }
+
+nav li:first-child{
+    font-weight: bold;
+}
+
+header:after, footer:after, footer:before{
+    content: "";
+    display: block;
+    width: 600px;
+    border-bottom: 2px solid gray;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+div.container input[type="button"] {
+    width: 110px;
+    height: 22px;
+    border: 1px solid black;
+    background-color: #fff;
+}
+
+div.container {
+    border: 2px solid gray;
+    width: 600px;
+    margin: 2px 146px;
+    padding: 5px 4px 35px 4px;
+    background-color: #fff;
+}
+
+section a, aside a{
+    color: darkred;
+}
+
+h2 {
+    background-color: #808080;
+    color: #fff;
+}
+
+section img {
+    float: left;
+    margin-left: 10px;
+    margin-right: 20px;
+}
+
+aside {
+    width: 150px;
+    height: auto;
+    text-align: center;
+    position: absolute;
+    top: 2px;
+    left: 757px;
+}
+
+    aside h2 {
+        margin-top: 0px;
+    }
+
+    aside input[type="text"] {
+        width: 100px;
+    }
+
+    aside input[type="button"] {
+        border-radius: 5px;
+        width: 25px;
+        height: 20px;
+        background-color: #fff;
+        font-weight: bold;
+    }
+
+    aside div {
+        margin-bottom: 3px;
+        margin-left: 3px;
+        padding: 2px;
+        border: 2px solid gray;
+        background-color: #fff;
+    }

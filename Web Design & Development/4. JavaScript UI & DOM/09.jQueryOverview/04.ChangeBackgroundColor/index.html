@@ -1,0 +1,21 @@
+<!-- 04.Implement functionality to change the background color of a web page
+- i.e. select a color from a color picker and set this color as the background color of the page -->
+
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <script type="text/javascript" src="../includes/jquery-2.1.3.min.js"></script>
+</head>
+<body>
+    <input type="color"/>
+
+    <script>
+        var $color = $('input[type="color"]');
+        $color.on('change', function() {
+            $('body').css('background-color', $color.val());
+        });
+    </script>
+</body>
+</html>

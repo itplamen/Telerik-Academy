@@ -1,0 +1,54 @@
+﻿div.container {
+    width: 420px;
+    border-radius: 10px;
+    background-color: #dccdcd;
+    padding: 10px;
+}
+
+div.header p{
+    font-size: 20px;
+    margin: 10px 0px 30px 10px;
+}
+
+div.article {
+    border: 1px solid #7d7777;
+    height: 140px;
+    width: 390px;
+    margin: 10px;
+    background-color: #fff;
+}
+
+.listenButton {
+    position: absolute;
+    left: 220px;
+}
+
+.addButton {
+    position: absolute;
+    left: 300px;
+}
+
+img.pic{
+    border: 1px solid #7d7777;
+    float: left;
+    margin: 10px;
+}
+
+span {
+    position:relative;
+    color: #fff;
+}
+
+.listen {
+    left: 70px;
+    top: 5px;
+}
+
+.add {
+    left: 100px;
+    top: 5px;
+}
+
+p {
+    margin-top: 10px;
+}

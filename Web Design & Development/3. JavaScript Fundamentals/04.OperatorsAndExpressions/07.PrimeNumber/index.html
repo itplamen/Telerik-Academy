@@ -1,0 +1,46 @@
+﻿<!--07.Write an expression that checks if given positive integer number n (n ≤ 100) is prime. E.g. 37 is prime.-->
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <input type="text" placeholder="Enter positive number: " id="integerNumber" />
+    <input type="button" value="check" onclick="checkNumber()" />
+
+    <script>
+        function checkNumber() {
+            var number = document.getElementById('integerNumber').value;
+
+            if (isNumberValid(number) == true) {
+                if (isPrime(number) == true) {
+                    console.log('The number is prime!');
+                } else {
+                    console.log('The number is NOT prime!');
+                }
+            } else {
+                console.log('Invalid number!');
+            }
+        }
+
+        function isPrime(number) {
+            for (var i = 2; i < number; i++) {
+                if (number % i == 0) {
+                    return false;
+                }
+            }
+
+            return true;
+        }
+
+        function isNumberValid(number) {
+            if (parseInt(number) <= 100) {
+                return true;
+            } else {
+                return false;
+            }
+        }
+    </script>
+</body>
+</html>

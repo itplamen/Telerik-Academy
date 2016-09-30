@@ -1,0 +1,40 @@
+#canvas-container {
+    width: 800px;
+    height: 500px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-left: 280px;
+    position: absolute;
+}
+
+#select {
+    width: 250px;
+    height: 200px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+select, label {
+    margin-left: 10px;
+}
+
+#stroke-color {
+    margin-left: 26px;
+}
+
+#fill-color {
+    margin-left: 45px;
+}
+
+#stroke-width {
+    margin-left: 22px;
+}
+
+select, #stroke-color, #fill-color, #stroke-width {
+    width: 90px;
+    margin-top: 20px;
+}
+
+
+
+

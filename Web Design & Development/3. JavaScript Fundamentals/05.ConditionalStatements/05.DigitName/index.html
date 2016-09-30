@@ -1,0 +1,68 @@
+﻿<!--05.Write script that asks for a digit and depending on the input shows the name of that digit (in English) using a switch statement.-->
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <input type="text" placeholder="Enter digit: " id="digit" />
+    <input type="button" value="show name" onclick="showDigitName()" />
+
+    <script>
+        function showDigitName() {
+            var digit = document.getElementById('digit').value;
+
+            if (isDigitValid(digit) == true) {
+                digit = parseInt(digit);
+
+                switch (digit) {
+                    case 0:
+                        console.log('Zero');
+                        break;
+                    case 1:
+                        console.log('One');
+                        break;
+                    case 2:
+                        console.log('Two');
+                        break;
+                    case 3:
+                        console.log('Three');
+                        break;
+                    case 4:
+                        console.log('Four');
+                        break;
+                    case 5:
+                        console.log('Five');
+                        break;
+                    case 6:
+                        console.log('Six');
+                        break;
+                    case 7:
+                        console.log('Seven');
+                        break;
+                    case 8:
+                        console.log('Eight');
+                        break;
+                    case 9:
+                        console.log('Nine');
+                        break;
+                    default:
+                        console.log('There is no such digit!');
+                        break;
+                }
+            } else {
+                console.log('Invalid digit!');
+            }
+        }
+
+        function isDigitValid(digit) {
+            if (isFinite(digit) == true && digit >= 0 && digit <= 9) {
+                return true;
+            } else {
+                return false;
+            }
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,28 @@
+#dropdown {
+    display: none;
+}
+
+.dropdown-list-container {
+    margin-left: 200px;
+    width: 140px;
+    margin-top: -50px;
+}
+
+.dropdown-list-option {
+    list-style-type: none;
+    border-radius: 10px;
+    width: 70px;
+    height: 35px;
+    margin-top: 5px;
+    text-align: center;
+    padding-top: 15px;
+    background-color: #4f93ef;
+    color: white;
+    cursor: context-menu;
+}
+
+#show-hide-list {
+    width: 40px;
+    height: 40px;
+    margin-left: 350px;
+}

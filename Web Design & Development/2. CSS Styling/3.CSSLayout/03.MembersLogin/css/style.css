@@ -1,0 +1,56 @@
+﻿body {
+    background-color: #534d4d;
+}
+
+header {
+    background-color: #312d2d;
+    border-radius: 10px;
+    width: 700px;   
+}
+
+    header input[type="text"] {
+        position: relative;
+        left: 30px;
+        bottom: 12px;
+    }
+
+img {
+    padding-left: 10px;
+}
+
+.goImg {
+    padding-left: 40px;
+}
+
+label {
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 23px;
+    color: #fff;
+    position: relative;
+    bottom: 10px;
+    left: 20px;
+}
+
+section {
+    width: 600px;
+}
+
+span {
+    color: #fff;
+}
+
+    span.go {
+        position: relative;
+        right: 48px;
+        bottom: 12px;
+    }
+
+p {
+    margin: 10px;
+}
+
+p.aboutText {
+    font-size: 30px;
+    color: #4cff00;
+}

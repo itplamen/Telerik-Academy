@@ -1,0 +1,53 @@
+﻿<!--06.Write a script that enters the coefficients a, b and c of a quadratic equation.
+a*x2 + b*x + c = 0-->
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <input type="text" placeholder="Enter a: " id="numberA" />
+    <input type="text" placeholder="Enter b: " id="numberB" />
+    <input type="text" placeholder="Enter c: " id="numberC" />
+    <input type="button" value="show name" onclick="calculateQuadraticEquation()" />
+
+    <script>
+        function calculateQuadraticEquation() {
+            var a = document.getElementById('numberA').value;
+            var b = document.getElementById('numberB').value;
+            var c = document.getElementById('numberC').value;
+
+            if (isNumbersValid(a, b, c)) {
+                var d = (b * b) - (4 * a * c);
+                var x1 = 0;
+                var x2 = 0;
+
+                if (d < 0) {
+                    console.log('D < 0 -> The equation has no solution');
+                }else if (d == 0) {
+                    console.log('D = 0 -> x1 = -b / (2*a)');
+                    x1 = -b / (2 * a);
+                    console.log('x1 = ' + x1);
+                }else {
+                    console.log('D > 0 -> x1 = (-b - sqrt(d)) / 2  *a ,  x2 =(-b + sqrt(d)) / 2 * a');
+                    x1 = (-b - Math.sqrt(d)) / (2 * a);
+                    x2 = (-b + Math.sqrt(d)) / (2 * a);
+
+                    console.log('x1 = ' + x1 + '\n' + 'x2 = ' + x2);
+                }
+            } else {
+                console.log('Invalid number!');
+            }
+        }
+
+        function isNumbersValid(a, b, c) {
+            if (isFinite(a) && isFinite(b) && isFinite(c)) {
+                return true;
+            } else {
+                return false;
+            }
+        }
+    </script>
+</body>
+</html>

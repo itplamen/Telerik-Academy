@@ -1,0 +1,35 @@
+﻿<!--03.Write an expression that calculates rectangle’s area by given width and height.-->
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <input type="text" placeholder="Enter width: " id="width" />
+    <input type="text" placeholder="Enter height: " id="height" />
+    <input type="button" value="calculate" onclick="calcualteArea()" />
+
+    <script>
+        function calcualteArea() {
+            var width = document.getElementById('width').value;
+            var height = document.getElementById('height').value;
+
+            if (isWidthAndHeightValid(width, height) == true) {
+                console.log('Rectangle area is: ' + (width * height));
+            } else {
+                console.log('Invalid value!');
+            }
+        }
+
+        function isWidthAndHeightValid(width, height) {
+
+            if (width < Number.MAX_VALUE && width > Number.MIN_VALUE && height < Number.MAX_VALUE && height > Number.MIN_VALUE) {
+                return true;
+            } else {
+                return false;
+            }
+        }
+    </script>
+</body>
+</html>

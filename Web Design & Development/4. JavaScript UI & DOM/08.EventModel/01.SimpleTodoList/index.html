@@ -1,0 +1,42 @@
+<!-- 01.Create a TODO list with the following UI controls
+- Form input for new Item
+- Button for adding the new Item
+- Button for deleting some item
+- Show and Hide Button -->
+
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>01.TODO list</title>
+    <link type="text/css" rel="stylesheet" href="styles/style.css"/>
+    <script type="text/javascript" src="scripts/libs/require.js" data-main="scripts/app"></script>
+    <script type="text/javascript" src="scripts/libs/jquery-2.1.3.min.js"></script>
+</head>
+<body>
+    <div id="container">
+        <header>
+            <p>TODO List...</p>
+        </header>
+        <section>
+            <form id="add-show-tasks">
+                <input type="button" id="new-task-btn" value="New task"/>
+                <input type="button" id="show-tasks-btn" value="Show tasks"/>
+                <input type="button" id="hide-tasks-btn" value="Hide"/>
+            </form>
+
+            <div id="create-task-box">
+                <input type="submit" id="add-task-btn" value="Add"/>
+                <input type="text" id="task-title" placeholder="Task title..." maxlength="26"/>
+                <textarea id="task-content" placeholder="Task content..." maxlength="490"></textarea>
+            </div>
+
+            <div id="tasks-list-box"></div>
+
+            <div id="show-current-task-box"></div>
+
+            <div id="edit-current-task-box"></div>
+        </section>
+    </div>
+</body>
+</html>

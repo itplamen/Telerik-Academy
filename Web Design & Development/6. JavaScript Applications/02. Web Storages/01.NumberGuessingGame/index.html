@@ -1,0 +1,64 @@
+<!--
+01.Create a simple number guessing game
+- The computer generates a random number with four different digits
+    - The leftmost digit must not be 0 (zero)
+    - For simplicity called abcd
+- At each turn the player enters a four-digit number
+    - For simplicity called xyzw
+- When the game ends:
+    - Ask the player for a nickname
+    - Save the nickname inside the localStorage
+- Implement a high-score list
+- Sheep means that a digit from xyzw is contained in abcd, but not on the same position
+    - If two such digits exists, the sheep are 2
+- Ram means that a digit from xyzw is contained in abcd and it is on the same position
+    - If two such digits exists, the rams are 2
+- The game continues until the player guesses the number abcd
+    - i.e. has 4 rams
+-->
+
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <link type="text/css" rel="stylesheet" href="styles/style.css"/>
+    <script type="text/javascript" src="scripts/libs/jquery-2.1.3.min.js"></script>
+</head>
+<body>
+    <h2 id="game-title">Bulls and Cows</h2>
+    <div id="container">
+        <div id="levels-box">Select level:
+            <div id="easy-level">Easy</div>
+            <div id="medium-level">Medium</div>
+            <div id="hard-level">Hard</div>
+        </div>
+
+        <div id="result-from-guessing-box"></div>
+
+        <div id="status-box">
+            <p id="selected-level">Level: <span></span></p>
+            <p id="shots">Shots: <span></span></p>
+            <p id="message">Message: <span></span></p>
+        </div>
+
+        <div id="input-number-box">
+            <input type="text" id="enter-number-field" placeholder="Enter number"/>
+            <input type="submit" id="submit-btn"/>
+        </div>
+
+        <div id="game-end-box">
+            <h2 id="game-end-status"></h2>
+            <p id="generated-number">The number was: </p>
+            <label for="nickname">Enter nickname: </label>
+            <input type="text" id="nickname"/>
+            <input type="button" value="OK" id="ok-btn"/>
+        </div>
+
+    </div>
+
+    <script type="text/javascript" src="scripts/Modules/Game.js"></script>
+    <script type="text/javascript" src="scripts/Modules/Variables.js"></script>
+    <script type="text/javascript" src="scripts/events.js"></script>
+</body>
+</html>

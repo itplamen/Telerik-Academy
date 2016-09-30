@@ -1,0 +1,33 @@
+﻿table {
+    border-collapse: collapse;
+    border: 1px;
+    width: 500px;
+}
+
+thead {
+    text-align: left;
+    background-color: #33CC00;
+    color: #fff;
+
+}
+
+th {
+    border: 1px solid #D4D4CA;
+    padding: 5px;
+}
+
+td
+{
+    padding: 5px;
+    border-left: 1px solid #D4D4CA;
+    border-right: 1px solid #D4D4CA
+}
+
+input[type="image"] {
+    width: 15px;
+    height: 15px;
+}
+
+.bg_color {
+    background-color:#F5F0E6;
+}

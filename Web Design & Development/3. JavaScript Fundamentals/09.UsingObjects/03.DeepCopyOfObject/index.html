@@ -1,0 +1,53 @@
+﻿<!--03.Write a function that makes a deep copy of an object
+-The function should work for both primitive and reference types-->
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        function deepCopy(element) {
+            if (typeof element === 'object') {
+                var currentObj = new Object();
+                for (var property in element) {
+                    currentObj[property] = deepCopy(element[property]);
+                }
+
+                return currentObj;
+            }
+            else {
+                return element;
+            }
+        }
+
+        var number = 5;
+        var numberResult = deepCopy(number);
+        console.log('Number: ' + numberResult);
+
+        var string = 'JavaScript';
+        var stringResult = deepCopy(string);
+        console.log('String: ' + stringResult);
+
+        var array = [1, 2, 3, 'copy'];
+        var resultArray = deepCopy(array);
+        console.log('Array: ');
+        for (var i = 0; i < array.length; i++) {
+            console.log(array[i]);
+        }
+
+        var obj = {
+            firstName: 'Plamen',
+            lastName: 'Georgiev',
+            age: 23
+        }
+
+        var resultObj = deepCopy(obj);
+        console.log('Object: ');
+        for (var property in resultObj) {
+            console.log(property + ' -> ' + resultObj[property]);
+        }
+    </script>
+</body>
+</html>

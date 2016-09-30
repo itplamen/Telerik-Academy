@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        var numbers = [1, -9, 16, 9.9, 13.3, -81, 1, 0, 17.1];
+        console.log('Max numebr is: ' + findMaxNumber(numbers));
+        console.log('Min number is: ' + findMinNumber(numbers));
+
+        function findMaxNumber(numbers) {
+            var currentMaxNumber = 0;
+            var maxNumber = 0;
+
+            for (var index in numbers) {
+                currentMaxNumber = numbers[index];
+
+                if (currentMaxNumber > maxNumber) {
+                    maxNumber = currentMaxNumber;
+                }
+            }
+
+            return maxNumber
+        }
+
+        function findMinNumber(numbers) {
+            var currentMinNumber = 0;
+            var minNumber = 0;
+
+            for (var index in numbers) {
+                currentMinNumber = numbers[index];
+
+                if (currentMinNumber < minNumber) {
+                    minNumber = currentMinNumber;
+                }
+            }
+
+            return minNumber;
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,62 @@
+<!--
+01.Write a script that selects all the div nodes that are directly inside other div elements.
+-Create a function using querySelectorAll().
+-Create a function using getElementsByTagName().
+-->
+
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+
+    <style>
+        div{
+            border: 1px solid black;
+            margin: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div>1</div>
+
+    <div id="divTag">2
+        <div>11</div>
+        <div>22</div>
+        <div>33</div>
+        <div>44</div>
+    </div>
+
+    <div>3</div>
+
+    <input type="button" value="Add div" onclick="addDiv()"/>
+
+    <script>
+        var number = 55;
+        var withQuery = document.querySelectorAll('div div');
+        var byTagName = document.getElementById('divTag').getElementsByTagName('div');
+
+        function addDiv () {
+            document.getElementById('divTag').innerHTML += '<div>' + number +'</div>';
+            number += 10;
+
+            console.log('With query (Static NodeList)...');
+            printInnerDivs(withQuery);
+
+            console.log('By tag name (Live NodeList)...');
+            printInnerDivs(byTagName);
+        }
+
+        function printInnerDivs (innerDivs) {
+            console.log('Number of inner div\'s are: ' + innerDivs.length );
+            console.log('They are...');
+
+            for (var i = 0, length = innerDivs.length; i < length; i++) {
+                console.log(innerDivs[i]);
+            }
+
+            console.log('\n');
+        }
+    </script>
+</body>
+</html>

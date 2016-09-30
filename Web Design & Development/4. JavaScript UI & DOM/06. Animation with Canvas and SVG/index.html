@@ -1,0 +1,40 @@
+<!--
+ 01. Create a walking Super Mario
+    - Super Mario must be walking indefinitely from left to
+    right on the screen
+    - The background must be created using SVG
+    - Additional requirements:
+        - You can use sprites from this link
+        - Use Canvas for Super Mario
+        - Use SVG for the background
+        - You can use Raphael and/or KineticJS, or native
+        Canvas/SVG APIs
+ -->
+
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        canvas {
+            z-index: 1;
+        }
+
+        body {
+            overflow:hidden;
+        }
+    </style>
+
+</head>
+<body>
+<div class="sprite"></div>
+    <div id="canvas-container"></div>
+    <script src="scripts/libs/require.js" data-main="scripts/app"></script>
+</body>
+</html>

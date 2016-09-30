@@ -1,0 +1,44 @@
+﻿<!--02.Write a function that reverses the digits of given decimal number. Example: 256  652-->
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <input type="text" placeholder="Enter int number: " id="number" />
+    <input type="button" value="reverse" onclick="reverseNumber()" />
+
+    <script>
+        function reverseNumber() {
+            var number = document.getElementById('number').value;
+            
+            if (isValidNumber(number)) {
+                var array = new Array(number.length);
+                var index = 0;
+
+                for (var i = number.length - 1; i >= 0; i--) {
+                    array[i] = number[index];
+                    index++;
+                }
+
+                for (var i = 0; i < array.length; i++) {
+                    console.log(array[i]);
+                }
+            }
+            else {
+                console.log('Invalid Number')
+            }
+        }
+
+        function isValidNumber(number) {
+            if (parseInt(number) == parseFloat(number) && number < Number.MAX_VALUE && number > Number.MIN_VALUE) {
+                return true;
+            }
+            else {
+                return false;
+            }
+        }
+    </script>
+</body>
+</html>

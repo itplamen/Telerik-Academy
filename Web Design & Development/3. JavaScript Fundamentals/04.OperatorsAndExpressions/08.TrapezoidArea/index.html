@@ -1,0 +1,38 @@
+﻿<!--08.Write an expression that calculates trapezoid's area by given sides a and b and height h.-->
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <input type="text" placeholder="Enter side a: " id="sideA" /><br />
+    <input type="text" placeholder="Enter side b: " id="sideB" /><br />
+    <input type="text" placeholder="Enter height  h: " id="height" /><br />
+    <input type="button" value="calculate" onclick="calculateArea()" />
+
+    <script>
+        function calculateArea() {
+            var sideA = document.getElementById('sideA').value;
+            var sideB = document.getElementById('sideB').value;
+            var height = document.getElementById('height').value;
+
+            if (isSidesAngHeightValid(sideA, sideB, height) === true) {
+                console.log('Trapezodi area is: ' + (sideA + sideB) / (height * 2) + '');
+            } else {
+                console.log('Invalid value!');
+            }
+        }
+
+        function isSidesAngHeightValid(sideA, sideB, height) {
+            if (sideA < Number.MAX_VALUE && sideA > Number.MIN_VALUE &&
+                sideB < Number.MAX_VALUE && sideB > Number.MIN_VALUE
+                && height < Number.MAX_VALUE && height) {
+                return true;
+            } else {
+                return false;
+            }
+        }
+    </script>
+</body>
+</html>

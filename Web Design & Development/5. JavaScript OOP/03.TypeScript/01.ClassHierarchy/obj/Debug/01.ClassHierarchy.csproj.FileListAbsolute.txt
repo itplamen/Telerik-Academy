@@ -1,0 +1,6 @@
+C:\Users\plamen\Desktop\03.TypeScript\01.ClassHierarchy\bin\01.ClassHierarchy.dll.config
+C:\Users\plamen\Desktop\03.TypeScript\01.ClassHierarchy\bin\01.ClassHierarchy.dll
+C:\Users\plamen\Desktop\03.TypeScript\01.ClassHierarchy\bin\01.ClassHierarchy.pdb
+C:\Users\plamen\Desktop\03.TypeScript\01.ClassHierarchy\obj\Debug\01.ClassHierarchy.dll
+C:\Users\plamen\Desktop\03.TypeScript\01.ClassHierarchy\obj\Debug\01.ClassHierarchy.pdb
+C:\Users\plamen\Desktop\03.TypeScript\01.ClassHierarchy\obj\Debug\01.ClassHierarchy.csprojResolveAssemblyReference.cache

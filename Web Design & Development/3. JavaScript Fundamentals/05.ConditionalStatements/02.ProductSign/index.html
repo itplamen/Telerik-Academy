@@ -1,0 +1,44 @@
+﻿<!--02.Write a script that shows the sign (+ or -) of the product of three real numbers without calculating it. Use a sequence of if statements.-->
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <input type="text" placeholder="Enter first number: " id="firstNumber" /><br />
+    <input type="text" placeholder="Enter second number: " id="secondNumber" /><br />
+    <input type="text" placeholder="Enter third number: " id="thirdNumber" /><br />
+    <input type="button" value="show sign" onclick="checkSign()" />
+
+    <script>
+        function checkSign() {
+            var firstNumber = document.getElementById('firstNumber').value;
+            var secondNumber = document.getElementById('secondNumber').value;
+            var thirdNumber = document.getElementById('thirdNumber').value;
+
+            if (isNumbersValid(firstNumber, secondNumber, thirdNumber) == true) {
+                if (firstNumber > 0 && secondNumber > 0 && thirdNumber > 0) {
+                    console.log('The product of the numbers is POSITIVE');
+                }else if (firstNumber == 0 || secondNumber == 0 || thirdNumber == 0) {
+                    console.log('The produc of the numbers is 0');
+                }else if (firstNumber < 0 ^ secondNumber < 0 ^ thirdNumber < 0) {
+                    console.log('The product of the numbers is NEGATIVE');
+                }else if ((firstNumber < 0 && secondNumber < 0 && thirdNumber > 0) || (firstNumber < 0 && thirdNumber < 0 && secondNumber > 0) || (secondNumber < 0 && thirdNumber < 0 && firstNumber > 0)) {
+                    console.log('The product of the numbers is POSITIVE');
+                }
+            } else {
+                console.log('Invalid number!');
+            }
+        }
+
+        function isNumbersValid(firstNumber, secondNumber, thirdNumber) {
+            if (isFinite(firstNumber) == true && isFinite(secondNumber) == true && isFinite(thirdNumber) == true) {
+                return true;
+            } else {
+                return false;
+            }
+        }
+    </script>
+</body>
+</html>

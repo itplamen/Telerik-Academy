@@ -1,0 +1,17 @@
+.person-item, .selected-item {
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-bottom:  5px;
+    width: 150px;
+    text-align: center;
+    cursor: context-menu;
+}
+
+.person-item img {
+    width: 70px;
+    height: 70px;
+}
+
+.person-item:not(#selected-item) {
+    display: none;
+}

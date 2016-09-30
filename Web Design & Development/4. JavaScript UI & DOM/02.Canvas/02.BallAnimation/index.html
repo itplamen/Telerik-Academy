@@ -1,0 +1,115 @@
+<!-- 02.Draw a circle that flies inside a box
+- When it reaches an edge, it should bounce that edge -->
+
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <style>
+        canvas{
+
+            border: 1px solid black;
+        }
+
+        form {
+            border: 1px solid black;
+            position: relative;
+            top: -506px;
+            left: 850px;
+            width: 200px;
+            height: 100px;
+        }
+
+        #color{
+            margin-left: 7px;
+        }
+
+        #start-btn, #stop-btn, label {
+            margin: 20px;
+            width: 50px;
+        }
+    </style>
+</head>
+<body>
+    <canvas id="the-canvas" width="800" height="500">This is not supported for your browser!</canvas>
+
+    <form>
+        <input type="button" value="Start" id="start-btn"/>
+        <input type="button" value="Stop" id="stop-btn"/> <br/>
+        <label for="#color">Fill color:</label>
+        <input type="color" id="color"/><br/>
+    </form>
+
+    <script>
+        (function(){
+            var canvas = document.getElementById('the-canvas');
+            var context = canvas.getContext('2d');
+            var isAnimationOn = false;
+            var startBtn = document.getElementById('start-btn');
+            var stopBtn = document.getElementById('stop-btn');
+            var color = document.getElementById('color');
+            var ball = new Ball(30, 30, 10, 5, context);
+
+            startBtn.addEventListener('click', function () {
+                startBtn.disabled = true;
+                stopBtn.disabled = false;
+                isAnimationOn = true;
+                requestAnimationFrame(animationFrame);
+            }, false);
+
+            stopBtn.addEventListener('click', function () {
+                startBtn.disabled = false;
+                stopBtn.disabled = true;
+                isAnimationOn = false;
+            }, false);
+
+            color.addEventListener('change', function () {
+                ball.fillColor = color.value;
+            }, false);
+
+            function animationFrame () {
+                context.clearRect(0, 0, context.CANVAS.width, context.CANVAS.height);
+                ball.move();
+                ball.draw(context);
+
+                if (isAnimationOn) {
+                    requestAnimationFrame(animationFrame);
+                }
+            }
+
+            function Ball (startX, startY, radius, speed, context) {
+                this.startX = startX;
+                this.startY = startY;
+                this.nextX = speed;
+                this.nextY = speed;
+                this.radius = radius;
+                this.strokeColor = 'purple';
+                this.fillColor = 'black';
+
+                this.draw = function () {
+                    context.beginPath();
+                    context.arc(this.startX, this.startY, this.radius, 0, 2 * Math.PI);
+                    context.strokeStyle = this.strokeColor;
+                    context.fillStyle = this.fillColor;
+                    context.fill();
+                    context.stroke();
+                };
+
+                this.move = function () {
+                    this.startX += this.nextX;
+                    this.startY += this.nextY;
+
+                    if(this.startX === context.CANVAS.width - radius || this.startX === radius) {
+                        this.nextX *= -1;
+                    }
+
+                    if(this.startY === context.CANVAS.height - radius || this.startY === radius) {
+                        this.nextY *= -1;
+                    }
+                };
+            }
+        }());
+    </script>
+</body>
+</html>

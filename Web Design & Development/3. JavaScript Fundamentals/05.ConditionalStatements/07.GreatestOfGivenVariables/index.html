@@ -1,0 +1,63 @@
+﻿<!--07.Write a script that finds the greatest of given 5 variables.-->
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <input type="text" placeholder="Enter first number: " id="firstNumber" /><br />
+    <input type="text" placeholder="Enter second number: " id="secondNumber" /><br />
+    <input type="text" placeholder="Enter third number: " id="thirdNumber" /><br />
+    <input type="text" placeholder="Enter fourth number: " id="fourthNumber" /><br />
+    <input type="text" placeholder="Enter fifth number: " id="fifthNumber" /><br />
+    <input type="button" value="find" onclick="findBiggestNumber()" />
+
+    <script>
+        function findBiggestNumber() {
+            var firstNumber = document.getElementById('firstNumber').value;
+            var secondNumber = document.getElementById('secondNumber').value;
+            var thirdNumber = document.getElementById('thirdNumber').value;
+            var fourthNumber = document.getElementById('fourthNumber').value;
+            var fifthNumber = document.getElementById('fifthNumber').value;
+
+            if (areNumbersValid(firstNumber, secondNumber, thirdNumber, fourthNumber, fifthNumber)) {
+                var  greatestNumber = firstNumber;
+                
+                if (greatestNumber < secondNumber)
+                {
+                    greatestNumber = secondNumber;
+                }
+                
+                if (greatestNumber < thirdNumber)
+                {
+                    greatestNumber = thirdNumber;
+                }
+
+                if (greatestNumber < fourthNumber)
+                {
+                    greatestNumber = fourthNumber;
+                }
+
+                if (greatestNumber < fifthNumber)
+                {
+                    greatestNumber = fifthNumber;
+                }
+
+                console.log('The biggest number is: ' + greatestNumber);
+            }else {
+                console.log('Invalid number!');
+            }
+        }
+
+        function areNumbersValid(firstNumber, secondNumber, thirdNumber, fourthNumber, fifthNumber) {            
+            if (isFinite(firstNumber) && isFinite(secondNumber) && isFinite(thirdNumber) &&
+                isFinite(fourthNumber) && isFinite(fifthNumber)) {
+                return true;
+            }else {
+                return false;
+            }
+        }
+    </script>
+</body>
+</html>

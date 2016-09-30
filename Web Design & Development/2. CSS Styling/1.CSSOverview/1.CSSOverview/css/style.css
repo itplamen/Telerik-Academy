@@ -1,0 +1,42 @@
+﻿body {
+    background-color: #686868;
+}
+
+table {
+    border-collapse:collapse;
+    width: 370px;
+}
+
+td, th {
+    color: #409788;
+    text-align: left;
+    padding: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: #4cff00;
+}
+
+img {
+    width: 15px;
+    height: 15px;
+}
+
+th#ticket {
+    font-size: 25px;
+}
+
+.red_color {
+    color: #f00;
+   margin: 0;
+}
+
+.white_color {
+    color: #fff;
+    font-style: italic;
+}
+
+.orange_color {
+    color: #ff6a00;
+}

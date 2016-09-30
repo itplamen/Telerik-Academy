@@ -1,0 +1,40 @@
+<!--
+01. Create a module for working with DOM. The module
+should have the following functionality
+- Add DOM element to parent element given by selector
+- Remove element from the DOM by given selector
+- Attach event to given selector by given event type and event handler
+- Add elements to buffer, which appends them to the DOM when their count for some selector becomes 100
+- The buffer contains elements for each selector it gets
+- Get elements by CSS selector
+- The module should reveal only the methods
+-->
+
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <link type="text/css" rel="stylesheet" href="styles/style.css"/>
+</head>
+<body>
+    <div id="container">#container</div>
+
+    <form>
+        <label for="parent-id">Add child to: </label>
+        <input type="text" id="parent-id" placeholder="Parent ID ..."/>
+        <input type="button" id="add-btn" value="Add"/>
+        <input type="button" id="add-multiple-elements-btn" value="Add 100"/> <br/>
+
+        <label for="element-id">Remove element: </label>
+        <input type="text" id="element-id" placeholder="Element ID ..."/>
+        <input type="button" id="remove-btn" value="Remove"/>
+    </form>
+
+
+    <script type="text/javascript" src="scripts/libs/jquery-2.1.3.min.js"></script>
+    <script type="text/javascript" src="scripts/Modules/GlobalVariables.js"></script>
+    <script type="text/javascript" src="scripts/Modules/DomModule.js"></script>
+    <script type="text/javascript" src="scripts/events.js"></script>
+</body>
+</html>

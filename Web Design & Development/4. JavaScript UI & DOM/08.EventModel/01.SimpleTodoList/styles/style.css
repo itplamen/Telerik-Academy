@@ -1,0 +1,143 @@
+#container {
+    margin: 0 auto;
+    width: 500px;
+}
+
+/* Header */
+header {
+    border-radius: 10px 10px 0 0;
+    width: 450px;
+    height: 70px;
+    margin: 0 auto;
+    background-color: #ffe7be;
+}
+
+header p {
+    margin: 0 auto;
+    padding-top: 20px;
+    text-align: center;
+    font-size: 24px;
+}
+
+/* Section */
+form#add-show-tasks {
+    margin-top: 20px;
+    margin-left: 150px;
+}
+
+div#create-task-box, div#tasks-list-box, div#show-current-task-box, div#edit-current-task-box {
+    width: 450px;
+    height: 350px;
+    margin-top: 20px;
+    border-radius: 0 0 10px 10px;
+    display: none;
+    margin-left: 25px;
+    background-color: #ffe7be;
+}
+
+div#create-task-box #task-title, .editTitle {
+    width: 300px;
+    height: 30px;
+    border-radius: 5px;
+    margin-left: 80px;
+    margin-top: 20px;
+}
+
+
+div#create-task-box textarea, .editContent {
+    width: 300px;
+    height: 200px;
+    border-radius: 5px;
+    margin-left: 80px;
+    margin-top: 40px;
+    resize: none;
+}
+
+div#create-task-box hr {
+    width: 350px;
+    margin-top: 20px;
+}
+
+
+div#tasks-list-box, div#show-current-task-box {
+    overflow: auto;
+}
+
+div#tasks-list-box div.task {
+
+    border-radius: 10px;
+    margin: 20px;
+    list-style-type: none;
+    background-color: white;
+}
+
+div#tasks-list-box div.task p {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    word-wrap: break-word;
+}
+
+div#tasks-list-box p, div#current-task p {
+    margin: 10px;
+    font-family: Papyrus, fantasy;
+}
+
+div#tasks-list-box p.taskTitle, div#current-task p.currentTaskTitle {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+div#tasks-list-box p.taskContent, div#current-task p.currentTaskContent {
+    color: gray;
+    font-size: 18px;
+}
+
+div#tasks-list-box div.task:hover{
+    box-shadow: 10px 10px 10px #888888;
+}
+
+div#current-task p {
+    margin: 20px;
+    font-size: 20px;
+    word-wrap: break-word;
+}
+
+#add-task-btn, #edit-task-btn, #save-edited-task-btn, #delete-task{
+    border-style: none;
+    background-color: #C45353;
+    height: 30px;
+    color: white;
+    text-align: center;
+    width: 50px;
+    margin-left: 390px;
+}
+
+#edit-task-btn {
+    margin-left: -100px;
+}
+
+#delete-task:hover, #edit-task-btn:hover, #save-edited-task-btn:hover, #add-task-btn:hover {
+    background-color: #7C0404;
+}
+
+#current-task {
+    height: 280px;
+    border-radius: 10px;
+    margin: 20px;
+    background-color: white;
+    overflow: auto;
+    box-shadow: 10px 10px 10px #888888;
+}
+
+#message-box {
+    background-color: #C45353;
+    color: white;
+    border-radius: 10px;
+    margin: 0 auto;
+    margin-top: 20px;
+    width: 150px;
+    height: 35px;
+    text-align: center;
+    display: none;
+}
+

@@ -1,0 +1,63 @@
+﻿<!--06.Write a function that groups an array of persons by age, first or last name. The function must return an associative array, with keys - the groups, 
+and values -arrays with persons in this groups.
+-Use function overloading (i.e. just one function)
+Example:
+var persons = {…};
+var groupedByFname = group(persons, 'firstname');
+var groupedByAge= group(persons, 'age');-->
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        function createPerson(firstName, lastName, age) {
+            return {
+                firstName: firstName,
+                lastName: lastName,
+                age: age,
+                toString: function () {
+                    return 'Name: ' + this.firstName + ' ' + this.lastName + ', Age: ' + this.age;
+                }
+            }
+        }
+
+        function group(array, property) {
+
+            var result = new Object();
+
+            for (var person in array) {
+                if (result[array[person][property]] == undefined || result[array[person][property]] == null) {
+                    result[array[person][property]] = new Array();
+                }
+
+                result[array[person][property]].push(array[person]);
+            }
+
+            return result;
+        }
+
+        var pesho = createPerson('Pesho', 'Peshov', 19);
+        var maria = createPerson('Maria', 'Ivanova', 24);
+        var ivan = createPerson('Ivan', 'Dimitrov', 18);
+        var iva = createPerson('Iva', 'Simeonova', 24);
+        var misho = createPerson('Misho', 'Atanasov', 56);
+
+        var array = [pesho, maria, ivan, iva, misho];
+        var groupByFirstName = group(array, 'firstName');
+        var groupByLastName = group(array, 'lastName');
+        var groupByAge = group(array, 'age');
+
+        console.log('Group by first name:');
+        console.log(groupByFirstName);
+
+        console.log('Group by last name:');
+        console.log(groupByLastName);
+
+        console.log('Group by age:');
+        console.log(groupByAge);
+    </script>
+</body>
+</html>

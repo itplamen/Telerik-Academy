@@ -1,0 +1,150 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Sample web form</title>
+    <link href="Style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <section>
+        <form>
+            <table border="1">
+                <tfoot>
+                    <tr>
+                        <td colspan="2" class="foot">
+                            <input type="submit" name="Submit" value="Send Form" />
+                            <input type="reset" name="Reset" value="Clear This Form" />
+                        </td>
+                    </tr>
+                </tfoot>
+                <tbody>
+                    <tr>
+                    <td class="label">
+                        <label for="lastname">Last Name</label>
+                    </td>
+                    <td>
+                        <input type="text" id="lastname" name="Last Name" value="Georgiev" class="intputData" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="label">
+                        <label for="firstname">First Name</label>
+                    </td>
+                    <td>
+                        <input type="text" id="firstname" name="First Name" value="Plamen" class="intputData" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="label">
+                        <label for="address">Address</label>
+                    </td>
+                    <td>
+                        <textarea id="address" name="Address"  class="intputData">Ruse, Mitropolit Grigorii 10, floor 3, apt. 306</textarea>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="label">
+                        <label for="city">City</label>
+                    </td>
+                    <td>
+                        <input type="text"  id="city" name="City" value="Ruse" />
+
+                        <label for="state">State</label>
+                        <input type="text" id="state" name="State" class="input" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="label">
+                        <label for="zip/postal code">Zip/Postal Code</label>
+                    </td>
+                    <td>
+                        <input type="text" id="zip/postal code" name="Zip/Postal Code" value="7000" class="input" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="label">
+                        <label for="country">Country</label>
+                    </td>
+                    <td>
+                        <select name="country">
+                            <option value="BG" selected="selected">Bulgaria</option>
+                            <option value="RO">Romania</option>
+                            <option value="RU">Russia</option>
+                            <option value="USA">USA</option>
+                            <option value="CA">Canada</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="label">
+                        <label for="phone">Phone (country code, 
+                           <br /> area code, number)</label>
+                    </td>
+                    <td>
+                        <label>(+</label>
+                        <input type="text" id="phone" name="Country code" value="359" class="input"/>
+                        <label>)</label>
+                        <input type="text" name="Area code" value="88" class="input" />
+                        <label>-</label>
+                        <input type="text" name="Nimber" value="2143675" />
+                    </td>
+                </tr>
+                    <tr>
+                        <td class="label">
+                            <label for="e-mail">E-mail</label>
+                        </td>
+                        <td>
+                            <input type="text" id="e-mail" name="E-mail" value="psvetlozarovg@gmail.com" class="intputData" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="label">
+                            <label>Birth date</label>
+                        </td>
+                        <td>
+                            <label for="month">Month</label>
+                            <input type="text" id="month" name="Month" class="input" value="08"/>
+
+                            <label for="day">Day</label>
+                            <input type="text" id="day" name="Day" class="input" value="17"/>
+
+                            <label for="year">Year (4 digits)</label>
+                            <input type="text" id="year" name="Year" class="input" value="1991"/>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="label">
+                            <label for="gender">Gender</label>
+                        </td>
+                        <td>
+                            <select name="gender">
+                                <option value="Value 1" selected="selected">Male</option>
+                                <option value="Value 2">Female</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="label">
+                            <label for="startingdate">Starting date</label>
+                        </td>
+                        <td>
+                            <input type="radio" name="startingdate" />
+                            <label>Spring 2006</label>
+
+                            <input type="radio" name="startingdate" />
+                            <label>Summer 2006</label>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="label">
+                            <label for="comments/questions">Comments/Questions</label>
+                        </td>
+                        <td>
+                            <textarea name="comments/questions" class="intputData">Please send me more information about the logging!</textarea>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </form>
+    </section>
+</body>
+</html>

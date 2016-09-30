@@ -1,0 +1,90 @@
+body {
+    background: #1162CB url(../images/background.png) repeat;
+    color: white;
+}
+
+h2#game-title {
+    margin-left: 270px;
+    letter-spacing: 2px;
+    font-family: Papyrus;
+}
+
+div#container {
+    margin: 0 auto;
+    width: 800px;
+    height: 550px;
+    background: transparent url(../images/transparent.png) repeat;
+
+}
+
+div#levels-box, div#game-end-box {
+    margin: 0 auto;
+    margin-top: 150px;
+    width: 300px;
+    height: 150px;
+    text-align: center;
+}
+
+div#easy-level, div#medium-level, div#hard-level {
+    margin: 0 auto;
+    margin-top: 15px;
+    width: 150px;
+    height: 20px;
+    text-align: center;
+    vertical-align: middle;
+    cursor: default;
+}
+
+div#easy-level:hover, div#medium-level:hover, div#hard-level:hover {
+    background-color: #4F93EF;
+}
+
+div#result-from-guessing-box {
+    margin: 80px 10px 10px 50px;
+    height: 400px;
+    width: 320px;
+    overflow: auto;
+    float: left;
+    display: none;
+}
+
+div#status-box {
+    width: 300px;
+    height: 120px;
+    margin: 80px 10px 10px 450px;
+    display: none;
+    padding: 10px;
+}
+
+
+div#input-number-box {
+    width: 200px;
+    height: 80px;
+    margin: 50px 10px 10px 450px;
+    display: none;
+}
+
+div#game-end-box {
+    display: none;
+}
+
+div#game-end-box input[type="text"] {
+    width: 100px;
+}
+
+div#input-number-box input[type="text"] {
+    width: 120px;
+    border-radius: 5px;
+}
+
+.result {
+    margin: 5px;
+    height: 25px;
+    letter-spacing: 2px;
+    font-size: 18px;
+}
+
+div:not(#input-number-box) {
+    border: 1px solid white;
+    border-radius: 10px;
+}

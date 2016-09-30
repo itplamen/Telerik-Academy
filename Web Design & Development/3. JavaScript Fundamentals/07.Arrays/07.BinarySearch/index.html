@@ -1,0 +1,62 @@
+﻿<!--07.Write a program that finds the index of given element in a sorted array of integers by using the binary search algorithm 
+(find it in Wikipedia).-->
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <script>
+        var array = [2, 3, 7, 0, -1, 9, 14, 5, 8, 3];
+        array = sortArray(array);
+        var number = 0;
+        binarySearch(array, number);
+
+        function sortArray(array) {
+            var minNumber = 0;
+
+            for (var i = 0; i < array.length; i++) {
+                for (var j = i + 1; j < array.length; j++) {
+                    if (array[i] > array[j]) {
+                        minNumber = array[j];
+                        array[j] = array[i];
+                        array[i] = minNumber;
+                    }
+                }
+            }
+
+            return array;
+        }
+
+        function binarySearch(array, number) {
+            var left = 0;
+            var right = array.length - 1;
+            var middle = 0;
+            var index = 0;
+
+            for (var i = 0; i < array.length - 1; i++) {
+                middle = parseInt((left + right) / 2);
+
+                if (number == array[middle]) {
+                    index = middle;
+                    console.log('Index of the number is: ' + index);
+                    break;
+                }
+
+                if (number < array[middle]) {
+                    right = middle - 1;
+                }
+
+                if (number > array[middle]) {
+                    left = middle + 1;
+                }
+            }
+
+            if (index != middle) {
+                console.log('There is no such number in the array!!!');
+            }
+        }
+    </script>
+</body>
+</html>

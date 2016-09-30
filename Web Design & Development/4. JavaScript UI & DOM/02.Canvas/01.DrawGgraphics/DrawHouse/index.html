@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <style>
+        canvas{
+            margin-left: 250px;
+            border: 1px solid black;
+        }
+    </style>
+</head>
+<body>
+    <canvas id="the-canvas" width="800" height="500">This is not supported for your browser!</canvas>
+    <script>
+
+        drawHouse();
+
+        function drawHouse () {
+            var canvas = document.getElementById('the-canvas');
+            var context = canvas.getContext('2d');
+
+            var x = 300;
+            var y = 200;
+            var baseSideWidth = 300;
+            var baseSideHeight = 250;
+
+            context.fillStyle = '#975B5B';
+            context.strokeStyle = '#000000';
+            context.lineWidth = 2;
+
+            drawRoof(context, x, y, baseSideWidth, baseSideHeight);
+            drawBase(context, x, y, baseSideWidth, baseSideHeight);
+        }
+
+        function drawRoof (context, x, y, baseSideWidth, baseSideHeight) {
+            context.beginPath();
+            context.moveTo(x, y);
+            context.lineTo(x + baseSideWidth / 2, y - baseSideHeight + 100);
+            context.lineTo(x + baseSideWidth, y);
+            context.fill();
+            context.stroke();
+            drawChimney(context, x, y);
+        }
+
+        function drawChimney (context, x, y) {
+            context.beginPath();
+            context.moveTo(x + 218, y - 30);
+            context.lineTo(x + 218, y - 100);
+            context.lineTo(x + 250, y - 100);
+            context.lineTo(x + 250, y - 30);
+            context.fill();
+            context.stroke();
+        }
+
+        function drawBase (context, x, y, baseSideWidth, baseSideHeight) {
+            context.fillRect(x, y, baseSideWidth, baseSideHeight);
+            context.strokeRect(x, y, baseSideWidth, baseSideHeight);
+            drawDoor(context, x, y);
+            drawBigWindows (context, x, y, baseSideWidth, baseSideHeight);
+        }
+
+        function drawDoor (context, x, y) {
+            // Door's base
+            context.beginPath();
+            context.bezierCurveTo(330, 370, 380, 320, 420, 370);
+            context.moveTo(x + 120, y + 170);
+            context.lineTo(x + 120, y + 250);
+            context.moveTo(x + 30, y + 170);
+            context.lineTo(x + 30, y + 250);
+            context.moveTo(x + 77, y + 147);
+            context.lineTo(x + 77, y + 250);
+            context.stroke();
+
+            // Locks
+            context.beginPath();
+            context.arc(x + 65, y + 215, 4, 0, 2 * Math.PI);
+            context.stroke();
+            context.beginPath();
+            context.arc(x + 87, y + 215, 4, 0, 2 * Math.PI);
+            context.stroke();
+        }
+
+        function drawBigWindows (context, x, y, baseSideWidth, baseSideHeight) {
+            var windowsX = x;
+            var windowsY = y;
+            var numberOfBigWindows = 3;
+
+            for (var i = 1; i <= numberOfBigWindows; i++) {
+
+                if (i === 1) {
+                    windowsX += baseSideWidth / 10;
+                    windowsY += baseSideHeight / 10;
+                }
+                else if (i === 2) {
+                    windowsX += baseSideWidth / 1.7;
+                    windowsY += baseSideHeight / 10;
+                }
+                else if (i === 3) {
+                    windowsX += baseSideWidth / 1.7;
+                    windowsY += baseSideHeight / 2;
+                }
+
+                var numberOfSmallWindows = 4;
+                var width = 50;
+                var height = 30;
+
+                for (var j = 1; j <= numberOfSmallWindows; j++) {
+                    if (j === 2) {
+                        windowsY += height + 2;
+                    }
+                    else if (j === 3) {
+                        windowsX += width + 2;
+                        windowsY -= height + 2;
+                    }
+                    else if (j === 4){
+                        windowsY += height + 2;
+                    }
+
+                    drawSmallWindows(context, windowsX, windowsY, width, height);
+                }
+
+                windowsX = x;
+                windowsY = y;
+            }
+        }
+
+        function drawSmallWindows (context, x, y, width, height) {
+            context.beginPath();
+            context.rect(x, y, width, height);
+            context.rect(x, y, width, height);
+            context.fillStyle = 'black';
+            context.fill();
+        }
+    </script>
+</body>
+</html>
