@@ -1,0 +1,12 @@
+C:\Users\plamen\Desktop\06. EntityFramework\01. Create DbContextForNorthwindDatabase\bin\Debug\_01.Create_DbContextForNorthwindDatabase.exe.config
+C:\Users\plamen\Desktop\06. EntityFramework\01. Create DbContextForNorthwindDatabase\obj\Debug\01. Create DbContextForNorthwindDatabase.csprojResolveAssemblyReference.cache
+C:\Users\plamen\Desktop\06. EntityFramework\01. Create DbContextForNorthwindDatabase\bin\Debug\_01.Create_DbContextForNorthwindDatabase.exe
+C:\Users\plamen\Desktop\06. EntityFramework\01. Create DbContextForNorthwindDatabase\bin\Debug\_01.Create_DbContextForNorthwindDatabase.pdb
+C:\Users\plamen\Desktop\06. EntityFramework\01. Create DbContextForNorthwindDatabase\bin\Debug\EntityFramework.dll
+C:\Users\plamen\Desktop\06. EntityFramework\01. Create DbContextForNorthwindDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\plamen\Desktop\06. EntityFramework\01. Create DbContextForNorthwindDatabase\bin\Debug\Northwind.Models.dll
+C:\Users\plamen\Desktop\06. EntityFramework\01. Create DbContextForNorthwindDatabase\bin\Debug\Northwind.Models.pdb
+C:\Users\plamen\Desktop\06. EntityFramework\01. Create DbContextForNorthwindDatabase\bin\Debug\EntityFramework.xml
+C:\Users\plamen\Desktop\06. EntityFramework\01. Create DbContextForNorthwindDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\plamen\Desktop\06. EntityFramework\01. Create DbContextForNorthwindDatabase\obj\Debug\_01.Create_DbContextForNorthwindDatabase.exe
+C:\Users\plamen\Desktop\06. EntityFramework\01. Create DbContextForNorthwindDatabase\obj\Debug\_01.Create_DbContextForNorthwindDatabase.pdb

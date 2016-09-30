@@ -1,0 +1,12 @@
+C:\Users\plamen\Desktop\06. EntityFramework\02. Data Access Objects\bin\Debug\_02.Data_Access_Objects.exe.config
+C:\Users\plamen\Desktop\06. EntityFramework\02. Data Access Objects\bin\Debug\_02.Data_Access_Objects.exe
+C:\Users\plamen\Desktop\06. EntityFramework\02. Data Access Objects\bin\Debug\_02.Data_Access_Objects.pdb
+C:\Users\plamen\Desktop\06. EntityFramework\02. Data Access Objects\obj\Debug\_02.Data_Access_Objects.exe
+C:\Users\plamen\Desktop\06. EntityFramework\02. Data Access Objects\obj\Debug\_02.Data_Access_Objects.pdb
+C:\Users\plamen\Desktop\06. EntityFramework\02. Data Access Objects\obj\Debug\02. Data Access Objects.csprojResolveAssemblyReference.cache
+C:\Users\plamen\Desktop\06. EntityFramework\02. Data Access Objects\bin\Debug\EntityFramework.dll
+C:\Users\plamen\Desktop\06. EntityFramework\02. Data Access Objects\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\plamen\Desktop\06. EntityFramework\02. Data Access Objects\bin\Debug\Northwind.Models.dll
+C:\Users\plamen\Desktop\06. EntityFramework\02. Data Access Objects\bin\Debug\Northwind.Models.pdb
+C:\Users\plamen\Desktop\06. EntityFramework\02. Data Access Objects\bin\Debug\EntityFramework.xml
+C:\Users\plamen\Desktop\06. EntityFramework\02. Data Access Objects\bin\Debug\EntityFramework.SqlServer.xml

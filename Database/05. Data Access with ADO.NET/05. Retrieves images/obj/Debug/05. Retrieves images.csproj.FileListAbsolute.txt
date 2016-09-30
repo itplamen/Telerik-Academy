@@ -1,0 +1,6 @@
+C:\Users\plamen\Desktop\05. Data Access with ADO.NET\05. Retrieves images\bin\Debug\_05.Retrieves_images.exe.config
+C:\Users\plamen\Desktop\05. Data Access with ADO.NET\05. Retrieves images\bin\Debug\_05.Retrieves_images.exe
+C:\Users\plamen\Desktop\05. Data Access with ADO.NET\05. Retrieves images\bin\Debug\_05.Retrieves_images.pdb
+C:\Users\plamen\Desktop\05. Data Access with ADO.NET\05. Retrieves images\obj\Debug\_05.Retrieves_images.exe
+C:\Users\plamen\Desktop\05. Data Access with ADO.NET\05. Retrieves images\obj\Debug\_05.Retrieves_images.pdb
+C:\Users\plamen\Desktop\05. Data Access with ADO.NET\05. Retrieves images\obj\Debug\05. Retrieves images.csprojResolveAssemblyReference.cache

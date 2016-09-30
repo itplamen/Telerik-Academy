@@ -1,0 +1,5 @@
+C:\Users\plamen\Desktop\05. Data Access with ADO.NET\04. Add product\bin\Debug\_04.Add_product.exe.config
+C:\Users\plamen\Desktop\05. Data Access with ADO.NET\04. Add product\bin\Debug\_04.Add_product.exe
+C:\Users\plamen\Desktop\05. Data Access with ADO.NET\04. Add product\bin\Debug\_04.Add_product.pdb
+C:\Users\plamen\Desktop\05. Data Access with ADO.NET\04. Add product\obj\Debug\_04.Add_product.exe
+C:\Users\plamen\Desktop\05. Data Access with ADO.NET\04. Add product\obj\Debug\_04.Add_product.pdb

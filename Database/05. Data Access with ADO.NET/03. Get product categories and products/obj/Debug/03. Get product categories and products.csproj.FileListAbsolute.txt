@@ -1,0 +1,5 @@
+C:\Users\plamen\Desktop\05. Data Access with ADO.NET\03. Get product categories and products\bin\Debug\_03.Get_product_categories_and_products.exe.config
+C:\Users\plamen\Desktop\05. Data Access with ADO.NET\03. Get product categories and products\bin\Debug\_03.Get_product_categories_and_products.exe
+C:\Users\plamen\Desktop\05. Data Access with ADO.NET\03. Get product categories and products\bin\Debug\_03.Get_product_categories_and_products.pdb
+C:\Users\plamen\Desktop\05. Data Access with ADO.NET\03. Get product categories and products\obj\Debug\_03.Get_product_categories_and_products.exe
+C:\Users\plamen\Desktop\05. Data Access with ADO.NET\03. Get product categories and products\obj\Debug\_03.Get_product_categories_and_products.pdb

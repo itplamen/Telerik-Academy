@@ -1,0 +1,14 @@
+C:\Users\plamen\Desktop\06. EntityFramework\04. Find customers by using nativ SQL query\bin\Debug\_04.Find_customers_by_using_nativ_SQL_query.exe.config
+C:\Users\plamen\Desktop\06. EntityFramework\04. Find customers by using nativ SQL query\bin\Debug\_04.Find_customers_by_using_nativ_SQL_query.exe
+C:\Users\plamen\Desktop\06. EntityFramework\04. Find customers by using nativ SQL query\bin\Debug\_04.Find_customers_by_using_nativ_SQL_query.pdb
+C:\Users\plamen\Desktop\06. EntityFramework\04. Find customers by using nativ SQL query\bin\Debug\EntityFramework.dll
+C:\Users\plamen\Desktop\06. EntityFramework\04. Find customers by using nativ SQL query\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\plamen\Desktop\06. EntityFramework\04. Find customers by using nativ SQL query\bin\Debug\Northwind.Models.dll
+C:\Users\plamen\Desktop\06. EntityFramework\04. Find customers by using nativ SQL query\bin\Debug\_02.Data_Access_Objects.exe
+C:\Users\plamen\Desktop\06. EntityFramework\04. Find customers by using nativ SQL query\bin\Debug\_02.Data_Access_Objects.pdb
+C:\Users\plamen\Desktop\06. EntityFramework\04. Find customers by using nativ SQL query\bin\Debug\Northwind.Models.pdb
+C:\Users\plamen\Desktop\06. EntityFramework\04. Find customers by using nativ SQL query\bin\Debug\EntityFramework.xml
+C:\Users\plamen\Desktop\06. EntityFramework\04. Find customers by using nativ SQL query\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\plamen\Desktop\06. EntityFramework\04. Find customers by using nativ SQL query\obj\Debug\04. Find customers by using nativ SQL query.csprojResolveAssemblyReference.cache
+C:\Users\plamen\Desktop\06. EntityFramework\04. Find customers by using nativ SQL query\obj\Debug\_04.Find_customers_by_using_nativ_SQL_query.exe
+C:\Users\plamen\Desktop\06. EntityFramework\04. Find customers by using nativ SQL query\obj\Debug\_04.Find_customers_by_using_nativ_SQL_query.pdb

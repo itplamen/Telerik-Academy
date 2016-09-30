@@ -1,0 +1,5 @@
+C:\Users\plamen\Desktop\05. Data Access with ADO.NET\01. Get number of rows in table\bin\Debug\_01.Get_number_of_rows_in_table.exe.config
+C:\Users\plamen\Desktop\05. Data Access with ADO.NET\01. Get number of rows in table\bin\Debug\_01.Get_number_of_rows_in_table.exe
+C:\Users\plamen\Desktop\05. Data Access with ADO.NET\01. Get number of rows in table\bin\Debug\_01.Get_number_of_rows_in_table.pdb
+C:\Users\plamen\Desktop\05. Data Access with ADO.NET\01. Get number of rows in table\obj\Debug\_01.Get_number_of_rows_in_table.exe
+C:\Users\plamen\Desktop\05. Data Access with ADO.NET\01. Get number of rows in table\obj\Debug\_01.Get_number_of_rows_in_table.pdb

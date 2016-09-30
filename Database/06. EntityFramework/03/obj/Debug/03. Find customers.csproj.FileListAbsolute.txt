@@ -1,0 +1,14 @@
+C:\Users\plamen\Desktop\06. EntityFramework\03\bin\Debug\03.exe.config
+C:\Users\plamen\Desktop\06. EntityFramework\03\obj\Debug\03.exe
+C:\Users\plamen\Desktop\06. EntityFramework\03\obj\Debug\03.pdb
+C:\Users\plamen\Desktop\06. EntityFramework\03\bin\Debug\03.exe
+C:\Users\plamen\Desktop\06. EntityFramework\03\bin\Debug\03.pdb
+C:\Users\plamen\Desktop\06. EntityFramework\03\bin\Debug\EntityFramework.dll
+C:\Users\plamen\Desktop\06. EntityFramework\03\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\plamen\Desktop\06. EntityFramework\03\bin\Debug\Northwind.Models.dll
+C:\Users\plamen\Desktop\06. EntityFramework\03\bin\Debug\Northwind.Models.pdb
+C:\Users\plamen\Desktop\06. EntityFramework\03\bin\Debug\EntityFramework.xml
+C:\Users\plamen\Desktop\06. EntityFramework\03\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\plamen\Desktop\06. EntityFramework\03\obj\Debug\03. Find customers.csprojResolveAssemblyReference.cache
+C:\Users\plamen\Desktop\06. EntityFramework\03\bin\Debug\_02.Data_Access_Objects.exe
+C:\Users\plamen\Desktop\06. EntityFramework\03\bin\Debug\_02.Data_Access_Objects.pdb

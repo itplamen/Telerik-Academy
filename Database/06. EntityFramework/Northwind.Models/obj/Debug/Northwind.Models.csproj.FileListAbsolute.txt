@@ -1,0 +1,10 @@
+C:\Users\plamen\Desktop\06. EntityFramework\Northwind.Models\bin\Debug\Northwind.Models.dll.config
+C:\Users\plamen\Desktop\06. EntityFramework\Northwind.Models\bin\Debug\Northwind.Models.dll
+C:\Users\plamen\Desktop\06. EntityFramework\Northwind.Models\bin\Debug\Northwind.Models.pdb
+C:\Users\plamen\Desktop\06. EntityFramework\Northwind.Models\bin\Debug\EntityFramework.dll
+C:\Users\plamen\Desktop\06. EntityFramework\Northwind.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\plamen\Desktop\06. EntityFramework\Northwind.Models\bin\Debug\EntityFramework.xml
+C:\Users\plamen\Desktop\06. EntityFramework\Northwind.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\plamen\Desktop\06. EntityFramework\Northwind.Models\obj\Debug\Northwind.Models.csprojResolveAssemblyReference.cache
+C:\Users\plamen\Desktop\06. EntityFramework\Northwind.Models\obj\Debug\Northwind.Models.dll
+C:\Users\plamen\Desktop\06. EntityFramework\Northwind.Models\obj\Debug\Northwind.Models.pdb

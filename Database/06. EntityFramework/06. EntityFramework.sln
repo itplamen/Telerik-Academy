@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.Models", "Northwind.Models\Northwind.Models.csproj", "{17E890F1-733B-4520-8DAB-51EEB020D78A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Create DbContext for Northwind database", "01. Create DbContextForNorthwindDatabase\01. Create DbContext for Northwind database.csproj", "{7F3B5999-40BB-4C26-B51D-405E5176E106}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Data Access Objects", "02. Data Access Objects\02. Data Access Objects.csproj", "{6AEDDE9A-4953-409E-9FDD-21B4E1780947}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Find customers", "03\03. Find customers.csproj", "{768E815F-8773-435B-B252-23311D705DA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Find customers by using nativ SQL query", "04. Find customers by using nativ SQL query\04. Find customers by using nativ SQL query.csproj", "{3845AD78-EF26-4169-93FB-BA6C1295BB86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Find sales by specified region and period", "05. Find sales by specified region and period\05. Find sales by specified region and period.csproj", "{378F303B-EEF2-4DC6-940F-F28D1D29322B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17E890F1-733B-4520-8DAB-51EEB020D78A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17E890F1-733B-4520-8DAB-51EEB020D78A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17E890F1-733B-4520-8DAB-51EEB020D78A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17E890F1-733B-4520-8DAB-51EEB020D78A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F3B5999-40BB-4C26-B51D-405E5176E106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F3B5999-40BB-4C26-B51D-405E5176E106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F3B5999-40BB-4C26-B51D-405E5176E106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F3B5999-40BB-4C26-B51D-405E5176E106}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AEDDE9A-4953-409E-9FDD-21B4E1780947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AEDDE9A-4953-409E-9FDD-21B4E1780947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AEDDE9A-4953-409E-9FDD-21B4E1780947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AEDDE9A-4953-409E-9FDD-21B4E1780947}.Release|Any CPU.Build.0 = Release|Any CPU
+		{768E815F-8773-435B-B252-23311D705DA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{768E815F-8773-435B-B252-23311D705DA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{768E815F-8773-435B-B252-23311D705DA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{768E815F-8773-435B-B252-23311D705DA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3845AD78-EF26-4169-93FB-BA6C1295BB86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3845AD78-EF26-4169-93FB-BA6C1295BB86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3845AD78-EF26-4169-93FB-BA6C1295BB86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3845AD78-EF26-4169-93FB-BA6C1295BB86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{378F303B-EEF2-4DC6-940F-F28D1D29322B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{378F303B-EEF2-4DC6-940F-F28D1D29322B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{378F303B-EEF2-4DC6-940F-F28D1D29322B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{378F303B-EEF2-4DC6-940F-F28D1D29322B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

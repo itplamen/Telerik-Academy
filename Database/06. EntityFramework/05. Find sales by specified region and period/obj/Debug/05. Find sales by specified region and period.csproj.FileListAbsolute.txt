@@ -1,0 +1,14 @@
+C:\Users\plamen\Desktop\06. EntityFramework\05. Find sales by specified region and period\bin\Debug\_05.Find_sales_by_specified_region_and_period.exe.config
+C:\Users\plamen\Desktop\06. EntityFramework\05. Find sales by specified region and period\bin\Debug\_05.Find_sales_by_specified_region_and_period.exe
+C:\Users\plamen\Desktop\06. EntityFramework\05. Find sales by specified region and period\bin\Debug\_05.Find_sales_by_specified_region_and_period.pdb
+C:\Users\plamen\Desktop\06. EntityFramework\05. Find sales by specified region and period\obj\Debug\_05.Find_sales_by_specified_region_and_period.exe
+C:\Users\plamen\Desktop\06. EntityFramework\05. Find sales by specified region and period\obj\Debug\_05.Find_sales_by_specified_region_and_period.pdb
+C:\Users\plamen\Desktop\06. EntityFramework\05. Find sales by specified region and period\bin\Debug\_02.Data_Access_Objects.exe
+C:\Users\plamen\Desktop\06. EntityFramework\05. Find sales by specified region and period\bin\Debug\Northwind.Models.dll
+C:\Users\plamen\Desktop\06. EntityFramework\05. Find sales by specified region and period\bin\Debug\EntityFramework.dll
+C:\Users\plamen\Desktop\06. EntityFramework\05. Find sales by specified region and period\bin\Debug\_02.Data_Access_Objects.pdb
+C:\Users\plamen\Desktop\06. EntityFramework\05. Find sales by specified region and period\bin\Debug\Northwind.Models.pdb
+C:\Users\plamen\Desktop\06. EntityFramework\05. Find sales by specified region and period\bin\Debug\EntityFramework.xml
+C:\Users\plamen\Desktop\06. EntityFramework\05. Find sales by specified region and period\obj\Debug\05. Find sales by specified region and period.csprojResolveAssemblyReference.cache
+C:\Users\plamen\Desktop\06. EntityFramework\05. Find sales by specified region and period\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\plamen\Desktop\06. EntityFramework\05. Find sales by specified region and period\bin\Debug\EntityFramework.SqlServer.xml

@@ -1,0 +1,5 @@
+C:\Users\plamen\Desktop\05. Data Access with ADO.NET\02. Get name and description\bin\Debug\_02.Get_name_and_description.exe.config
+C:\Users\plamen\Desktop\05. Data Access with ADO.NET\02. Get name and description\bin\Debug\_02.Get_name_and_description.exe
+C:\Users\plamen\Desktop\05. Data Access with ADO.NET\02. Get name and description\bin\Debug\_02.Get_name_and_description.pdb
+C:\Users\plamen\Desktop\05. Data Access with ADO.NET\02. Get name and description\obj\Debug\_02.Get_name_and_description.exe
+C:\Users\plamen\Desktop\05. Data Access with ADO.NET\02. Get name and description\obj\Debug\_02.Get_name_and_description.pdb
