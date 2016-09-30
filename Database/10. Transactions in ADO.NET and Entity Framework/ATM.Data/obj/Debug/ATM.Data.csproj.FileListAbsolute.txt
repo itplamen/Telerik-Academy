@@ -1,0 +1,12 @@
+C:\Users\plamen\Desktop\10. Transactions in ADO.NET and Entity Framework\ATM.Data\bin\Debug\ATM.Data.dll.config
+C:\Users\plamen\Desktop\10. Transactions in ADO.NET and Entity Framework\ATM.Data\bin\Debug\ATM.Data.dll
+C:\Users\plamen\Desktop\10. Transactions in ADO.NET and Entity Framework\ATM.Data\bin\Debug\ATM.Data.pdb
+C:\Users\plamen\Desktop\10. Transactions in ADO.NET and Entity Framework\ATM.Data\bin\Debug\ATM.Models.dll
+C:\Users\plamen\Desktop\10. Transactions in ADO.NET and Entity Framework\ATM.Data\bin\Debug\EntityFramework.dll
+C:\Users\plamen\Desktop\10. Transactions in ADO.NET and Entity Framework\ATM.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\plamen\Desktop\10. Transactions in ADO.NET and Entity Framework\ATM.Data\bin\Debug\ATM.Models.pdb
+C:\Users\plamen\Desktop\10. Transactions in ADO.NET and Entity Framework\ATM.Data\bin\Debug\EntityFramework.xml
+C:\Users\plamen\Desktop\10. Transactions in ADO.NET and Entity Framework\ATM.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\plamen\Desktop\10. Transactions in ADO.NET and Entity Framework\ATM.Data\obj\Debug\ATM.Data.csprojResolveAssemblyReference.cache
+C:\Users\plamen\Desktop\10. Transactions in ADO.NET and Entity Framework\ATM.Data\obj\Debug\ATM.Data.dll
+C:\Users\plamen\Desktop\10. Transactions in ADO.NET and Entity Framework\ATM.Data\obj\Debug\ATM.Data.pdb

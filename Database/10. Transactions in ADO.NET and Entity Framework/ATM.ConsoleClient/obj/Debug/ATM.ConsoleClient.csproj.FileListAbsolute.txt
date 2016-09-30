@@ -1,0 +1,14 @@
+C:\Users\plamen\Desktop\10. Transactions in ADO.NET and Entity Framework\ATM.ConsoleClient\bin\Debug\ATM.ConsoleClient.exe.config
+C:\Users\plamen\Desktop\10. Transactions in ADO.NET and Entity Framework\ATM.ConsoleClient\bin\Debug\ATM.ConsoleClient.exe
+C:\Users\plamen\Desktop\10. Transactions in ADO.NET and Entity Framework\ATM.ConsoleClient\bin\Debug\ATM.ConsoleClient.pdb
+C:\Users\plamen\Desktop\10. Transactions in ADO.NET and Entity Framework\ATM.ConsoleClient\bin\Debug\ATM.Data.dll
+C:\Users\plamen\Desktop\10. Transactions in ADO.NET and Entity Framework\ATM.ConsoleClient\bin\Debug\ATM.Models.dll
+C:\Users\plamen\Desktop\10. Transactions in ADO.NET and Entity Framework\ATM.ConsoleClient\bin\Debug\EntityFramework.dll
+C:\Users\plamen\Desktop\10. Transactions in ADO.NET and Entity Framework\ATM.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\plamen\Desktop\10. Transactions in ADO.NET and Entity Framework\ATM.ConsoleClient\bin\Debug\ATM.Data.pdb
+C:\Users\plamen\Desktop\10. Transactions in ADO.NET and Entity Framework\ATM.ConsoleClient\bin\Debug\ATM.Models.pdb
+C:\Users\plamen\Desktop\10. Transactions in ADO.NET and Entity Framework\ATM.ConsoleClient\bin\Debug\EntityFramework.xml
+C:\Users\plamen\Desktop\10. Transactions in ADO.NET and Entity Framework\ATM.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\plamen\Desktop\10. Transactions in ADO.NET and Entity Framework\ATM.ConsoleClient\obj\Debug\ATM.ConsoleClient.csprojResolveAssemblyReference.cache
+C:\Users\plamen\Desktop\10. Transactions in ADO.NET and Entity Framework\ATM.ConsoleClient\obj\Debug\ATM.ConsoleClient.exe
+C:\Users\plamen\Desktop\10. Transactions in ADO.NET and Entity Framework\ATM.ConsoleClient\obj\Debug\ATM.ConsoleClient.pdb
