@@ -1,0 +1,11 @@
+C:\Users\plamen\Desktop\03. Consuming Web Services\Feedzilla API\bin\Debug\Feedzilla API.exe.config
+C:\Users\plamen\Desktop\03. Consuming Web Services\Feedzilla API\bin\Debug\Feedzilla API.exe
+C:\Users\plamen\Desktop\03. Consuming Web Services\Feedzilla API\bin\Debug\Feedzilla API.pdb
+C:\Users\plamen\Desktop\03. Consuming Web Services\Feedzilla API\obj\Debug\Feedzilla API.exe
+C:\Users\plamen\Desktop\03. Consuming Web Services\Feedzilla API\obj\Debug\Feedzilla API.pdb
+C:\Users\plamen\Desktop\03. Consuming Web Services\Feedzilla API\bin\Debug\Newtonsoft.Json.dll
+C:\Users\plamen\Desktop\03. Consuming Web Services\Feedzilla API\bin\Debug\Newtonsoft.Json.xml
+C:\Users\plamen\Desktop\03. Consuming Web Services\Feedzilla API\obj\Debug\Feedzilla API.csprojResolveAssemblyReference.cache
+D:\Telerik-Academy\Web Services and Cloud Technologies\03. Consuming Web Services\Feedzilla API\bin\Debug\Feedzilla API.exe.config
+D:\Telerik-Academy\Web Services and Cloud Technologies\03. Consuming Web Services\Feedzilla API\obj\Debug\Feedzilla API.exe
+D:\Telerik-Academy\Web Services and Cloud Technologies\03. Consuming Web Services\Feedzilla API\obj\Debug\Feedzilla API.pdb
