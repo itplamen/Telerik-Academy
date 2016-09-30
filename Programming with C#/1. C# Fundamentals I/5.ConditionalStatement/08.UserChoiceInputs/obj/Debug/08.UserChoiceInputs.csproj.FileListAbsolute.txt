@@ -1,0 +1,8 @@
+C:\Users\paco\Desktop\5.ConditionalStatement\08.UserChoiceInputs\bin\Debug\08.UserChoiceInputs.exe.config
+C:\Users\paco\Desktop\5.ConditionalStatement\08.UserChoiceInputs\bin\Debug\08.UserChoiceInputs.exe
+C:\Users\paco\Desktop\5.ConditionalStatement\08.UserChoiceInputs\bin\Debug\08.UserChoiceInputs.pdb
+C:\Users\paco\Desktop\5.ConditionalStatement\08.UserChoiceInputs\obj\Debug\08.UserChoiceInputs.exe
+C:\Users\paco\Desktop\5.ConditionalStatement\08.UserChoiceInputs\obj\Debug\08.UserChoiceInputs.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\5.ConditionalStatement\08.UserChoiceInputs\bin\Debug\08.UserChoiceInputs.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\5.ConditionalStatement\08.UserChoiceInputs\obj\Debug\08.UserChoiceInputs.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\5.ConditionalStatement\08.UserChoiceInputs\obj\Debug\08.UserChoiceInputs.pdb

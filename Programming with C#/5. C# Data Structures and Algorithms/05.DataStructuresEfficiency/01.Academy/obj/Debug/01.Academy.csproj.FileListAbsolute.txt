@@ -1,0 +1,11 @@
+C:\Users\itplamen\Desktop\05.DataStructuresEfficiency\01.Academy\bin\Debug\01.Academy.exe.config
+C:\Users\itplamen\Desktop\05.DataStructuresEfficiency\01.Academy\obj\Debug\01.Academy.csprojResolveAssemblyReference.cache
+C:\Users\itplamen\Desktop\05.DataStructuresEfficiency\01.Academy\bin\Debug\01.Academy.exe
+C:\Users\itplamen\Desktop\05.DataStructuresEfficiency\01.Academy\bin\Debug\01.Academy.pdb
+C:\Users\itplamen\Desktop\05.DataStructuresEfficiency\01.Academy\obj\Debug\01.Academy.exe
+C:\Users\itplamen\Desktop\05.DataStructuresEfficiency\01.Academy\obj\Debug\01.Academy.pdb
+C:\Users\itplamen\Desktop\05.DataStructuresEfficiency\01.Academy\bin\Debug\PowerCollections.dll
+C:\Users\itplamen\Desktop\05.DataStructuresEfficiency\01.Academy\bin\Debug\PowerCollections.xml
+D:\Telerik-Academy\Programming with C#\5. C# Data Structures and Algorithms\05.DataStructuresEfficiency\01.Academy\bin\Debug\01.Academy.exe.config
+D:\Telerik-Academy\Programming with C#\5. C# Data Structures and Algorithms\05.DataStructuresEfficiency\01.Academy\obj\Debug\01.Academy.exe
+D:\Telerik-Academy\Programming with C#\5. C# Data Structures and Algorithms\05.DataStructuresEfficiency\01.Academy\obj\Debug\01.Academy.pdb

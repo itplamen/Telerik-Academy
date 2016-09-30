@@ -1,0 +1,6 @@
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\07.SelectionSortAlgorithm\bin\Debug\07.SelectionSortAlgorithm.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\07.SelectionSortAlgorithm\bin\Debug\07.SelectionSortAlgorithm.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\07.SelectionSortAlgorithm\bin\Debug\07.SelectionSortAlgorithm.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\07.SelectionSortAlgorithm\obj\Debug\07.SelectionSortAlgorithm.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\07.SelectionSortAlgorithm\obj\Debug\07.SelectionSortAlgorithm.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\07.SelectionSortAlgorithm\obj\Debug\07.SelectionSortAlgorithm.csprojResolveAssemblyReference.cache

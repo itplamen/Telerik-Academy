@@ -1,0 +1,6 @@
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\04.CountSubstring\bin\Debug\04.CountSubstring.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\04.CountSubstring\bin\Debug\04.CountSubstring.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\04.CountSubstring\bin\Debug\04.CountSubstring.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\04.CountSubstring\obj\Debug\04.CountSubstring.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\04.CountSubstring\obj\Debug\04.CountSubstring.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\04.CountSubstring\obj\Debug\04.CountSubstring.pdb

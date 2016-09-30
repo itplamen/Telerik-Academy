@@ -1,0 +1,6 @@
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\12.RemoveAllListedWords\bin\Debug\12.RemoveAllListedWords.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\12.RemoveAllListedWords\bin\Debug\12.RemoveAllListedWords.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\12.RemoveAllListedWords\bin\Debug\12.RemoveAllListedWords.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\12.RemoveAllListedWords\obj\Debug\12.RemoveAllListedWords.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\12.RemoveAllListedWords\obj\Debug\12.RemoveAllListedWords.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\12.RemoveAllListedWords\obj\Debug\12.RemoveAllListedWords.pdb

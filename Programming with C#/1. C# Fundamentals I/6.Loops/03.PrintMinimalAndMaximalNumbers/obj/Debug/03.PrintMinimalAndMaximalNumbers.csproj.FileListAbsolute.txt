@@ -1,0 +1,9 @@
+C:\Users\paco\Desktop\6.Loops\03.PrintMinimalAndMaximalNumbers\obj\Debug\03.PrintMinimalAndMaximalNumbers.csprojResolveAssemblyReference.cache
+C:\Users\paco\Desktop\6.Loops\03.PrintMinimalAndMaximalNumbers\bin\Debug\03.PrintMinimalAndMaximalNumbers.exe.config
+C:\Users\paco\Desktop\6.Loops\03.PrintMinimalAndMaximalNumbers\bin\Debug\03.PrintMinimalAndMaximalNumbers.exe
+C:\Users\paco\Desktop\6.Loops\03.PrintMinimalAndMaximalNumbers\bin\Debug\03.PrintMinimalAndMaximalNumbers.pdb
+C:\Users\paco\Desktop\6.Loops\03.PrintMinimalAndMaximalNumbers\obj\Debug\03.PrintMinimalAndMaximalNumbers.exe
+C:\Users\paco\Desktop\6.Loops\03.PrintMinimalAndMaximalNumbers\obj\Debug\03.PrintMinimalAndMaximalNumbers.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\6.Loops\03.PrintMinimalAndMaximalNumbers\bin\Debug\03.PrintMinimalAndMaximalNumbers.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\6.Loops\03.PrintMinimalAndMaximalNumbers\obj\Debug\03.PrintMinimalAndMaximalNumbers.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\6.Loops\03.PrintMinimalAndMaximalNumbers\obj\Debug\03.PrintMinimalAndMaximalNumbers.pdb

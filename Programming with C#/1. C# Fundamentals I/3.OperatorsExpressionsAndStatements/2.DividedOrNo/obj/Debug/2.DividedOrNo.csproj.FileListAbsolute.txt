@@ -1,0 +1,8 @@
+C:\Users\paco\Desktop\3.OperatorsExpressionsAndStatements\2.DividedOrNo\bin\Debug\2.DividedOrNo.exe.config
+C:\Users\paco\Desktop\3.OperatorsExpressionsAndStatements\2.DividedOrNo\bin\Debug\2.DividedOrNo.exe
+C:\Users\paco\Desktop\3.OperatorsExpressionsAndStatements\2.DividedOrNo\bin\Debug\2.DividedOrNo.pdb
+C:\Users\paco\Desktop\3.OperatorsExpressionsAndStatements\2.DividedOrNo\obj\Debug\2.DividedOrNo.exe
+C:\Users\paco\Desktop\3.OperatorsExpressionsAndStatements\2.DividedOrNo\obj\Debug\2.DividedOrNo.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\3.OperatorsExpressionsAndStatements\2.DividedOrNo\bin\Debug\2.DividedOrNo.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\3.OperatorsExpressionsAndStatements\2.DividedOrNo\obj\Debug\2.DividedOrNo.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\3.OperatorsExpressionsAndStatements\2.DividedOrNo\obj\Debug\2.DividedOrNo.pdb

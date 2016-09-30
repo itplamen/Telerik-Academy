@@ -1,0 +1,5 @@
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\21.GeneratesAllCombinations\bin\Debug\21.GeneratesAllCombinations.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\21.GeneratesAllCombinations\bin\Debug\21.GeneratesAllCombinations.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\21.GeneratesAllCombinations\bin\Debug\21.GeneratesAllCombinations.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\21.GeneratesAllCombinations\obj\Debug\21.GeneratesAllCombinations.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\21.GeneratesAllCombinations\obj\Debug\21.GeneratesAllCombinations.pdb

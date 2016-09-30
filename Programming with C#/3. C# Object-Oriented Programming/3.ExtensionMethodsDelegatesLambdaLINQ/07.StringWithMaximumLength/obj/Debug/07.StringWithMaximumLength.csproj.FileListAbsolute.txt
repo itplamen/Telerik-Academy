@@ -1,0 +1,6 @@
+C:\Users\paco\Desktop\3.ExtensionMethodsDelegatesLambdaLINQ\07.StringWithMaximumLength\bin\Debug\07.StringWithMaximumLength.exe.config
+C:\Users\paco\Desktop\3.ExtensionMethodsDelegatesLambdaLINQ\07.StringWithMaximumLength\bin\Debug\07.StringWithMaximumLength.exe
+C:\Users\paco\Desktop\3.ExtensionMethodsDelegatesLambdaLINQ\07.StringWithMaximumLength\bin\Debug\07.StringWithMaximumLength.pdb
+C:\Users\paco\Desktop\3.ExtensionMethodsDelegatesLambdaLINQ\07.StringWithMaximumLength\obj\Debug\07.StringWithMaximumLength.exe
+C:\Users\paco\Desktop\3.ExtensionMethodsDelegatesLambdaLINQ\07.StringWithMaximumLength\obj\Debug\07.StringWithMaximumLength.pdb
+C:\Users\paco\Desktop\3.ExtensionMethodsDelegatesLambdaLINQ\07.StringWithMaximumLength\obj\Debug\07.StringWithMaximumLength.csprojResolveAssemblyReference.cache

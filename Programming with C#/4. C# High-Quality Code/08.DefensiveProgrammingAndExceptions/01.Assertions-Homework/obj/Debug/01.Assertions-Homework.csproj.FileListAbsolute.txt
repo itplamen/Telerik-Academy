@@ -1,0 +1,9 @@
+C:\Users\plamen\Desktop\08.DefensiveProgrammingAndExceptions\01.Assertions-Homework\bin\Debug\01.Assertions-Homework.exe.config
+C:\Users\plamen\Desktop\08.DefensiveProgrammingAndExceptions\01.Assertions-Homework\bin\Debug\01.Assertions-Homework.exe
+C:\Users\plamen\Desktop\08.DefensiveProgrammingAndExceptions\01.Assertions-Homework\bin\Debug\01.Assertions-Homework.pdb
+C:\Users\plamen\Desktop\08.DefensiveProgrammingAndExceptions\01.Assertions-Homework\obj\Debug\01.Assertions-Homework.csprojResolveAssemblyReference.cache
+C:\Users\plamen\Desktop\08.DefensiveProgrammingAndExceptions\01.Assertions-Homework\obj\Debug\01.Assertions-Homework.exe
+C:\Users\plamen\Desktop\08.DefensiveProgrammingAndExceptions\01.Assertions-Homework\obj\Debug\01.Assertions-Homework.pdb
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\08.DefensiveProgrammingAndExceptions\01.Assertions-Homework\bin\Debug\01.Assertions-Homework.exe.config
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\08.DefensiveProgrammingAndExceptions\01.Assertions-Homework\obj\Debug\01.Assertions-Homework.exe
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\08.DefensiveProgrammingAndExceptions\01.Assertions-Homework\obj\Debug\01.Assertions-Homework.pdb

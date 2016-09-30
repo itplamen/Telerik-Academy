@@ -1,0 +1,5 @@
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\03.InsertLineNumbers\bin\Debug\03.InsertLineNumbers.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\03.InsertLineNumbers\bin\Debug\03.InsertLineNumbers.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\03.InsertLineNumbers\bin\Debug\03.InsertLineNumbers.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\03.InsertLineNumbers\obj\Debug\03.InsertLineNumbers.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\03.InsertLineNumbers\obj\Debug\03.InsertLineNumbers.pdb

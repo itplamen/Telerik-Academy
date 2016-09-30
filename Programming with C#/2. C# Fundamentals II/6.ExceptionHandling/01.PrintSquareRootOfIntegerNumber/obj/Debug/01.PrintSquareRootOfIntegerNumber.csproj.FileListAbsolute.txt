@@ -1,0 +1,6 @@
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\6.ExceptionHandling\01.PrintSquareRootOfIntegerNumber\bin\Debug\01.PrintSquareRootOfIntegerNumber.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\6.ExceptionHandling\01.PrintSquareRootOfIntegerNumber\bin\Debug\01.PrintSquareRootOfIntegerNumber.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\6.ExceptionHandling\01.PrintSquareRootOfIntegerNumber\bin\Debug\01.PrintSquareRootOfIntegerNumber.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\6.ExceptionHandling\01.PrintSquareRootOfIntegerNumber\obj\Debug\01.PrintSquareRootOfIntegerNumber.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\6.ExceptionHandling\01.PrintSquareRootOfIntegerNumber\obj\Debug\01.PrintSquareRootOfIntegerNumber.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\6.ExceptionHandling\01.PrintSquareRootOfIntegerNumber\obj\Debug\01.PrintSquareRootOfIntegerNumber.pdb

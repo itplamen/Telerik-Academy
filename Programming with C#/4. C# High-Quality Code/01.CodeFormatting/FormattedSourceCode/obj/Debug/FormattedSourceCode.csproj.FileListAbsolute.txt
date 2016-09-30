@@ -1,0 +1,4 @@
+C:\Users\plamen\Desktop\01.CodeFormatting\FormattedSourceCode\bin\Debug\FormattedSourceCode.exe.config
+C:\Users\plamen\Desktop\01.CodeFormatting\FormattedSourceCode\obj\Debug\FormattedSourceCode.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\01.CodeFormatting\FormattedSourceCode\bin\Debug\FormattedSourceCode.exe.config
+D:\Telerik-Academy\Programming with C#\4. C# High-Quality Code\01.CodeFormatting\FormattedSourceCode\bin\Debug\FormattedSourceCode.exe.config

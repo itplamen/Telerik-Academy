@@ -1,0 +1,8 @@
+C:\Users\paco\Desktop\5.ConditionalStatement\01.ExchangeValues\bin\Debug\01.ExchangeValues.exe.config
+C:\Users\paco\Desktop\5.ConditionalStatement\01.ExchangeValues\bin\Debug\01.ExchangeValues.exe
+C:\Users\paco\Desktop\5.ConditionalStatement\01.ExchangeValues\bin\Debug\01.ExchangeValues.pdb
+C:\Users\paco\Desktop\5.ConditionalStatement\01.ExchangeValues\obj\Debug\01.ExchangeValues.exe
+C:\Users\paco\Desktop\5.ConditionalStatement\01.ExchangeValues\obj\Debug\01.ExchangeValues.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\5.ConditionalStatement\01.ExchangeValues\bin\Debug\01.ExchangeValues.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\5.ConditionalStatement\01.ExchangeValues\obj\Debug\01.ExchangeValues.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\5.ConditionalStatement\01.ExchangeValues\obj\Debug\01.ExchangeValues.pdb

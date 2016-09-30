@@ -1,0 +1,21 @@
+C:\Users\itplamen\Desktop\02.TreesAndTraversals\01.Tree\bin\Debug\01.Tree.exe.config
+C:\Users\itplamen\Desktop\02.TreesAndTraversals\01.Tree\bin\Debug\01.Tree.exe
+C:\Users\itplamen\Desktop\02.TreesAndTraversals\01.Tree\bin\Debug\01.Tree.pdb
+C:\Users\itplamen\Desktop\02.TreesAndTraversals\01.Tree\obj\Debug\01.Tree.csprojResolveAssemblyReference.cache
+C:\Users\itplamen\Desktop\02.TreesAndTraversals\01.Tree\obj\Debug\01.Tree.exe
+C:\Users\itplamen\Desktop\02.TreesAndTraversals\01.Tree\obj\Debug\01.Tree.pdb
+D:\02.TreesAndTraversals\01.Tree\bin\Debug\01.Tree.exe.config
+D:\02.TreesAndTraversals\01.Tree\obj\Debug\01.Tree.exe
+D:\02.TreesAndTraversals\01.Tree\obj\Debug\01.Tree.pdb
+D:\02.TreesAndTraversals\01.Tree\bin\Debug\01.Tree.exe
+D:\02.TreesAndTraversals\01.Tree\bin\Debug\01.Tree.pdb
+D:\02.TreesAndTraversals\01.Tree\obj\Debug\01.Tree.csprojResolveAssemblyReference.cache
+D:\Telerik-Academy\Programming with C#\5. C# Data Structures and Algorithms\02.TreesAndTraversals\01.Tree\bin\Debug\01.Tree.exe.config
+D:\Telerik-Academy\Programming with C#\5. C# Data Structures and Algorithms\02.TreesAndTraversals\01.Tree\obj\Debug\01.Tree.exe
+D:\Telerik-Academy\Programming with C#\5. C# Data Structures and Algorithms\02.TreesAndTraversals\01.Tree\obj\Debug\01.Tree.pdb
+E:\Telerik-Academy\Programming with C#\5. C# Data Structures and Algorithms\02.TreesAndTraversals\01.Tree\bin\Debug\01.Tree.exe.config
+E:\Telerik-Academy\Programming with C#\5. C# Data Structures and Algorithms\02.TreesAndTraversals\01.Tree\obj\Debug\01.Tree.exe
+E:\Telerik-Academy\Programming with C#\5. C# Data Structures and Algorithms\02.TreesAndTraversals\01.Tree\obj\Debug\01.Tree.pdb
+E:\Telerik-Academy\Programming with C#\5. C# Data Structures and Algorithms\02.TreesAndTraversals\01.Tree\bin\Debug\01.Tree.exe
+E:\Telerik-Academy\Programming with C#\5. C# Data Structures and Algorithms\02.TreesAndTraversals\01.Tree\bin\Debug\01.Tree.pdb
+E:\Telerik-Academy\Programming with C#\5. C# Data Structures and Algorithms\02.TreesAndTraversals\01.Tree\obj\Debug\01.Tree.csprojResolveAssemblyReference.cache

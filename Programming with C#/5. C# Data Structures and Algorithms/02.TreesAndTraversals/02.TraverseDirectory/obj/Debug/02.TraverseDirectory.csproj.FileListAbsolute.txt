@@ -1,0 +1,15 @@
+C:\Users\itplamen\Desktop\02.TreesAndTraversals\02.TraverseDirectory\bin\Debug\02.TraverseDirectory.exe.config
+C:\Users\itplamen\Desktop\02.TreesAndTraversals\02.TraverseDirectory\bin\Debug\02.TraverseDirectory.exe
+C:\Users\itplamen\Desktop\02.TreesAndTraversals\02.TraverseDirectory\bin\Debug\02.TraverseDirectory.pdb
+C:\Users\itplamen\Desktop\02.TreesAndTraversals\02.TraverseDirectory\obj\Debug\02.TraverseDirectory.csprojResolveAssemblyReference.cache
+C:\Users\itplamen\Desktop\02.TreesAndTraversals\02.TraverseDirectory\obj\Debug\02.TraverseDirectory.exe
+C:\Users\itplamen\Desktop\02.TreesAndTraversals\02.TraverseDirectory\obj\Debug\02.TraverseDirectory.pdb
+D:\02.TreesAndTraversals\02.TraverseDirectory\bin\Debug\02.TraverseDirectory.exe.config
+D:\02.TreesAndTraversals\02.TraverseDirectory\bin\Debug\02.TraverseDirectory.exe
+D:\02.TreesAndTraversals\02.TraverseDirectory\bin\Debug\02.TraverseDirectory.pdb
+D:\02.TreesAndTraversals\02.TraverseDirectory\obj\Debug\02.TraverseDirectory.csprojResolveAssemblyReference.cache
+D:\02.TreesAndTraversals\02.TraverseDirectory\obj\Debug\02.TraverseDirectory.exe
+D:\02.TreesAndTraversals\02.TraverseDirectory\obj\Debug\02.TraverseDirectory.pdb
+D:\Telerik-Academy\Programming with C#\5. C# Data Structures and Algorithms\02.TreesAndTraversals\02.TraverseDirectory\bin\Debug\02.TraverseDirectory.exe.config
+D:\Telerik-Academy\Programming with C#\5. C# Data Structures and Algorithms\02.TreesAndTraversals\02.TraverseDirectory\obj\Debug\02.TraverseDirectory.exe
+D:\Telerik-Academy\Programming with C#\5. C# Data Structures and Algorithms\02.TreesAndTraversals\02.TraverseDirectory\obj\Debug\02.TraverseDirectory.pdb

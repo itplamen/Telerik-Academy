@@ -1,0 +1,8 @@
+C:\Users\itplamen\Desktop\04.AdvancedDataStructures\02.CollectionOfProducts\bin\Debug\02.CollectionOfProducts.exe.config
+C:\Users\itplamen\Desktop\04.AdvancedDataStructures\02.CollectionOfProducts\bin\Debug\02.CollectionOfProducts.exe
+C:\Users\itplamen\Desktop\04.AdvancedDataStructures\02.CollectionOfProducts\bin\Debug\02.CollectionOfProducts.pdb
+C:\Users\itplamen\Desktop\04.AdvancedDataStructures\02.CollectionOfProducts\obj\Debug\02.CollectionOfProducts.csprojResolveAssemblyReference.cache
+C:\Users\itplamen\Desktop\04.AdvancedDataStructures\02.CollectionOfProducts\obj\Debug\02.CollectionOfProducts.exe
+C:\Users\itplamen\Desktop\04.AdvancedDataStructures\02.CollectionOfProducts\obj\Debug\02.CollectionOfProducts.pdb
+C:\Users\itplamen\Desktop\04.AdvancedDataStructures\02.CollectionOfProducts\bin\Debug\PowerCollections.dll
+C:\Users\itplamen\Desktop\04.AdvancedDataStructures\02.CollectionOfProducts\bin\Debug\PowerCollections.xml

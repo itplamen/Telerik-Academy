@@ -1,0 +1,7 @@
+C:\Users\itplamen\Desktop\01.LinearDataStructures\08.FindArrayMajorant\bin\Debug\08.FindArrayMajorant.exe.config
+D:\01.LinearDataStructures\08.FindArrayMajorant\bin\Debug\08.FindArrayMajorant.exe.config
+D:\01.LinearDataStructures\08.FindArrayMajorant\bin\Debug\08.FindArrayMajorant.exe
+D:\01.LinearDataStructures\08.FindArrayMajorant\bin\Debug\08.FindArrayMajorant.pdb
+D:\01.LinearDataStructures\08.FindArrayMajorant\obj\Debug\08.FindArrayMajorant.csprojResolveAssemblyReference.cache
+D:\01.LinearDataStructures\08.FindArrayMajorant\obj\Debug\08.FindArrayMajorant.exe
+D:\01.LinearDataStructures\08.FindArrayMajorant\obj\Debug\08.FindArrayMajorant.pdb

@@ -1,0 +1,6 @@
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\09.ReplaceForbiddenWords\bin\Debug\09.ReplaceForbiddenWords.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\09.ReplaceForbiddenWords\bin\Debug\09.ReplaceForbiddenWords.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\09.ReplaceForbiddenWords\bin\Debug\09.ReplaceForbiddenWords.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\09.ReplaceForbiddenWords\obj\Debug\09.ReplaceForbiddenWords.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\09.ReplaceForbiddenWords\obj\Debug\09.ReplaceForbiddenWords.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\09.ReplaceForbiddenWords\obj\Debug\09.ReplaceForbiddenWords.pdb

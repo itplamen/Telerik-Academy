@@ -1,0 +1,9 @@
+C:\Users\plamen\Desktop\04.VariablesDataExpressionsConstants\01.UseProperVariableNaming\bin\Debug\01.UseProperVariableNaming.exe.config
+C:\Users\plamen\Desktop\04.VariablesDataExpressionsConstants\01.UseProperVariableNaming\bin\Debug\01.UseProperVariableNaming.exe
+C:\Users\plamen\Desktop\04.VariablesDataExpressionsConstants\01.UseProperVariableNaming\bin\Debug\01.UseProperVariableNaming.pdb
+C:\Users\plamen\Desktop\04.VariablesDataExpressionsConstants\01.UseProperVariableNaming\obj\Debug\01.UseProperVariableNaming.csprojResolveAssemblyReference.cache
+C:\Users\plamen\Desktop\04.VariablesDataExpressionsConstants\01.UseProperVariableNaming\obj\Debug\01.UseProperVariableNaming.exe
+C:\Users\plamen\Desktop\04.VariablesDataExpressionsConstants\01.UseProperVariableNaming\obj\Debug\01.UseProperVariableNaming.pdb
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\04.VariablesDataExpressionsConstants\01.UseProperVariableNaming\bin\Debug\01.UseProperVariableNaming.exe.config
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\04.VariablesDataExpressionsConstants\01.UseProperVariableNaming\obj\Debug\01.UseProperVariableNaming.exe
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\04.VariablesDataExpressionsConstants\01.UseProperVariableNaming\obj\Debug\01.UseProperVariableNaming.pdb

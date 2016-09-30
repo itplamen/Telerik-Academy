@@ -1,0 +1,6 @@
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\06.StringCharacters\bin\Debug\06.StringCharacters.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\06.StringCharacters\bin\Debug\06.StringCharacters.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\06.StringCharacters\bin\Debug\06.StringCharacters.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\06.StringCharacters\obj\Debug\06.StringCharacters.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\06.StringCharacters\obj\Debug\06.StringCharacters.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\06.StringCharacters\obj\Debug\06.StringCharacters.csprojResolveAssemblyReference.cache

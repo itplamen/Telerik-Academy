@@ -1,0 +1,12 @@
+C:\Users\paco\Desktop\2.DefiningClassesPartIIStaticMembersGenerics\02.GenericList\bin\Debug\02.GenericList.exe.config
+C:\Users\paco\Desktop\2.DefiningClassesPartIIStaticMembersGenerics\02.GenericList\bin\Debug\02.GenericList.exe
+C:\Users\paco\Desktop\2.DefiningClassesPartIIStaticMembersGenerics\02.GenericList\bin\Debug\02.GenericList.pdb
+C:\Users\paco\Desktop\2.DefiningClassesPartIIStaticMembersGenerics\02.GenericList\obj\Debug\02.GenericList.csprojResolveAssemblyReference.cache
+C:\Users\paco\Desktop\2.DefiningClassesPartIIStaticMembersGenerics\02.GenericList\obj\Debug\02.GenericList.exe
+C:\Users\paco\Desktop\2.DefiningClassesPartIIStaticMembersGenerics\02.GenericList\obj\Debug\02.GenericList.pdb
+D:\Telerik Academy\TelerikAcademy---OOP\2.DefiningClassesPartIIStaticMembersGenerics\02.GenericList\bin\Debug\02.GenericList.exe.config
+D:\Telerik Academy\TelerikAcademy---OOP\2.DefiningClassesPartIIStaticMembersGenerics\02.GenericList\obj\Debug\02.GenericList.exe
+D:\Telerik Academy\TelerikAcademy---OOP\2.DefiningClassesPartIIStaticMembersGenerics\02.GenericList\obj\Debug\02.GenericList.pdb
+D:\Telerik Academy\TelerikAcademy---OOP\2.DefiningClassesPartIIStaticMembersGenerics\02.GenericList\bin\Debug\02.GenericList.exe
+D:\Telerik Academy\TelerikAcademy---OOP\2.DefiningClassesPartIIStaticMembersGenerics\02.GenericList\bin\Debug\02.GenericList.pdb
+D:\Telerik Academy\TelerikAcademy---OOP\2.DefiningClassesPartIIStaticMembersGenerics\02.GenericList\obj\Debug\02.GenericList.csprojResolveAssemblyReference.cache

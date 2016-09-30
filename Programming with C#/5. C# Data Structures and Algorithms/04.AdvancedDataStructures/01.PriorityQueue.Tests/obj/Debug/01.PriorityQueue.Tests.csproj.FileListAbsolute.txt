@@ -1,0 +1,7 @@
+C:\Users\itplamen\Desktop\04.AdvancedDataStructures\01.PriorityQueue.Tests\bin\Debug\01.PriorityQueue.Tests.dll
+C:\Users\itplamen\Desktop\04.AdvancedDataStructures\01.PriorityQueue.Tests\bin\Debug\01.PriorityQueue.Tests.pdb
+C:\Users\itplamen\Desktop\04.AdvancedDataStructures\01.PriorityQueue.Tests\bin\Debug\01.PriorityQueue.exe
+C:\Users\itplamen\Desktop\04.AdvancedDataStructures\01.PriorityQueue.Tests\bin\Debug\01.PriorityQueue.pdb
+C:\Users\itplamen\Desktop\04.AdvancedDataStructures\01.PriorityQueue.Tests\obj\Debug\01.PriorityQueue.Tests.csprojResolveAssemblyReference.cache
+C:\Users\itplamen\Desktop\04.AdvancedDataStructures\01.PriorityQueue.Tests\obj\Debug\01.PriorityQueue.Tests.dll
+C:\Users\itplamen\Desktop\04.AdvancedDataStructures\01.PriorityQueue.Tests\obj\Debug\01.PriorityQueue.Tests.pdb

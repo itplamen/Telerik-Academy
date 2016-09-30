@@ -1,0 +1,6 @@
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\08.ReplaceOnlyWholeWords\bin\Debug\08.ReplaceOnlyWholeWords.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\08.ReplaceOnlyWholeWords\bin\Debug\08.ReplaceOnlyWholeWords.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\08.ReplaceOnlyWholeWords\bin\Debug\08.ReplaceOnlyWholeWords.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\08.ReplaceOnlyWholeWords\obj\Debug\08.ReplaceOnlyWholeWords.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\08.ReplaceOnlyWholeWords\obj\Debug\08.ReplaceOnlyWholeWords.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\08.ReplaceOnlyWholeWords\obj\Debug\08.ReplaceOnlyWholeWords.pdb

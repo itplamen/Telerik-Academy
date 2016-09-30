@@ -1,0 +1,9 @@
+C:\Users\paco\Desktop\4.ConsoleInputOutput\04.NumbersDividedBy5\bin\Debug\04.NumbersDividedBy5.exe.config
+C:\Users\paco\Desktop\4.ConsoleInputOutput\04.NumbersDividedBy5\bin\Debug\04.NumbersDividedBy5.exe
+C:\Users\paco\Desktop\4.ConsoleInputOutput\04.NumbersDividedBy5\bin\Debug\04.NumbersDividedBy5.pdb
+C:\Users\paco\Desktop\4.ConsoleInputOutput\04.NumbersDividedBy5\obj\Debug\04.NumbersDividedBy5.csprojResolveAssemblyReference.cache
+C:\Users\paco\Desktop\4.ConsoleInputOutput\04.NumbersDividedBy5\obj\Debug\04.NumbersDividedBy5.exe
+C:\Users\paco\Desktop\4.ConsoleInputOutput\04.NumbersDividedBy5\obj\Debug\04.NumbersDividedBy5.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\4.ConsoleInputOutput\04.NumbersDividedBy5\bin\Debug\04.NumbersDividedBy5.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\4.ConsoleInputOutput\04.NumbersDividedBy5\obj\Debug\04.NumbersDividedBy5.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\4.ConsoleInputOutput\04.NumbersDividedBy5\obj\Debug\04.NumbersDividedBy5.pdb

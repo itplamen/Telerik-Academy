@@ -1,0 +1,12 @@
+C:\Users\plamen\Desktop\09.CodeTuningAndOptimization\03.ComparePerformanceOfSortingAlgorithms\bin\Debug\03.ComparePerformanceOfSortingAlgorithms.exe.config
+C:\Users\plamen\Desktop\09.CodeTuningAndOptimization\03.ComparePerformanceOfSortingAlgorithms\obj\Debug\03.ComparePerformanceOfSortingAlgorithms.csprojResolveAssemblyReference.cache
+C:\Users\plamen\Desktop\09.CodeTuningAndOptimization\03.ComparePerformanceOfSortingAlgorithms\bin\Debug\03.ComparePerformanceOfSortingAlgorithms.exe
+C:\Users\plamen\Desktop\09.CodeTuningAndOptimization\03.ComparePerformanceOfSortingAlgorithms\bin\Debug\03.ComparePerformanceOfSortingAlgorithms.pdb
+C:\Users\plamen\Desktop\09.CodeTuningAndOptimization\03.ComparePerformanceOfSortingAlgorithms\obj\Debug\03.ComparePerformanceOfSortingAlgorithms.exe
+C:\Users\plamen\Desktop\09.CodeTuningAndOptimization\03.ComparePerformanceOfSortingAlgorithms\obj\Debug\03.ComparePerformanceOfSortingAlgorithms.pdb
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\09.CodeTuningAndOptimization\03.ComparePerformanceOfSortingAlgorithms\bin\Debug\03.ComparePerformanceOfSortingAlgorithms.exe.config
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\09.CodeTuningAndOptimization\03.ComparePerformanceOfSortingAlgorithms\bin\Debug\03.ComparePerformanceOfSortingAlgorithms.exe
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\09.CodeTuningAndOptimization\03.ComparePerformanceOfSortingAlgorithms\bin\Debug\03.ComparePerformanceOfSortingAlgorithms.pdb
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\09.CodeTuningAndOptimization\03.ComparePerformanceOfSortingAlgorithms\obj\Debug\03.ComparePerformanceOfSortingAlgorithms.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\09.CodeTuningAndOptimization\03.ComparePerformanceOfSortingAlgorithms\obj\Debug\03.ComparePerformanceOfSortingAlgorithms.exe
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\09.CodeTuningAndOptimization\03.ComparePerformanceOfSortingAlgorithms\obj\Debug\03.ComparePerformanceOfSortingAlgorithms.pdb

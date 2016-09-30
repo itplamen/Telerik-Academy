@@ -1,0 +1,8 @@
+C:\Users\paco\Desktop\2.PrimitiveDataTypesAndVariables\08.DeclareTwoString\bin\Debug\08.DeclareTwoString.exe.config
+C:\Users\paco\Desktop\2.PrimitiveDataTypesAndVariables\08.DeclareTwoString\bin\Debug\08.DeclareTwoString.exe
+C:\Users\paco\Desktop\2.PrimitiveDataTypesAndVariables\08.DeclareTwoString\bin\Debug\08.DeclareTwoString.pdb
+C:\Users\paco\Desktop\2.PrimitiveDataTypesAndVariables\08.DeclareTwoString\obj\Debug\08.DeclareTwoString.exe
+C:\Users\paco\Desktop\2.PrimitiveDataTypesAndVariables\08.DeclareTwoString\obj\Debug\08.DeclareTwoString.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\2.PrimitiveDataTypesAndVariables\08.DeclareTwoString\bin\Debug\08.DeclareTwoString.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\2.PrimitiveDataTypesAndVariables\08.DeclareTwoString\obj\Debug\08.DeclareTwoString.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\2.PrimitiveDataTypesAndVariables\08.DeclareTwoString\obj\Debug\08.DeclareTwoString.pdb

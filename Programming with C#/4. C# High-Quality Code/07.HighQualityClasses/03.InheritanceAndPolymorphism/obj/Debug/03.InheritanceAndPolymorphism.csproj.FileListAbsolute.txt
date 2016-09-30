@@ -1,0 +1,6 @@
+C:\Users\plamen\Desktop\07.HighQualityClasses\03.InheritanceAndPolymorphism\bin\Debug\03.InheritanceAndPolymorphism.exe.config
+C:\Users\plamen\Desktop\07.HighQualityClasses\03.InheritanceAndPolymorphism\bin\Debug\03.InheritanceAndPolymorphism.exe
+C:\Users\plamen\Desktop\07.HighQualityClasses\03.InheritanceAndPolymorphism\bin\Debug\03.InheritanceAndPolymorphism.pdb
+C:\Users\plamen\Desktop\07.HighQualityClasses\03.InheritanceAndPolymorphism\obj\Debug\03.InheritanceAndPolymorphism.csprojResolveAssemblyReference.cache
+C:\Users\plamen\Desktop\07.HighQualityClasses\03.InheritanceAndPolymorphism\obj\Debug\03.InheritanceAndPolymorphism.exe
+C:\Users\plamen\Desktop\07.HighQualityClasses\03.InheritanceAndPolymorphism\obj\Debug\03.InheritanceAndPolymorphism.pdb

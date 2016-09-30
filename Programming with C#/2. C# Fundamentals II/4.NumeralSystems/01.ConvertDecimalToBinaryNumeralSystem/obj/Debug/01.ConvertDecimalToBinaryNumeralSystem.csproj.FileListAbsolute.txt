@@ -1,0 +1,1 @@
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\4.NumeralSystems\01.ConvertDecimalToBinaryNumeralSystem\bin\Debug\01.ConvertDecimalToBinaryNumeralSystem.exe.config

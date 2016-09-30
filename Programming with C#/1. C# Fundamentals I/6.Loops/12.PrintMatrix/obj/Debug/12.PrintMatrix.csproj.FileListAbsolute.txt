@@ -1,0 +1,10 @@
+C:\Users\paco\Desktop\6.Loops\12.PrintMatrix\bin\Debug\12.PrintMatrix.exe.config
+C:\Users\paco\Desktop\6.Loops\12.PrintMatrix\bin\Debug\12.PrintMatrix.exe
+C:\Users\paco\Desktop\6.Loops\12.PrintMatrix\bin\Debug\12.PrintMatrix.pdb
+C:\Users\paco\Desktop\6.Loops\12.PrintMatrix\obj\Debug\12.PrintMatrix.exe
+C:\Users\paco\Desktop\6.Loops\12.PrintMatrix\obj\Debug\12.PrintMatrix.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\6.Loops\12.PrintMatrix\bin\Debug\12.PrintMatrix.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\6.Loops\12.PrintMatrix\obj\Debug\12.PrintMatrix.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\6.Loops\12.PrintMatrix\obj\Debug\12.PrintMatrix.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\6.Loops\12.PrintMatrix\bin\Debug\12.PrintMatrix.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\6.Loops\12.PrintMatrix\bin\Debug\12.PrintMatrix.pdb

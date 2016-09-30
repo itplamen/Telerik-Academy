@@ -1,0 +1,9 @@
+C:\Users\plamen\Desktop\07.HighQualityClasses\01.Abstraction\bin\Debug\01.Abstraction.exe.config
+C:\Users\plamen\Desktop\07.HighQualityClasses\01.Abstraction\bin\Debug\01.Abstraction.exe
+C:\Users\plamen\Desktop\07.HighQualityClasses\01.Abstraction\bin\Debug\01.Abstraction.pdb
+C:\Users\plamen\Desktop\07.HighQualityClasses\01.Abstraction\obj\Debug\01.Abstraction.csprojResolveAssemblyReference.cache
+C:\Users\plamen\Desktop\07.HighQualityClasses\01.Abstraction\obj\Debug\01.Abstraction.exe
+C:\Users\plamen\Desktop\07.HighQualityClasses\01.Abstraction\obj\Debug\01.Abstraction.pdb
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\07.HighQualityClasses\01.Abstraction\bin\Debug\01.Abstraction.exe.config
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\07.HighQualityClasses\01.Abstraction\obj\Debug\01.Abstraction.exe
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\07.HighQualityClasses\01.Abstraction\obj\Debug\01.Abstraction.pdb

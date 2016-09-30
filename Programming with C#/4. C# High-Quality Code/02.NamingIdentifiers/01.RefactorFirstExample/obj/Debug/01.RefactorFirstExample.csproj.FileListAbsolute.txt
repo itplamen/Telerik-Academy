@@ -1,0 +1,8 @@
+C:\Users\plamen\Desktop\02.NamingIdentifiers\01.RefactorFirstExample\bin\Debug\01.RefactorFirstExample.exe.config
+C:\Users\plamen\Desktop\02.NamingIdentifiers\01.RefactorFirstExample\bin\Debug\01.RefactorFirstExample.exe
+C:\Users\plamen\Desktop\02.NamingIdentifiers\01.RefactorFirstExample\bin\Debug\01.RefactorFirstExample.pdb
+C:\Users\plamen\Desktop\02.NamingIdentifiers\01.RefactorFirstExample\obj\Debug\01.RefactorFirstExample.exe
+C:\Users\plamen\Desktop\02.NamingIdentifiers\01.RefactorFirstExample\obj\Debug\01.RefactorFirstExample.pdb
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\02.NamingIdentifiers\01.RefactorFirstExample\bin\Debug\01.RefactorFirstExample.exe.config
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\02.NamingIdentifiers\01.RefactorFirstExample\obj\Debug\01.RefactorFirstExample.exe
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\02.NamingIdentifiers\01.RefactorFirstExample\obj\Debug\01.RefactorFirstExample.pdb

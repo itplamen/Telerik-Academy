@@ -1,0 +1,5 @@
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\02.CompareTwoArrays\bin\Debug\02.CompareTwoArrays.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\02.CompareTwoArrays\bin\Debug\02.CompareTwoArrays.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\02.CompareTwoArrays\bin\Debug\02.CompareTwoArrays.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\02.CompareTwoArrays\obj\Debug\02.CompareTwoArrays.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\02.CompareTwoArrays\obj\Debug\02.CompareTwoArrays.pdb

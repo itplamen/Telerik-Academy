@@ -1,0 +1,6 @@
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\6.ExceptionHandling\04.DownloadsFileFromInternet\bin\Debug\04.DownloadsFileFromInternet.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\6.ExceptionHandling\04.DownloadsFileFromInternet\bin\Debug\04.DownloadsFileFromInternet.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\6.ExceptionHandling\04.DownloadsFileFromInternet\bin\Debug\04.DownloadsFileFromInternet.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\6.ExceptionHandling\04.DownloadsFileFromInternet\obj\Debug\04.DownloadsFileFromInternet.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\6.ExceptionHandling\04.DownloadsFileFromInternet\obj\Debug\04.DownloadsFileFromInternet.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\6.ExceptionHandling\04.DownloadsFileFromInternet\obj\Debug\04.DownloadsFileFromInternet.pdb

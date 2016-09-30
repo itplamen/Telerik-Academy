@@ -1,0 +1,9 @@
+C:\Users\itplamen\Desktop\03.DictionariesHashTablesAndSets\02.ExtractElementsWithOddOcurrence\bin\Debug\02.ExtractElementsWithOddOcurrence.exe.config
+C:\Users\itplamen\Desktop\03.DictionariesHashTablesAndSets\02.ExtractElementsWithOddOcurrence\bin\Debug\02.ExtractElementsWithOddOcurrence.exe
+C:\Users\itplamen\Desktop\03.DictionariesHashTablesAndSets\02.ExtractElementsWithOddOcurrence\bin\Debug\02.ExtractElementsWithOddOcurrence.pdb
+C:\Users\itplamen\Desktop\03.DictionariesHashTablesAndSets\02.ExtractElementsWithOddOcurrence\obj\Debug\02.ExtractElementsWithOddOcurrence.csprojResolveAssemblyReference.cache
+C:\Users\itplamen\Desktop\03.DictionariesHashTablesAndSets\02.ExtractElementsWithOddOcurrence\obj\Debug\02.ExtractElementsWithOddOcurrence.exe
+C:\Users\itplamen\Desktop\03.DictionariesHashTablesAndSets\02.ExtractElementsWithOddOcurrence\obj\Debug\02.ExtractElementsWithOddOcurrence.pdb
+D:\Telerik-Academy\Programming with C#\5. C# Data Structures and Algorithms\03.DictionariesHashTablesAndSets\02.ExtractElementsWithOddOcurrence\bin\Debug\02.ExtractElementsWithOddOcurrence.exe.config
+D:\Telerik-Academy\Programming with C#\5. C# Data Structures and Algorithms\03.DictionariesHashTablesAndSets\02.ExtractElementsWithOddOcurrence\obj\Debug\02.ExtractElementsWithOddOcurrence.exe
+D:\Telerik-Academy\Programming with C#\5. C# Data Structures and Algorithms\03.DictionariesHashTablesAndSets\02.ExtractElementsWithOddOcurrence\obj\Debug\02.ExtractElementsWithOddOcurrence.pdb

@@ -1,0 +1,9 @@
+C:\Users\paco\Desktop\6.Loops\01.PrintNumbersFrom1toN\bin\Debug\01.PrintNumbersFrom1toN.exe.config
+C:\Users\paco\Desktop\6.Loops\01.PrintNumbersFrom1toN\bin\Debug\01.PrintNumbersFrom1toN.exe
+C:\Users\paco\Desktop\6.Loops\01.PrintNumbersFrom1toN\bin\Debug\01.PrintNumbersFrom1toN.pdb
+C:\Users\paco\Desktop\6.Loops\01.PrintNumbersFrom1toN\obj\Debug\01.PrintNumbersFrom1toN.csprojResolveAssemblyReference.cache
+C:\Users\paco\Desktop\6.Loops\01.PrintNumbersFrom1toN\obj\Debug\01.PrintNumbersFrom1toN.exe
+C:\Users\paco\Desktop\6.Loops\01.PrintNumbersFrom1toN\obj\Debug\01.PrintNumbersFrom1toN.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\6.Loops\01.PrintNumbersFrom1toN\bin\Debug\01.PrintNumbersFrom1toN.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\6.Loops\01.PrintNumbersFrom1toN\obj\Debug\01.PrintNumbersFrom1toN.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\6.Loops\01.PrintNumbersFrom1toN\obj\Debug\01.PrintNumbersFrom1toN.pdb

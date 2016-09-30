@@ -1,0 +1,6 @@
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\02.ConcatenateTwoTextFilesIntoAnother\bin\Debug\02.ConcatenateTwoTextFilesIntoAnother.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\02.ConcatenateTwoTextFilesIntoAnother\bin\Debug\02.ConcatenateTwoTextFilesIntoAnother.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\02.ConcatenateTwoTextFilesIntoAnother\bin\Debug\02.ConcatenateTwoTextFilesIntoAnother.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\02.ConcatenateTwoTextFilesIntoAnother\obj\Debug\02.ConcatenateTwoTextFilesIntoAnother.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\02.ConcatenateTwoTextFilesIntoAnother\obj\Debug\02.ConcatenateTwoTextFilesIntoAnother.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\02.ConcatenateTwoTextFilesIntoAnother\obj\Debug\02.ConcatenateTwoTextFilesIntoAnother.csprojResolveAssemblyReference.cache

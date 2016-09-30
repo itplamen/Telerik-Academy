@@ -1,0 +1,9 @@
+C:\Users\paco\Desktop\6.Loops\11.PrintAllCardsFromDeck\bin\Debug\11.PrintAllCardsFromDeck.exe.config
+C:\Users\paco\Desktop\6.Loops\11.PrintAllCardsFromDeck\bin\Debug\11.PrintAllCardsFromDeck.exe
+C:\Users\paco\Desktop\6.Loops\11.PrintAllCardsFromDeck\bin\Debug\11.PrintAllCardsFromDeck.pdb
+C:\Users\paco\Desktop\6.Loops\11.PrintAllCardsFromDeck\obj\Debug\11.PrintAllCardsFromDeck.csprojResolveAssemblyReference.cache
+C:\Users\paco\Desktop\6.Loops\11.PrintAllCardsFromDeck\obj\Debug\11.PrintAllCardsFromDeck.exe
+C:\Users\paco\Desktop\6.Loops\11.PrintAllCardsFromDeck\obj\Debug\11.PrintAllCardsFromDeck.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\6.Loops\11.PrintAllCardsFromDeck\bin\Debug\11.PrintAllCardsFromDeck.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\6.Loops\11.PrintAllCardsFromDeck\obj\Debug\11.PrintAllCardsFromDeck.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\6.Loops\11.PrintAllCardsFromDeck\obj\Debug\11.PrintAllCardsFromDeck.pdb

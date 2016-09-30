@@ -1,0 +1,5 @@
+C:\Users\paco\Desktop\4.ConsoleInputOutput\09.SequenceOfFibonacci\bin\Debug\09.SequenceOfFibonacci.exe.config
+C:\Users\paco\Desktop\4.ConsoleInputOutput\09.SequenceOfFibonacci\bin\Debug\09.SequenceOfFibonacci.exe
+C:\Users\paco\Desktop\4.ConsoleInputOutput\09.SequenceOfFibonacci\bin\Debug\09.SequenceOfFibonacci.pdb
+C:\Users\paco\Desktop\4.ConsoleInputOutput\09.SequenceOfFibonacci\obj\Debug\09.SequenceOfFibonacci.exe
+C:\Users\paco\Desktop\4.ConsoleInputOutput\09.SequenceOfFibonacci\obj\Debug\09.SequenceOfFibonacci.pdb

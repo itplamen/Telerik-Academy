@@ -1,0 +1,6 @@
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\10.SequenceOfGivenSumInGivenArray\bin\Debug\10.SequenceOfGivenSumInGivenArray.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\10.SequenceOfGivenSumInGivenArray\bin\Debug\10.SequenceOfGivenSumInGivenArray.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\10.SequenceOfGivenSumInGivenArray\bin\Debug\10.SequenceOfGivenSumInGivenArray.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\10.SequenceOfGivenSumInGivenArray\obj\Debug\10.SequenceOfGivenSumInGivenArray.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\10.SequenceOfGivenSumInGivenArray\obj\Debug\10.SequenceOfGivenSumInGivenArray.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\10.SequenceOfGivenSumInGivenArray\obj\Debug\10.SequenceOfGivenSumInGivenArray.csprojResolveAssemblyReference.cache

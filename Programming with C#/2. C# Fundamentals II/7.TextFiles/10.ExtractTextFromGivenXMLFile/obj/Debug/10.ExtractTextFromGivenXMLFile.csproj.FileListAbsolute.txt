@@ -1,0 +1,6 @@
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\10.ExtractTextFromGivenXMLFile\bin\Debug\10.ExtractTextFromGivenXMLFile.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\10.ExtractTextFromGivenXMLFile\bin\Debug\10.ExtractTextFromGivenXMLFile.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\10.ExtractTextFromGivenXMLFile\bin\Debug\10.ExtractTextFromGivenXMLFile.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\10.ExtractTextFromGivenXMLFile\obj\Debug\10.ExtractTextFromGivenXMLFile.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\10.ExtractTextFromGivenXMLFile\obj\Debug\10.ExtractTextFromGivenXMLFile.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\10.ExtractTextFromGivenXMLFile\obj\Debug\10.ExtractTextFromGivenXMLFile.pdb

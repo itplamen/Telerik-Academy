@@ -1,0 +1,9 @@
+C:\Users\paco\Desktop\3.ExtensionMethodsDelegatesLambdaLINQ\01.StringBuilderExtensionMethod\bin\Debug\01.StringBuilderExtensionMethod.exe.config
+C:\Users\paco\Desktop\3.ExtensionMethodsDelegatesLambdaLINQ\01.StringBuilderExtensionMethod\obj\Debug\01.StringBuilderExtensionMethod.csprojResolveAssemblyReference.cache
+C:\Users\paco\Desktop\3.ExtensionMethodsDelegatesLambdaLINQ\01.StringBuilderExtensionMethod\bin\Debug\01.StringBuilderExtensionMethod.exe
+C:\Users\paco\Desktop\3.ExtensionMethodsDelegatesLambdaLINQ\01.StringBuilderExtensionMethod\bin\Debug\01.StringBuilderExtensionMethod.pdb
+C:\Users\paco\Desktop\3.ExtensionMethodsDelegatesLambdaLINQ\01.StringBuilderExtensionMethod\obj\Debug\01.StringBuilderExtensionMethod.exe
+C:\Users\paco\Desktop\3.ExtensionMethodsDelegatesLambdaLINQ\01.StringBuilderExtensionMethod\obj\Debug\01.StringBuilderExtensionMethod.pdb
+D:\Telerik Academy\TelerikAcademy---OOP\3.ExtensionMethodsDelegatesLambdaLINQ\01.StringBuilderExtensionMethod\bin\Debug\01.StringBuilderExtensionMethod.exe.config
+D:\Telerik Academy\TelerikAcademy---OOP\3.ExtensionMethodsDelegatesLambdaLINQ\01.StringBuilderExtensionMethod\obj\Debug\01.StringBuilderExtensionMethod.exe
+D:\Telerik Academy\TelerikAcademy---OOP\3.ExtensionMethodsDelegatesLambdaLINQ\01.StringBuilderExtensionMethod\obj\Debug\01.StringBuilderExtensionMethod.pdb

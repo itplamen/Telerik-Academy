@@ -1,0 +1,5 @@
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\10.ConvertSequenceToUnicodeLiterals\bin\Debug\10.ConvertSequenceToUnicodeLiterals.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\10.ConvertSequenceToUnicodeLiterals\bin\Debug\10.ConvertSequenceToUnicodeLiterals.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\10.ConvertSequenceToUnicodeLiterals\bin\Debug\10.ConvertSequenceToUnicodeLiterals.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\10.ConvertSequenceToUnicodeLiterals\obj\Debug\10.ConvertSequenceToUnicodeLiterals.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\10.ConvertSequenceToUnicodeLiterals\obj\Debug\10.ConvertSequenceToUnicodeLiterals.pdb

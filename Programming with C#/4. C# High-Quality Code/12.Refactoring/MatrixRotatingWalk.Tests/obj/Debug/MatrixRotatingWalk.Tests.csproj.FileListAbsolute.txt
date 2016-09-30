@@ -1,0 +1,14 @@
+C:\Users\plamen\Desktop\12.Refactoring\MatrixRotatingWalk.Tests\bin\Debug\MatrixRotatingWalk.Tests.dll
+C:\Users\plamen\Desktop\12.Refactoring\MatrixRotatingWalk.Tests\bin\Debug\MatrixRotatingWalk.Tests.pdb
+C:\Users\plamen\Desktop\12.Refactoring\MatrixRotatingWalk.Tests\obj\Debug\MatrixRotatingWalk.Tests.csprojResolveAssemblyReference.cache
+C:\Users\plamen\Desktop\12.Refactoring\MatrixRotatingWalk.Tests\obj\Debug\MatrixRotatingWalk.Tests.dll
+C:\Users\plamen\Desktop\12.Refactoring\MatrixRotatingWalk.Tests\obj\Debug\MatrixRotatingWalk.Tests.pdb
+C:\Users\plamen\Desktop\12.Refactoring\MatrixRotatingWalk.Tests\bin\Debug\Matrix.exe
+C:\Users\plamen\Desktop\12.Refactoring\MatrixRotatingWalk.Tests\bin\Debug\Matrix.pdb
+D:\12.Refactoring\MatrixRotatingWalk.Tests\bin\Debug\MatrixRotatingWalk.Tests.dll
+D:\12.Refactoring\MatrixRotatingWalk.Tests\bin\Debug\MatrixRotatingWalk.Tests.pdb
+D:\12.Refactoring\MatrixRotatingWalk.Tests\bin\Debug\Matrix.exe
+D:\12.Refactoring\MatrixRotatingWalk.Tests\bin\Debug\Matrix.pdb
+D:\12.Refactoring\MatrixRotatingWalk.Tests\obj\Debug\MatrixRotatingWalk.Tests.csprojResolveAssemblyReference.cache
+D:\12.Refactoring\MatrixRotatingWalk.Tests\obj\Debug\MatrixRotatingWalk.Tests.dll
+D:\12.Refactoring\MatrixRotatingWalk.Tests\obj\Debug\MatrixRotatingWalk.Tests.pdb

@@ -1,0 +1,7 @@
+3 times - file
+2 times - program
+1 times - words
+1 times - methods
+1 times - list
+1 times - exceptions
+0 times - number

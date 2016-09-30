@@ -1,0 +1,7 @@
+C:\Users\itplamen\Desktop\03.DictionariesHashTablesAndSets\04.ImplementDataStructureHashTable.Tests\obj\Debug\04.ImplementDataStructureHashTable.Tests.csprojResolveAssemblyReference.cache
+C:\Users\itplamen\Desktop\03.DictionariesHashTablesAndSets\04.ImplementDataStructureHashTable.Tests\bin\Debug\04.ImplementDataStructureHashTable.Tests.dll
+C:\Users\itplamen\Desktop\03.DictionariesHashTablesAndSets\04.ImplementDataStructureHashTable.Tests\bin\Debug\04.ImplementDataStructureHashTable.Tests.pdb
+C:\Users\itplamen\Desktop\03.DictionariesHashTablesAndSets\04.ImplementDataStructureHashTable.Tests\bin\Debug\04.ImplementDataStructureHashTable.exe
+C:\Users\itplamen\Desktop\03.DictionariesHashTablesAndSets\04.ImplementDataStructureHashTable.Tests\bin\Debug\04.ImplementDataStructureHashTable.pdb
+C:\Users\itplamen\Desktop\03.DictionariesHashTablesAndSets\04.ImplementDataStructureHashTable.Tests\obj\Debug\04.ImplementDataStructureHashTable.Tests.dll
+C:\Users\itplamen\Desktop\03.DictionariesHashTablesAndSets\04.ImplementDataStructureHashTable.Tests\obj\Debug\04.ImplementDataStructureHashTable.Tests.pdb

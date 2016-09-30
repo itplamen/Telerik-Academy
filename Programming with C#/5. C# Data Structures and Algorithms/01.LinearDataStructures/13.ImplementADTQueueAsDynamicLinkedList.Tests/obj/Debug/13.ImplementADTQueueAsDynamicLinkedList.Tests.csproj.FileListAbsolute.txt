@@ -1,0 +1,7 @@
+D:\01.LinearDataStructures\13.ImplementADTQueueAsDynamicLinkedList.Tests\bin\Debug\13.ImplementADTQueueAsDynamicLinkedList.Tests.dll
+D:\01.LinearDataStructures\13.ImplementADTQueueAsDynamicLinkedList.Tests\bin\Debug\13.ImplementADTQueueAsDynamicLinkedList.Tests.pdb
+D:\01.LinearDataStructures\13.ImplementADTQueueAsDynamicLinkedList.Tests\bin\Debug\13.ImplementADTQueueAsDynamicLinkedList.exe
+D:\01.LinearDataStructures\13.ImplementADTQueueAsDynamicLinkedList.Tests\bin\Debug\13.ImplementADTQueueAsDynamicLinkedList.pdb
+D:\01.LinearDataStructures\13.ImplementADTQueueAsDynamicLinkedList.Tests\obj\Debug\13.ImplementADTQueueAsDynamicLinkedList.Tests.csprojResolveAssemblyReference.cache
+D:\01.LinearDataStructures\13.ImplementADTQueueAsDynamicLinkedList.Tests\obj\Debug\13.ImplementADTQueueAsDynamicLinkedList.Tests.dll
+D:\01.LinearDataStructures\13.ImplementADTQueueAsDynamicLinkedList.Tests\obj\Debug\13.ImplementADTQueueAsDynamicLinkedList.Tests.pdb

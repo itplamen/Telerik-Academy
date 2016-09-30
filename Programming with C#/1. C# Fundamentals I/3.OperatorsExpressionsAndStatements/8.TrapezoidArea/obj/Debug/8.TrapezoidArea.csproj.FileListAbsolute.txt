@@ -1,0 +1,8 @@
+C:\Users\paco\Desktop\3.OperatorsExpressionsAndStatements\8.TrapezoidArea\bin\Debug\8.TrapezoidArea.exe.config
+C:\Users\paco\Desktop\3.OperatorsExpressionsAndStatements\8.TrapezoidArea\bin\Debug\8.TrapezoidArea.exe
+C:\Users\paco\Desktop\3.OperatorsExpressionsAndStatements\8.TrapezoidArea\bin\Debug\8.TrapezoidArea.pdb
+C:\Users\paco\Desktop\3.OperatorsExpressionsAndStatements\8.TrapezoidArea\obj\Debug\8.TrapezoidArea.exe
+C:\Users\paco\Desktop\3.OperatorsExpressionsAndStatements\8.TrapezoidArea\obj\Debug\8.TrapezoidArea.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\3.OperatorsExpressionsAndStatements\8.TrapezoidArea\bin\Debug\8.TrapezoidArea.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\3.OperatorsExpressionsAndStatements\8.TrapezoidArea\obj\Debug\8.TrapezoidArea.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\3.OperatorsExpressionsAndStatements\8.TrapezoidArea\obj\Debug\8.TrapezoidArea.pdb

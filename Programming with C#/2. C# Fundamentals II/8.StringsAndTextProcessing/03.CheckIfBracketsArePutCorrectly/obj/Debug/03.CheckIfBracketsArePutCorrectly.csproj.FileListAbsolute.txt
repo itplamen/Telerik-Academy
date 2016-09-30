@@ -1,0 +1,5 @@
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\03.CheckIfBracketsArePutCorrectly\bin\Debug\03.CheckIfBracketsArePutCorrectly.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\03.CheckIfBracketsArePutCorrectly\bin\Debug\03.CheckIfBracketsArePutCorrectly.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\03.CheckIfBracketsArePutCorrectly\bin\Debug\03.CheckIfBracketsArePutCorrectly.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\03.CheckIfBracketsArePutCorrectly\obj\Debug\03.CheckIfBracketsArePutCorrectly.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\03.CheckIfBracketsArePutCorrectly\obj\Debug\03.CheckIfBracketsArePutCorrectly.pdb

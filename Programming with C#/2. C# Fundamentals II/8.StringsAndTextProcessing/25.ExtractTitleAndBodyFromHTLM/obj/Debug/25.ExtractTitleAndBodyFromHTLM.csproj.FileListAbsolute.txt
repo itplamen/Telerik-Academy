@@ -1,0 +1,6 @@
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\25.ExtractTitleAndBodyFromHTLM\bin\Debug\25.ExtractTitleAndBodyFromHTLM.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\25.ExtractTitleAndBodyFromHTLM\bin\Debug\25.ExtractTitleAndBodyFromHTLM.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\25.ExtractTitleAndBodyFromHTLM\bin\Debug\25.ExtractTitleAndBodyFromHTLM.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\25.ExtractTitleAndBodyFromHTLM\obj\Debug\25.ExtractTitleAndBodyFromHTLM.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\25.ExtractTitleAndBodyFromHTLM\obj\Debug\25.ExtractTitleAndBodyFromHTLM.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\25.ExtractTitleAndBodyFromHTLM\obj\Debug\25.ExtractTitleAndBodyFromHTLM.csprojResolveAssemblyReference.cache

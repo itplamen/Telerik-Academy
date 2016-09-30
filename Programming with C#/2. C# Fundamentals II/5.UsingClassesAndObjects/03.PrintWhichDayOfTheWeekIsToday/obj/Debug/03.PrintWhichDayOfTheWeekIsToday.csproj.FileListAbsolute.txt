@@ -1,0 +1,5 @@
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\5.UsingClassesAndObjects\03.PrintWhichDayOfTheWeekIsToday\bin\Debug\03.PrintWhichDayOfTheWeekIsToday.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\5.UsingClassesAndObjects\03.PrintWhichDayOfTheWeekIsToday\bin\Debug\03.PrintWhichDayOfTheWeekIsToday.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\5.UsingClassesAndObjects\03.PrintWhichDayOfTheWeekIsToday\bin\Debug\03.PrintWhichDayOfTheWeekIsToday.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\5.UsingClassesAndObjects\03.PrintWhichDayOfTheWeekIsToday\obj\Debug\03.PrintWhichDayOfTheWeekIsToday.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\5.UsingClassesAndObjects\03.PrintWhichDayOfTheWeekIsToday\obj\Debug\03.PrintWhichDayOfTheWeekIsToday.pdb

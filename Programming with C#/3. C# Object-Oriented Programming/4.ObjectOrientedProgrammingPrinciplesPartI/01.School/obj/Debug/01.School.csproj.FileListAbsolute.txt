@@ -1,0 +1,9 @@
+C:\Users\paco\Desktop\4.ObjectOrientedProgrammingPrinciplesPartI\01.School\bin\Debug\01.School.exe.config
+C:\Users\paco\Desktop\4.ObjectOrientedProgrammingPrinciplesPartI\01.School\bin\Debug\01.School.exe
+C:\Users\paco\Desktop\4.ObjectOrientedProgrammingPrinciplesPartI\01.School\bin\Debug\01.School.pdb
+C:\Users\paco\Desktop\4.ObjectOrientedProgrammingPrinciplesPartI\01.School\obj\Debug\01.School.csprojResolveAssemblyReference.cache
+C:\Users\paco\Desktop\4.ObjectOrientedProgrammingPrinciplesPartI\01.School\obj\Debug\01.School.exe
+C:\Users\paco\Desktop\4.ObjectOrientedProgrammingPrinciplesPartI\01.School\obj\Debug\01.School.pdb
+D:\Telerik Academy\TelerikAcademy---OOP\4.ObjectOrientedProgrammingPrinciplesPartI\01.School\bin\Debug\01.School.exe.config
+D:\Telerik Academy\TelerikAcademy---OOP\4.ObjectOrientedProgrammingPrinciplesPartI\01.School\obj\Debug\01.School.exe
+D:\Telerik Academy\TelerikAcademy---OOP\4.ObjectOrientedProgrammingPrinciplesPartI\01.School\obj\Debug\01.School.pdb

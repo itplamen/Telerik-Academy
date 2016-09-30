@@ -1,0 +1,12 @@
+C:\Users\paco\Desktop\1.IntroductionToProgramming\2.HelloCSharp\bin\Debug\2.HelloCSharp.exe.config
+C:\Users\paco\Desktop\1.IntroductionToProgramming\2.HelloCSharp\bin\Debug\2.HelloCSharp.exe
+C:\Users\paco\Desktop\1.IntroductionToProgramming\2.HelloCSharp\bin\Debug\2.HelloCSharp.pdb
+C:\Users\paco\Desktop\1.IntroductionToProgramming\2.HelloCSharp\obj\Debug\2.HelloCSharp.csprojResolveAssemblyReference.cache
+C:\Users\paco\Desktop\1.IntroductionToProgramming\2.HelloCSharp\obj\Debug\2.HelloCSharp.exe
+C:\Users\paco\Desktop\1.IntroductionToProgramming\2.HelloCSharp\obj\Debug\2.HelloCSharp.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\1.IntroductionToProgramming\2.HelloCSharp\bin\Debug\2.HelloCSharp.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\1.IntroductionToProgramming\2.HelloCSharp\obj\Debug\2.HelloCSharp.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\1.IntroductionToProgramming\2.HelloCSharp\obj\Debug\2.HelloCSharp.pdb
+D:\Telerik-Academy\Programming with C#\1. C# Fundamentals I\1.IntroductionToProgramming\2.HelloCSharp\bin\Debug\2.HelloCSharp.exe.config
+D:\Telerik-Academy\Programming with C#\1. C# Fundamentals I\1.IntroductionToProgramming\2.HelloCSharp\obj\Debug\2.HelloCSharp.exe
+D:\Telerik-Academy\Programming with C#\1. C# Fundamentals I\1.IntroductionToProgramming\2.HelloCSharp\obj\Debug\2.HelloCSharp.pdb

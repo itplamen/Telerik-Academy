@@ -1,0 +1,12 @@
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\5.UsingClassesAndObjects\01.CheckIfYearIsLeap\bin\Debug\01.CheckIfYearIsLeap.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\5.UsingClassesAndObjects\01.CheckIfYearIsLeap\bin\Debug\01.CheckIfYearIsLeap.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\5.UsingClassesAndObjects\01.CheckIfYearIsLeap\bin\Debug\01.CheckIfYearIsLeap.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\5.UsingClassesAndObjects\01.CheckIfYearIsLeap\obj\Debug\01.CheckIfYearIsLeap.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\5.UsingClassesAndObjects\01.CheckIfYearIsLeap\obj\Debug\01.CheckIfYearIsLeap.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\5.UsingClassesAndObjects\01.CheckIfYearIsLeap\obj\Debug\01.CheckIfYearIsLeap.pdb
+C:\Users\Paco\Desktop\5.UsingClassesAndObjects\01.CheckIfYearIsLeap\bin\Debug\01.CheckIfYearIsLeap.exe.config
+C:\Users\Paco\Desktop\5.UsingClassesAndObjects\01.CheckIfYearIsLeap\obj\Debug\01.CheckIfYearIsLeap.exe
+C:\Users\Paco\Desktop\5.UsingClassesAndObjects\01.CheckIfYearIsLeap\obj\Debug\01.CheckIfYearIsLeap.pdb
+C:\Users\Paco\Desktop\New folder\5.UsingClassesAndObjects\01.CheckIfYearIsLeap\bin\Debug\01.CheckIfYearIsLeap.exe.config
+C:\Users\Paco\Desktop\New folder\5.UsingClassesAndObjects\01.CheckIfYearIsLeap\obj\Debug\01.CheckIfYearIsLeap.exe
+C:\Users\Paco\Desktop\New folder\5.UsingClassesAndObjects\01.CheckIfYearIsLeap\obj\Debug\01.CheckIfYearIsLeap.pdb

@@ -1,0 +1,5 @@
+C:\Users\paco\Desktop\6.Loops\08.GCD\bin\Debug\08.GCD.exe.config
+C:\Users\paco\Desktop\6.Loops\08.GCD\bin\Debug\08.GCD.exe
+C:\Users\paco\Desktop\6.Loops\08.GCD\bin\Debug\08.GCD.pdb
+C:\Users\paco\Desktop\6.Loops\08.GCD\obj\Debug\08.GCD.exe
+C:\Users\paco\Desktop\6.Loops\08.GCD\obj\Debug\08.GCD.pdb

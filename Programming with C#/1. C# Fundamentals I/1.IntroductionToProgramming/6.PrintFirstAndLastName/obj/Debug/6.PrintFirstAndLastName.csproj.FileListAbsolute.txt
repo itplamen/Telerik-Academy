@@ -1,0 +1,8 @@
+C:\Users\paco\Desktop\1.IntroductionToProgramming\6.PrintFirstAndLastName\bin\Debug\6.PrintFirstAndLastName.exe.config
+C:\Users\paco\Desktop\1.IntroductionToProgramming\6.PrintFirstAndLastName\bin\Debug\6.PrintFirstAndLastName.exe
+C:\Users\paco\Desktop\1.IntroductionToProgramming\6.PrintFirstAndLastName\bin\Debug\6.PrintFirstAndLastName.pdb
+C:\Users\paco\Desktop\1.IntroductionToProgramming\6.PrintFirstAndLastName\obj\Debug\6.PrintFirstAndLastName.exe
+C:\Users\paco\Desktop\1.IntroductionToProgramming\6.PrintFirstAndLastName\obj\Debug\6.PrintFirstAndLastName.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\1.IntroductionToProgramming\6.PrintFirstAndLastName\bin\Debug\6.PrintFirstAndLastName.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\1.IntroductionToProgramming\6.PrintFirstAndLastName\obj\Debug\6.PrintFirstAndLastName.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\1.IntroductionToProgramming\6.PrintFirstAndLastName\obj\Debug\6.PrintFirstAndLastName.pdb

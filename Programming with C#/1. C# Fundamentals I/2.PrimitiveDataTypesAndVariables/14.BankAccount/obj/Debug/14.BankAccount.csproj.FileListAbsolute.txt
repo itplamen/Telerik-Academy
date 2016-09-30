@@ -1,0 +1,9 @@
+D:\2.PrimitiveDataTypesAndVariables\14.BankAccount\bin\Debug\14.BankAccount.exe.config
+D:\2.PrimitiveDataTypesAndVariables\14.BankAccount\bin\Debug\14.BankAccount.exe
+D:\2.PrimitiveDataTypesAndVariables\14.BankAccount\bin\Debug\14.BankAccount.pdb
+D:\2.PrimitiveDataTypesAndVariables\14.BankAccount\obj\Debug\14.BankAccount.csprojResolveAssemblyReference.cache
+D:\2.PrimitiveDataTypesAndVariables\14.BankAccount\obj\Debug\14.BankAccount.exe
+D:\2.PrimitiveDataTypesAndVariables\14.BankAccount\obj\Debug\14.BankAccount.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\2.PrimitiveDataTypesAndVariables\14.BankAccount\bin\Debug\14.BankAccount.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\2.PrimitiveDataTypesAndVariables\14.BankAccount\obj\Debug\14.BankAccount.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\2.PrimitiveDataTypesAndVariables\14.BankAccount\obj\Debug\14.BankAccount.pdb

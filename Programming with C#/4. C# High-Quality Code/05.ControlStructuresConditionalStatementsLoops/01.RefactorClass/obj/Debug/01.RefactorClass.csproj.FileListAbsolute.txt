@@ -1,0 +1,9 @@
+C:\Users\plamen\Desktop\05.ControlStructuresConditionalStatementsLoops\01.RefactorClass\bin\Debug\01.RefactorClass.exe.config
+C:\Users\plamen\Desktop\05.ControlStructuresConditionalStatementsLoops\01.RefactorClass\obj\Debug\01.RefactorClass.csprojResolveAssemblyReference.cache
+C:\Users\plamen\Desktop\05.ControlStructuresConditionalStatementsLoops\01.RefactorClass\bin\Debug\01.RefactorClass.exe
+C:\Users\plamen\Desktop\05.ControlStructuresConditionalStatementsLoops\01.RefactorClass\bin\Debug\01.RefactorClass.pdb
+C:\Users\plamen\Desktop\05.ControlStructuresConditionalStatementsLoops\01.RefactorClass\obj\Debug\01.RefactorClass.exe
+C:\Users\plamen\Desktop\05.ControlStructuresConditionalStatementsLoops\01.RefactorClass\obj\Debug\01.RefactorClass.pdb
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\05.ControlStructuresConditionalStatementsLoops\01.RefactorClass\bin\Debug\01.RefactorClass.exe.config
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\05.ControlStructuresConditionalStatementsLoops\01.RefactorClass\obj\Debug\01.RefactorClass.exe
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\05.ControlStructuresConditionalStatementsLoops\01.RefactorClass\obj\Debug\01.RefactorClass.pdb

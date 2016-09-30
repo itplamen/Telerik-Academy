@@ -1,0 +1,9 @@
+C:\Users\paco\Desktop\4.ObjectOrientedProgrammingPrinciplesPartI\02.HumanStudentWorker\bin\Debug\02.HumanStudentWorker.exe.config
+C:\Users\paco\Desktop\4.ObjectOrientedProgrammingPrinciplesPartI\02.HumanStudentWorker\bin\Debug\02.HumanStudentWorker.exe
+C:\Users\paco\Desktop\4.ObjectOrientedProgrammingPrinciplesPartI\02.HumanStudentWorker\bin\Debug\02.HumanStudentWorker.pdb
+C:\Users\paco\Desktop\4.ObjectOrientedProgrammingPrinciplesPartI\02.HumanStudentWorker\obj\Debug\02.HumanStudentWorker.csprojResolveAssemblyReference.cache
+C:\Users\paco\Desktop\4.ObjectOrientedProgrammingPrinciplesPartI\02.HumanStudentWorker\obj\Debug\02.HumanStudentWorker.exe
+C:\Users\paco\Desktop\4.ObjectOrientedProgrammingPrinciplesPartI\02.HumanStudentWorker\obj\Debug\02.HumanStudentWorker.pdb
+D:\Telerik Academy\TelerikAcademy---OOP\4.ObjectOrientedProgrammingPrinciplesPartI\02.HumanStudentWorker\bin\Debug\02.HumanStudentWorker.exe.config
+D:\Telerik Academy\TelerikAcademy---OOP\4.ObjectOrientedProgrammingPrinciplesPartI\02.HumanStudentWorker\obj\Debug\02.HumanStudentWorker.exe
+D:\Telerik Academy\TelerikAcademy---OOP\4.ObjectOrientedProgrammingPrinciplesPartI\02.HumanStudentWorker\obj\Debug\02.HumanStudentWorker.pdb

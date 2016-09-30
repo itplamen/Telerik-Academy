@@ -1,0 +1,8 @@
+C:\Users\paco\Desktop\2.PrimitiveDataTypesAndVariables\09.TriangleOf©\bin\Debug\09.TriangleOf©.exe.config
+C:\Users\paco\Desktop\2.PrimitiveDataTypesAndVariables\09.TriangleOf©\bin\Debug\09.TriangleOf©.exe
+C:\Users\paco\Desktop\2.PrimitiveDataTypesAndVariables\09.TriangleOf©\bin\Debug\09.TriangleOf©.pdb
+C:\Users\paco\Desktop\2.PrimitiveDataTypesAndVariables\09.TriangleOf©\obj\Debug\09.TriangleOf©.exe
+C:\Users\paco\Desktop\2.PrimitiveDataTypesAndVariables\09.TriangleOf©\obj\Debug\09.TriangleOf©.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\2.PrimitiveDataTypesAndVariables\09.TriangleOf©\bin\Debug\09.TriangleOf©.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\2.PrimitiveDataTypesAndVariables\09.TriangleOf©\obj\Debug\09.TriangleOf©.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\2.PrimitiveDataTypesAndVariables\09.TriangleOf©\obj\Debug\09.TriangleOf©.pdb

@@ -1,0 +1,8 @@
+C:\Users\paco\Desktop\4.ConsoleInputOutput\10.SumAccuracy\bin\Debug\10.SumAccuracy.exe.config
+C:\Users\paco\Desktop\4.ConsoleInputOutput\10.SumAccuracy\bin\Debug\10.SumAccuracy.exe
+C:\Users\paco\Desktop\4.ConsoleInputOutput\10.SumAccuracy\bin\Debug\10.SumAccuracy.pdb
+C:\Users\paco\Desktop\4.ConsoleInputOutput\10.SumAccuracy\obj\Debug\10.SumAccuracy.exe
+C:\Users\paco\Desktop\4.ConsoleInputOutput\10.SumAccuracy\obj\Debug\10.SumAccuracy.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\4.ConsoleInputOutput\10.SumAccuracy\bin\Debug\10.SumAccuracy.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\4.ConsoleInputOutput\10.SumAccuracy\obj\Debug\10.SumAccuracy.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\4.ConsoleInputOutput\10.SumAccuracy\obj\Debug\10.SumAccuracy.pdb

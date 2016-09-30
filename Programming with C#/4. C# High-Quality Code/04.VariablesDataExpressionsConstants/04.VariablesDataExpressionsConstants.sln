@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.UseProperVariableNaming", "01.UseProperVariableNaming\01.UseProperVariableNaming.csproj", "{3EE52E08-59B0-446D-884A-30567114D74B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.VariableAndNamingBestPractices", "02.VariableAndNamingBestPractices\02.VariableAndNamingBestPractices.csproj", "{07397211-893D-4437-87B2-CDD6DCA6DC03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EE52E08-59B0-446D-884A-30567114D74B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EE52E08-59B0-446D-884A-30567114D74B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EE52E08-59B0-446D-884A-30567114D74B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EE52E08-59B0-446D-884A-30567114D74B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07397211-893D-4437-87B2-CDD6DCA6DC03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07397211-893D-4437-87B2-CDD6DCA6DC03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07397211-893D-4437-87B2-CDD6DCA6DC03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07397211-893D-4437-87B2-CDD6DCA6DC03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

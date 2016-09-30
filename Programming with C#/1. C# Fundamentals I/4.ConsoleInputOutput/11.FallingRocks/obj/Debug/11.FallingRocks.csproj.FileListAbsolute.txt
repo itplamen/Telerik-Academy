@@ -1,0 +1,12 @@
+C:\Users\paco\Desktop\4.ConsoleInputOutput\11.FallingRocks\bin\Debug\11.FallingRocks.exe.config
+C:\Users\paco\Desktop\4.ConsoleInputOutput\11.FallingRocks\bin\Debug\11.FallingRocks.exe
+C:\Users\paco\Desktop\4.ConsoleInputOutput\11.FallingRocks\bin\Debug\11.FallingRocks.pdb
+C:\Users\paco\Desktop\4.ConsoleInputOutput\11.FallingRocks\obj\Debug\11.FallingRocks.exe
+C:\Users\paco\Desktop\4.ConsoleInputOutput\11.FallingRocks\obj\Debug\11.FallingRocks.pdb
+C:\Users\paco\Desktop\4.ConsoleInputOutput\11.FallingRocks\obj\Debug\11.FallingRocks.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\4.ConsoleInputOutput\11.FallingRocks\bin\Debug\11.FallingRocks.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\4.ConsoleInputOutput\11.FallingRocks\obj\Debug\11.FallingRocks.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\4.ConsoleInputOutput\11.FallingRocks\obj\Debug\11.FallingRocks.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\4.ConsoleInputOutput\11.FallingRocks\bin\Debug\11.FallingRocks.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\4.ConsoleInputOutput\11.FallingRocks\bin\Debug\11.FallingRocks.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\4.ConsoleInputOutput\11.FallingRocks\obj\Debug\11.FallingRocks.csprojResolveAssemblyReference.cache

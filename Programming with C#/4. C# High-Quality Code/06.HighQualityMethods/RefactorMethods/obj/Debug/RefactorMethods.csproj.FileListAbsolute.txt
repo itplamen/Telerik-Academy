@@ -1,0 +1,9 @@
+C:\Users\plamen\Desktop\06.HighQualityMethods\RefactorMethods\bin\Debug\RefactorMethods.exe.config
+C:\Users\plamen\Desktop\06.HighQualityMethods\RefactorMethods\bin\Debug\RefactorMethods.exe
+C:\Users\plamen\Desktop\06.HighQualityMethods\RefactorMethods\bin\Debug\RefactorMethods.pdb
+C:\Users\plamen\Desktop\06.HighQualityMethods\RefactorMethods\obj\Debug\RefactorMethods.csprojResolveAssemblyReference.cache
+C:\Users\plamen\Desktop\06.HighQualityMethods\RefactorMethods\obj\Debug\RefactorMethods.exe
+C:\Users\plamen\Desktop\06.HighQualityMethods\RefactorMethods\obj\Debug\RefactorMethods.pdb
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\06.HighQualityMethods\RefactorMethods\bin\Debug\RefactorMethods.exe.config
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\06.HighQualityMethods\RefactorMethods\obj\Debug\RefactorMethods.exe
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\06.HighQualityMethods\RefactorMethods\obj\Debug\RefactorMethods.pdb

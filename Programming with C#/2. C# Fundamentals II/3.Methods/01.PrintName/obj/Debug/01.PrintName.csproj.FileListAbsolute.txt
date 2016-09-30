@@ -1,0 +1,2 @@
+C:\Users\Paco\Desktop\New folder\3.Methods\01.PrintName\bin\Debug\01.PrintName.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\3.Methods\01.PrintName\bin\Debug\01.PrintName.exe.config

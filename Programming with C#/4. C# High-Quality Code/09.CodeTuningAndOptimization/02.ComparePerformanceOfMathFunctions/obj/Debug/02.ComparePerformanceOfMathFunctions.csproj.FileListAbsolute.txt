@@ -1,0 +1,12 @@
+C:\Users\plamen\Desktop\09.CodeTuningAndOptimization\02.ComparePerformanceOfMathFunctions\bin\Debug\02.ComparePerformanceOfMathFunctions.exe.config
+C:\Users\plamen\Desktop\09.CodeTuningAndOptimization\02.ComparePerformanceOfMathFunctions\bin\Debug\02.ComparePerformanceOfMathFunctions.exe
+C:\Users\plamen\Desktop\09.CodeTuningAndOptimization\02.ComparePerformanceOfMathFunctions\bin\Debug\02.ComparePerformanceOfMathFunctions.pdb
+C:\Users\plamen\Desktop\09.CodeTuningAndOptimization\02.ComparePerformanceOfMathFunctions\obj\Debug\02.ComparePerformanceOfMathFunctions.csprojResolveAssemblyReference.cache
+C:\Users\plamen\Desktop\09.CodeTuningAndOptimization\02.ComparePerformanceOfMathFunctions\obj\Debug\02.ComparePerformanceOfMathFunctions.exe
+C:\Users\plamen\Desktop\09.CodeTuningAndOptimization\02.ComparePerformanceOfMathFunctions\obj\Debug\02.ComparePerformanceOfMathFunctions.pdb
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\09.CodeTuningAndOptimization\02.ComparePerformanceOfMathFunctions\bin\Debug\02.ComparePerformanceOfMathFunctions.exe.config
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\09.CodeTuningAndOptimization\02.ComparePerformanceOfMathFunctions\bin\Debug\02.ComparePerformanceOfMathFunctions.exe
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\09.CodeTuningAndOptimization\02.ComparePerformanceOfMathFunctions\bin\Debug\02.ComparePerformanceOfMathFunctions.pdb
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\09.CodeTuningAndOptimization\02.ComparePerformanceOfMathFunctions\obj\Debug\02.ComparePerformanceOfMathFunctions.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\09.CodeTuningAndOptimization\02.ComparePerformanceOfMathFunctions\obj\Debug\02.ComparePerformanceOfMathFunctions.exe
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\09.CodeTuningAndOptimization\02.ComparePerformanceOfMathFunctions\obj\Debug\02.ComparePerformanceOfMathFunctions.pdb

@@ -1,0 +1,6 @@
+C:\Users\plamen\Desktop\07.HighQualityClasses\02.CohesionAndCoupling\bin\Debug\02.CohesionAndCoupling.exe.config
+C:\Users\plamen\Desktop\07.HighQualityClasses\02.CohesionAndCoupling\bin\Debug\02.CohesionAndCoupling.exe
+C:\Users\plamen\Desktop\07.HighQualityClasses\02.CohesionAndCoupling\bin\Debug\02.CohesionAndCoupling.pdb
+C:\Users\plamen\Desktop\07.HighQualityClasses\02.CohesionAndCoupling\obj\Debug\02.CohesionAndCoupling.exe
+C:\Users\plamen\Desktop\07.HighQualityClasses\02.CohesionAndCoupling\obj\Debug\02.CohesionAndCoupling.pdb
+C:\Users\plamen\Desktop\07.HighQualityClasses\02.CohesionAndCoupling\obj\Debug\02.CohesionAndCoupling.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\paco\Desktop\4.ConsoleInputOutput\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe.config
+C:\Users\paco\Desktop\4.ConsoleInputOutput\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe
+C:\Users\paco\Desktop\4.ConsoleInputOutput\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.pdb
+C:\Users\paco\Desktop\4.ConsoleInputOutput\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.exe
+C:\Users\paco\Desktop\4.ConsoleInputOutput\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\4.ConsoleInputOutput\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\4.ConsoleInputOutput\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\4.ConsoleInputOutput\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.pdb

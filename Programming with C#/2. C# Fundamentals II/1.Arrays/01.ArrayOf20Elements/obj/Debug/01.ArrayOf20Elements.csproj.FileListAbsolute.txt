@@ -1,0 +1,3 @@
+C:\Users\Paco\Desktop\New folder\1.Arrays\01.ArrayOf20Elements\bin\Debug\01.ArrayOf20Elements.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\01.ArrayOf20Elements\bin\Debug\01.ArrayOf20Elements.exe.config
+D:\Telerik-Academy\Programming with C#\2. C# Fundamentals II\1.Arrays\01.ArrayOf20Elements\bin\Debug\01.ArrayOf20Elements.exe.config

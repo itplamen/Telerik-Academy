@@ -1,0 +1,9 @@
+C:\Users\paco\Desktop\5.ConditionalStatement\03.BiggestOfThreeIntegers\bin\Debug\03.BiggestOfThreeIntegers.exe.config
+C:\Users\paco\Desktop\5.ConditionalStatement\03.BiggestOfThreeIntegers\bin\Debug\03.BiggestOfThreeIntegers.exe
+C:\Users\paco\Desktop\5.ConditionalStatement\03.BiggestOfThreeIntegers\bin\Debug\03.BiggestOfThreeIntegers.pdb
+C:\Users\paco\Desktop\5.ConditionalStatement\03.BiggestOfThreeIntegers\obj\Debug\03.BiggestOfThreeIntegers.exe
+C:\Users\paco\Desktop\5.ConditionalStatement\03.BiggestOfThreeIntegers\obj\Debug\03.BiggestOfThreeIntegers.pdb
+C:\Users\paco\Desktop\5.ConditionalStatement\03.BiggestOfThreeIntegers\obj\Debug\03.BiggestOfThreeIntegers.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\5.ConditionalStatement\03.BiggestOfThreeIntegers\bin\Debug\03.BiggestOfThreeIntegers.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\5.ConditionalStatement\03.BiggestOfThreeIntegers\obj\Debug\03.BiggestOfThreeIntegers.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\5.ConditionalStatement\03.BiggestOfThreeIntegers\obj\Debug\03.BiggestOfThreeIntegers.pdb

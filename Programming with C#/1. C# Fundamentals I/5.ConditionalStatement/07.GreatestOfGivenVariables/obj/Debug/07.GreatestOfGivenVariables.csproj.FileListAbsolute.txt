@@ -1,0 +1,9 @@
+C:\Users\paco\Desktop\5.ConditionalStatement\07.GreatestOfGivenVariables\bin\Debug\07.GreatestOfGivenVariables.exe.config
+C:\Users\paco\Desktop\5.ConditionalStatement\07.GreatestOfGivenVariables\bin\Debug\07.GreatestOfGivenVariables.exe
+C:\Users\paco\Desktop\5.ConditionalStatement\07.GreatestOfGivenVariables\bin\Debug\07.GreatestOfGivenVariables.pdb
+C:\Users\paco\Desktop\5.ConditionalStatement\07.GreatestOfGivenVariables\obj\Debug\07.GreatestOfGivenVariables.exe
+C:\Users\paco\Desktop\5.ConditionalStatement\07.GreatestOfGivenVariables\obj\Debug\07.GreatestOfGivenVariables.pdb
+C:\Users\paco\Desktop\5.ConditionalStatement\07.GreatestOfGivenVariables\obj\Debug\07.GreatestOfGivenVariables.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\5.ConditionalStatement\07.GreatestOfGivenVariables\bin\Debug\07.GreatestOfGivenVariables.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\5.ConditionalStatement\07.GreatestOfGivenVariables\obj\Debug\07.GreatestOfGivenVariables.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\5.ConditionalStatement\07.GreatestOfGivenVariables\obj\Debug\07.GreatestOfGivenVariables.pdb

@@ -1,0 +1,8 @@
+C:\Users\itplamen\Desktop\05.DataStructuresEfficiency\03.ImplementClassBiDictionary\bin\Debug\03.ImplementClassBiDictionary.exe.config
+C:\Users\itplamen\Desktop\05.DataStructuresEfficiency\03.ImplementClassBiDictionary\bin\Debug\03.ImplementClassBiDictionary.exe
+C:\Users\itplamen\Desktop\05.DataStructuresEfficiency\03.ImplementClassBiDictionary\bin\Debug\03.ImplementClassBiDictionary.pdb
+C:\Users\itplamen\Desktop\05.DataStructuresEfficiency\03.ImplementClassBiDictionary\bin\Debug\PowerCollections.dll
+C:\Users\itplamen\Desktop\05.DataStructuresEfficiency\03.ImplementClassBiDictionary\bin\Debug\PowerCollections.xml
+C:\Users\itplamen\Desktop\05.DataStructuresEfficiency\03.ImplementClassBiDictionary\obj\Debug\03.ImplementClassBiDictionary.csprojResolveAssemblyReference.cache
+C:\Users\itplamen\Desktop\05.DataStructuresEfficiency\03.ImplementClassBiDictionary\obj\Debug\03.ImplementClassBiDictionary.exe
+C:\Users\itplamen\Desktop\05.DataStructuresEfficiency\03.ImplementClassBiDictionary\obj\Debug\03.ImplementClassBiDictionary.pdb

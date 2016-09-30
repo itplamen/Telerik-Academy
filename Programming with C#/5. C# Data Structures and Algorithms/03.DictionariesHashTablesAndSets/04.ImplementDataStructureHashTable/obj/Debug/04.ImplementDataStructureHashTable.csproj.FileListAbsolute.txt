@@ -1,0 +1,9 @@
+C:\Users\itplamen\Desktop\03.DictionariesHashTablesAndSets\04.ImplementDataStructureHashTable\bin\Debug\04.ImplementDataStructureHashTable.exe.config
+C:\Users\itplamen\Desktop\03.DictionariesHashTablesAndSets\04.ImplementDataStructureHashTable\bin\Debug\04.ImplementDataStructureHashTable.exe
+C:\Users\itplamen\Desktop\03.DictionariesHashTablesAndSets\04.ImplementDataStructureHashTable\bin\Debug\04.ImplementDataStructureHashTable.pdb
+C:\Users\itplamen\Desktop\03.DictionariesHashTablesAndSets\04.ImplementDataStructureHashTable\obj\Debug\04.ImplementDataStructureHashTable.exe
+C:\Users\itplamen\Desktop\03.DictionariesHashTablesAndSets\04.ImplementDataStructureHashTable\obj\Debug\04.ImplementDataStructureHashTable.pdb
+C:\Users\itplamen\Desktop\03.DictionariesHashTablesAndSets\04.ImplementDataStructureHashTable\obj\Debug\04.ImplementDataStructureHashTable.csprojResolveAssemblyReference.cache
+D:\Telerik-Academy\Programming with C#\5. C# Data Structures and Algorithms\03.DictionariesHashTablesAndSets\04.ImplementDataStructureHashTable\bin\Debug\04.ImplementDataStructureHashTable.exe.config
+D:\Telerik-Academy\Programming with C#\5. C# Data Structures and Algorithms\03.DictionariesHashTablesAndSets\04.ImplementDataStructureHashTable\obj\Debug\04.ImplementDataStructureHashTable.exe
+D:\Telerik-Academy\Programming with C#\5. C# Data Structures and Algorithms\03.DictionariesHashTablesAndSets\04.ImplementDataStructureHashTable\obj\Debug\04.ImplementDataStructureHashTable.pdb

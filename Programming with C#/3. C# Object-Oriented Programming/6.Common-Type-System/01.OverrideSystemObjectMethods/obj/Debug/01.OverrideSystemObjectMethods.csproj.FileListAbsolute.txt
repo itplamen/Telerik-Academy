@@ -1,0 +1,9 @@
+C:\Users\plamen\Desktop\6.Common-Type-System\01.OverrideSystemObjectMethods\bin\Debug\01.OverrideSystemObjectMethods.exe.config
+C:\Users\plamen\Desktop\6.Common-Type-System\01.OverrideSystemObjectMethods\bin\Debug\01.OverrideSystemObjectMethods.exe
+C:\Users\plamen\Desktop\6.Common-Type-System\01.OverrideSystemObjectMethods\bin\Debug\01.OverrideSystemObjectMethods.pdb
+C:\Users\plamen\Desktop\6.Common-Type-System\01.OverrideSystemObjectMethods\obj\Debug\01.OverrideSystemObjectMethods.csprojResolveAssemblyReference.cache
+C:\Users\plamen\Desktop\6.Common-Type-System\01.OverrideSystemObjectMethods\obj\Debug\01.OverrideSystemObjectMethods.exe
+C:\Users\plamen\Desktop\6.Common-Type-System\01.OverrideSystemObjectMethods\obj\Debug\01.OverrideSystemObjectMethods.pdb
+D:\Telerik Academy\TelerikAcademy---OOP\6.Common-Type-System\01.OverrideSystemObjectMethods\bin\Debug\01.OverrideSystemObjectMethods.exe.config
+D:\Telerik Academy\TelerikAcademy---OOP\6.Common-Type-System\01.OverrideSystemObjectMethods\obj\Debug\01.OverrideSystemObjectMethods.exe
+D:\Telerik Academy\TelerikAcademy---OOP\6.Common-Type-System\01.OverrideSystemObjectMethods\obj\Debug\01.OverrideSystemObjectMethods.pdb

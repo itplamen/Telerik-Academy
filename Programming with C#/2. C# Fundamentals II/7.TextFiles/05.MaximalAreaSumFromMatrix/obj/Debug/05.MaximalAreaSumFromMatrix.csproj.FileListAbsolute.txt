@@ -1,0 +1,6 @@
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\05.MaximalAreaSumFromMatrix\bin\Debug\05.MaximalAreaSumFromMatrix.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\05.MaximalAreaSumFromMatrix\bin\Debug\05.MaximalAreaSumFromMatrix.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\05.MaximalAreaSumFromMatrix\bin\Debug\05.MaximalAreaSumFromMatrix.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\05.MaximalAreaSumFromMatrix\obj\Debug\05.MaximalAreaSumFromMatrix.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\05.MaximalAreaSumFromMatrix\obj\Debug\05.MaximalAreaSumFromMatrix.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\05.MaximalAreaSumFromMatrix\obj\Debug\05.MaximalAreaSumFromMatrix.csprojResolveAssemblyReference.cache

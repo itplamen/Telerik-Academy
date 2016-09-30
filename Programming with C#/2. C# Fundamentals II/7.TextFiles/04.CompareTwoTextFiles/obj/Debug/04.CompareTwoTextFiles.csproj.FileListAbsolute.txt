@@ -1,0 +1,5 @@
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\04.CompareTwoTextFiles\bin\Debug\04.CompareTwoTextFiles.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\04.CompareTwoTextFiles\bin\Debug\04.CompareTwoTextFiles.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\04.CompareTwoTextFiles\bin\Debug\04.CompareTwoTextFiles.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\04.CompareTwoTextFiles\obj\Debug\04.CompareTwoTextFiles.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\04.CompareTwoTextFiles\obj\Debug\04.CompareTwoTextFiles.pdb

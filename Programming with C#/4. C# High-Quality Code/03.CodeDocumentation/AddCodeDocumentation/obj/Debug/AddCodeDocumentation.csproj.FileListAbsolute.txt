@@ -1,0 +1,11 @@
+C:\Users\plamen\Desktop\03.CodeDocumentation\AddCodeDocumentation\bin\Debug\AddCodeDocumentation.exe.config
+C:\Users\plamen\Desktop\03.CodeDocumentation\AddCodeDocumentation\bin\Debug\AddCodeDocumentation.exe
+C:\Users\plamen\Desktop\03.CodeDocumentation\AddCodeDocumentation\bin\Debug\AddCodeDocumentation.pdb
+C:\Users\plamen\Desktop\03.CodeDocumentation\AddCodeDocumentation\obj\Debug\AddCodeDocumentation.exe
+C:\Users\plamen\Desktop\03.CodeDocumentation\AddCodeDocumentation\obj\Debug\AddCodeDocumentation.pdb
+C:\Users\plamen\Desktop\03.CodeDocumentation\AddCodeDocumentation\obj\Debug\AddCodeDocumentation.csprojResolveAssemblyReference.cache
+C:\Users\plamen\Desktop\03.CodeDocumentation\AddCodeDocumentation\bin\Debug\AddCodeDocumentation.XML
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\03.CodeDocumentation\AddCodeDocumentation\bin\Debug\AddCodeDocumentation.exe.config
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\03.CodeDocumentation\AddCodeDocumentation\bin\Debug\AddCodeDocumentation.XML
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\03.CodeDocumentation\AddCodeDocumentation\obj\Debug\AddCodeDocumentation.exe
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\03.CodeDocumentation\AddCodeDocumentation\obj\Debug\AddCodeDocumentation.pdb

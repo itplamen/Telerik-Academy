@@ -1,0 +1,12 @@
+C:\Users\plamen\Desktop\10.UnitTesting\StudentProject\bin\Debug\StudentProject.exe.config
+C:\Users\plamen\Desktop\10.UnitTesting\StudentProject\bin\Debug\StudentProject.exe
+C:\Users\plamen\Desktop\10.UnitTesting\StudentProject\bin\Debug\StudentProject.pdb
+C:\Users\plamen\Desktop\10.UnitTesting\StudentProject\obj\Debug\StudentProject.csprojResolveAssemblyReference.cache
+C:\Users\plamen\Desktop\10.UnitTesting\StudentProject\obj\Debug\StudentProject.exe
+C:\Users\plamen\Desktop\10.UnitTesting\StudentProject\obj\Debug\StudentProject.pdb
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\10.UnitTesting\StudentProject\bin\Debug\StudentProject.exe.config
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\10.UnitTesting\StudentProject\obj\Debug\StudentProject.exe
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\10.UnitTesting\StudentProject\obj\Debug\StudentProject.pdb
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\10.UnitTesting\StudentProject\bin\Debug\StudentProject.exe
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\10.UnitTesting\StudentProject\bin\Debug\StudentProject.pdb
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\10.UnitTesting\StudentProject\obj\Debug\StudentProject.csprojResolveAssemblyReference.cache

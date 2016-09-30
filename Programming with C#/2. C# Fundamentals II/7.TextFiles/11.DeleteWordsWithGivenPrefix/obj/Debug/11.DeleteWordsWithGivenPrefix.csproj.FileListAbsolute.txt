@@ -1,0 +1,6 @@
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\11.DeleteWordsWithGivenPrefix\bin\Debug\11.DeleteWordsWithGivenPrefix.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\11.DeleteWordsWithGivenPrefix\bin\Debug\11.DeleteWordsWithGivenPrefix.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\11.DeleteWordsWithGivenPrefix\bin\Debug\11.DeleteWordsWithGivenPrefix.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\11.DeleteWordsWithGivenPrefix\obj\Debug\11.DeleteWordsWithGivenPrefix.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\11.DeleteWordsWithGivenPrefix\obj\Debug\11.DeleteWordsWithGivenPrefix.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\11.DeleteWordsWithGivenPrefix\obj\Debug\11.DeleteWordsWithGivenPrefix.pdb

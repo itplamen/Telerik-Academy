@@ -1,0 +1,6 @@
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\06.FindElementsThatHaveMaximalSum\bin\Debug\06.FindElementsThatHaveMaximalSum.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\06.FindElementsThatHaveMaximalSum\bin\Debug\06.FindElementsThatHaveMaximalSum.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\06.FindElementsThatHaveMaximalSum\bin\Debug\06.FindElementsThatHaveMaximalSum.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\06.FindElementsThatHaveMaximalSum\obj\Debug\06.FindElementsThatHaveMaximalSum.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\06.FindElementsThatHaveMaximalSum\obj\Debug\06.FindElementsThatHaveMaximalSum.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\06.FindElementsThatHaveMaximalSum\obj\Debug\06.FindElementsThatHaveMaximalSum.pdb

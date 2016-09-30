@@ -1,0 +1,8 @@
+C:\Users\paco\Desktop\3.OperatorsExpressionsAndStatements\9.CheckPointInCircleOutOfRectangle\bin\Debug\9.CheckPointInCircleOutOfRectangle.exe.config
+C:\Users\paco\Desktop\3.OperatorsExpressionsAndStatements\9.CheckPointInCircleOutOfRectangle\bin\Debug\9.CheckPointInCircleOutOfRectangle.exe
+C:\Users\paco\Desktop\3.OperatorsExpressionsAndStatements\9.CheckPointInCircleOutOfRectangle\bin\Debug\9.CheckPointInCircleOutOfRectangle.pdb
+C:\Users\paco\Desktop\3.OperatorsExpressionsAndStatements\9.CheckPointInCircleOutOfRectangle\obj\Debug\9.CheckPointInCircleOutOfRectangle.exe
+C:\Users\paco\Desktop\3.OperatorsExpressionsAndStatements\9.CheckPointInCircleOutOfRectangle\obj\Debug\9.CheckPointInCircleOutOfRectangle.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\3.OperatorsExpressionsAndStatements\9.CheckPointInCircleOutOfRectangle\bin\Debug\9.CheckPointInCircleOutOfRectangle.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\3.OperatorsExpressionsAndStatements\9.CheckPointInCircleOutOfRectangle\obj\Debug\9.CheckPointInCircleOutOfRectangle.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\3.OperatorsExpressionsAndStatements\9.CheckPointInCircleOutOfRectangle\obj\Debug\9.CheckPointInCircleOutOfRectangle.pdb

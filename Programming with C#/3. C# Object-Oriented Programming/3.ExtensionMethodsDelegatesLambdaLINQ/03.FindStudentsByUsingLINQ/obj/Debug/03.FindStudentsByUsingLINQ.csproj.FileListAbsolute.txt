@@ -1,0 +1,8 @@
+C:\Users\paco\Desktop\3.ExtensionMethodsDelegatesLambdaLINQ\03.FindStudentsByUsingLINQ\bin\Debug\03.FindStudentsByUsingLINQ.exe.config
+C:\Users\paco\Desktop\3.ExtensionMethodsDelegatesLambdaLINQ\03.FindStudentsByUsingLINQ\bin\Debug\03.FindStudentsByUsingLINQ.exe
+C:\Users\paco\Desktop\3.ExtensionMethodsDelegatesLambdaLINQ\03.FindStudentsByUsingLINQ\bin\Debug\03.FindStudentsByUsingLINQ.pdb
+C:\Users\paco\Desktop\3.ExtensionMethodsDelegatesLambdaLINQ\03.FindStudentsByUsingLINQ\obj\Debug\03.FindStudentsByUsingLINQ.exe
+C:\Users\paco\Desktop\3.ExtensionMethodsDelegatesLambdaLINQ\03.FindStudentsByUsingLINQ\obj\Debug\03.FindStudentsByUsingLINQ.pdb
+D:\Telerik Academy\TelerikAcademy---OOP\3.ExtensionMethodsDelegatesLambdaLINQ\03.FindStudentsByUsingLINQ\bin\Debug\03.FindStudentsByUsingLINQ.exe.config
+D:\Telerik Academy\TelerikAcademy---OOP\3.ExtensionMethodsDelegatesLambdaLINQ\03.FindStudentsByUsingLINQ\obj\Debug\03.FindStudentsByUsingLINQ.exe
+D:\Telerik Academy\TelerikAcademy---OOP\3.ExtensionMethodsDelegatesLambdaLINQ\03.FindStudentsByUsingLINQ\obj\Debug\03.FindStudentsByUsingLINQ.pdb

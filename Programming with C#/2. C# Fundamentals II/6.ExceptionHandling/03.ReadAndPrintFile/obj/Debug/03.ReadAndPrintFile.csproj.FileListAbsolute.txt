@@ -1,0 +1,6 @@
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\6.ExceptionHandling\03.ReadAndPrintFile\bin\Debug\03.ReadAndPrintFile.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\6.ExceptionHandling\03.ReadAndPrintFile\bin\Debug\03.ReadAndPrintFile.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\6.ExceptionHandling\03.ReadAndPrintFile\bin\Debug\03.ReadAndPrintFile.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\6.ExceptionHandling\03.ReadAndPrintFile\obj\Debug\03.ReadAndPrintFile.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\6.ExceptionHandling\03.ReadAndPrintFile\obj\Debug\03.ReadAndPrintFile.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\6.ExceptionHandling\03.ReadAndPrintFile\obj\Debug\03.ReadAndPrintFile.pdb

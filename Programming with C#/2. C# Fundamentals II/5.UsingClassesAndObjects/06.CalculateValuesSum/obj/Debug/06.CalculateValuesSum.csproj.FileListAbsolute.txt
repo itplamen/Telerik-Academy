@@ -1,0 +1,9 @@
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\5.UsingClassesAndObjects\06.CalculateValuesSum\bin\Debug\06.CalculateValuesSum.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\5.UsingClassesAndObjects\06.CalculateValuesSum\bin\Debug\06.CalculateValuesSum.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\5.UsingClassesAndObjects\06.CalculateValuesSum\bin\Debug\06.CalculateValuesSum.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\5.UsingClassesAndObjects\06.CalculateValuesSum\obj\Debug\06.CalculateValuesSum.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\5.UsingClassesAndObjects\06.CalculateValuesSum\obj\Debug\06.CalculateValuesSum.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\5.UsingClassesAndObjects\06.CalculateValuesSum\obj\Debug\06.CalculateValuesSum.pdb
+C:\Users\Paco\Desktop\5.UsingClassesAndObjects\06.CalculateValuesSum\bin\Debug\06.CalculateValuesSum.exe.config
+C:\Users\Paco\Desktop\5.UsingClassesAndObjects\06.CalculateValuesSum\obj\Debug\06.CalculateValuesSum.exe
+C:\Users\Paco\Desktop\5.UsingClassesAndObjects\06.CalculateValuesSum\obj\Debug\06.CalculateValuesSum.pdb

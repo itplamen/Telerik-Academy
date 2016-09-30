@@ -1,0 +1,9 @@
+C:\Users\paco\Desktop\4.ConsoleInputOutput\03.CompanyAndManager\bin\Debug\03.CompanyAndManager.exe.config
+C:\Users\paco\Desktop\4.ConsoleInputOutput\03.CompanyAndManager\bin\Debug\03.CompanyAndManager.exe
+C:\Users\paco\Desktop\4.ConsoleInputOutput\03.CompanyAndManager\bin\Debug\03.CompanyAndManager.pdb
+C:\Users\paco\Desktop\4.ConsoleInputOutput\03.CompanyAndManager\obj\Debug\03.CompanyAndManager.exe
+C:\Users\paco\Desktop\4.ConsoleInputOutput\03.CompanyAndManager\obj\Debug\03.CompanyAndManager.pdb
+C:\Users\paco\Desktop\4.ConsoleInputOutput\03.CompanyAndManager\obj\Debug\03.CompanyAndManager.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\4.ConsoleInputOutput\03.CompanyAndManager\bin\Debug\03.CompanyAndManager.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\4.ConsoleInputOutput\03.CompanyAndManager\obj\Debug\03.CompanyAndManager.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\4.ConsoleInputOutput\03.CompanyAndManager\obj\Debug\03.CompanyAndManager.pdb

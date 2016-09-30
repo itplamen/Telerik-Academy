@@ -1,0 +1,6 @@
+C:\Users\paco\Desktop\6.Loops\07.FibonacciSum\bin\Debug\07.FibonacciSum.exe.config
+C:\Users\paco\Desktop\6.Loops\07.FibonacciSum\bin\Debug\07.FibonacciSum.exe
+C:\Users\paco\Desktop\6.Loops\07.FibonacciSum\bin\Debug\07.FibonacciSum.pdb
+C:\Users\paco\Desktop\6.Loops\07.FibonacciSum\obj\Debug\07.FibonacciSum.csprojResolveAssemblyReference.cache
+C:\Users\paco\Desktop\6.Loops\07.FibonacciSum\obj\Debug\07.FibonacciSum.exe
+C:\Users\paco\Desktop\6.Loops\07.FibonacciSum\obj\Debug\07.FibonacciSum.pdb

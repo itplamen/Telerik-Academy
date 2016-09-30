@@ -1,0 +1,6 @@
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\05.MaximalIncreasingSequence\bin\Debug\05.MaximalIncreasingSequence.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\05.MaximalIncreasingSequence\bin\Debug\05.MaximalIncreasingSequence.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\05.MaximalIncreasingSequence\bin\Debug\05.MaximalIncreasingSequence.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\05.MaximalIncreasingSequence\obj\Debug\05.MaximalIncreasingSequence.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\05.MaximalIncreasingSequence\obj\Debug\05.MaximalIncreasingSequence.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\05.MaximalIncreasingSequence\obj\Debug\05.MaximalIncreasingSequence.csprojResolveAssemblyReference.cache

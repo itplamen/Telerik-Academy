@@ -1,0 +1,5 @@
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\13.ReverseWords\bin\Debug\13.ReverseWords.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\13.ReverseWords\bin\Debug\13.ReverseWords.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\13.ReverseWords\bin\Debug\13.ReverseWords.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\13.ReverseWords\obj\Debug\13.ReverseWords.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\13.ReverseWords\obj\Debug\13.ReverseWords.pdb

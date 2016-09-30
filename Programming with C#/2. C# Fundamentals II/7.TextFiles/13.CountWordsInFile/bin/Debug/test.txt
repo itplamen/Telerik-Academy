@@ -1,0 +1,5 @@
+Write a program that removes from a text file all words listed in given another text file. 
+Handle all possible exceptions in your methods.
+Write a program that deletes from given text file all odd lines. 
+The result should be in the same file.
+

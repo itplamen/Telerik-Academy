@@ -1,0 +1,8 @@
+C:\Users\paco\Desktop\1.IntroductionToProgramming\12.PrintAge\bin\Debug\12.PrintAge.exe.config
+C:\Users\paco\Desktop\1.IntroductionToProgramming\12.PrintAge\bin\Debug\12.PrintAge.exe
+C:\Users\paco\Desktop\1.IntroductionToProgramming\12.PrintAge\bin\Debug\12.PrintAge.pdb
+C:\Users\paco\Desktop\1.IntroductionToProgramming\12.PrintAge\obj\Debug\12.PrintAge.exe
+C:\Users\paco\Desktop\1.IntroductionToProgramming\12.PrintAge\obj\Debug\12.PrintAge.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\1.IntroductionToProgramming\12.PrintAge\bin\Debug\12.PrintAge.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\1.IntroductionToProgramming\12.PrintAge\obj\Debug\12.PrintAge.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\1.IntroductionToProgramming\12.PrintAge\obj\Debug\12.PrintAge.pdb

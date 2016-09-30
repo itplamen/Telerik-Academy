@@ -1,0 +1,5 @@
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\17.PrintDateAndTime\bin\Debug\17.PrintDateAndTime.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\17.PrintDateAndTime\bin\Debug\17.PrintDateAndTime.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\17.PrintDateAndTime\bin\Debug\17.PrintDateAndTime.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\17.PrintDateAndTime\obj\Debug\17.PrintDateAndTime.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\17.PrintDateAndTime\obj\Debug\17.PrintDateAndTime.pdb

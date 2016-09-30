@@ -1,0 +1,9 @@
+C:\Users\paco\Desktop\5.ObjectOrientedProgrammingPrinciplesPartII\03.ExceptionClass\bin\Debug\03.ExceptionClass.exe.config
+C:\Users\paco\Desktop\5.ObjectOrientedProgrammingPrinciplesPartII\03.ExceptionClass\bin\Debug\03.ExceptionClass.exe
+C:\Users\paco\Desktop\5.ObjectOrientedProgrammingPrinciplesPartII\03.ExceptionClass\bin\Debug\03.ExceptionClass.pdb
+C:\Users\paco\Desktop\5.ObjectOrientedProgrammingPrinciplesPartII\03.ExceptionClass\obj\Debug\03.ExceptionClass.csprojResolveAssemblyReference.cache
+C:\Users\paco\Desktop\5.ObjectOrientedProgrammingPrinciplesPartII\03.ExceptionClass\obj\Debug\03.ExceptionClass.exe
+C:\Users\paco\Desktop\5.ObjectOrientedProgrammingPrinciplesPartII\03.ExceptionClass\obj\Debug\03.ExceptionClass.pdb
+D:\Telerik Academy\TelerikAcademy---OOP\5.ObjectOrientedProgrammingPrinciplesPartII\03.ExceptionClass\bin\Debug\03.ExceptionClass.exe.config
+D:\Telerik Academy\TelerikAcademy---OOP\5.ObjectOrientedProgrammingPrinciplesPartII\03.ExceptionClass\obj\Debug\03.ExceptionClass.exe
+D:\Telerik Academy\TelerikAcademy---OOP\5.ObjectOrientedProgrammingPrinciplesPartII\03.ExceptionClass\obj\Debug\03.ExceptionClass.pdb

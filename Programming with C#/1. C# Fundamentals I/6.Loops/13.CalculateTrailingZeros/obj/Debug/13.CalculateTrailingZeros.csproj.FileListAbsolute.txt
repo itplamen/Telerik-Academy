@@ -1,0 +1,9 @@
+C:\Users\paco\Desktop\6.Loops\13.CalculateTrailingZeros\bin\Debug\13.CalculateTrailingZeros.exe.config
+C:\Users\paco\Desktop\6.Loops\13.CalculateTrailingZeros\bin\Debug\13.CalculateTrailingZeros.exe
+C:\Users\paco\Desktop\6.Loops\13.CalculateTrailingZeros\bin\Debug\13.CalculateTrailingZeros.pdb
+C:\Users\paco\Desktop\6.Loops\13.CalculateTrailingZeros\obj\Debug\13.CalculateTrailingZeros.exe
+C:\Users\paco\Desktop\6.Loops\13.CalculateTrailingZeros\obj\Debug\13.CalculateTrailingZeros.pdb
+C:\Users\paco\Desktop\6.Loops\13.CalculateTrailingZeros\obj\Debug\13.CalculateTrailingZeros.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\6.Loops\13.CalculateTrailingZeros\bin\Debug\13.CalculateTrailingZeros.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\6.Loops\13.CalculateTrailingZeros\obj\Debug\13.CalculateTrailingZeros.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\6.Loops\13.CalculateTrailingZeros\obj\Debug\13.CalculateTrailingZeros.pdb

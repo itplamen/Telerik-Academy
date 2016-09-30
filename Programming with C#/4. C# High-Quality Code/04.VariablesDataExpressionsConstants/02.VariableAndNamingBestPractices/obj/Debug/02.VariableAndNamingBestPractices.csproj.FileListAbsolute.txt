@@ -1,0 +1,9 @@
+C:\Users\plamen\Desktop\04.VariablesDataExpressionsConstants\02.VariableAndNamingBestPractices\bin\Debug\02.VariableAndNamingBestPractices.exe.config
+C:\Users\plamen\Desktop\04.VariablesDataExpressionsConstants\02.VariableAndNamingBestPractices\obj\Debug\02.VariableAndNamingBestPractices.csprojResolveAssemblyReference.cache
+C:\Users\plamen\Desktop\04.VariablesDataExpressionsConstants\02.VariableAndNamingBestPractices\bin\Debug\02.VariableAndNamingBestPractices.exe
+C:\Users\plamen\Desktop\04.VariablesDataExpressionsConstants\02.VariableAndNamingBestPractices\bin\Debug\02.VariableAndNamingBestPractices.pdb
+C:\Users\plamen\Desktop\04.VariablesDataExpressionsConstants\02.VariableAndNamingBestPractices\obj\Debug\02.VariableAndNamingBestPractices.exe
+C:\Users\plamen\Desktop\04.VariablesDataExpressionsConstants\02.VariableAndNamingBestPractices\obj\Debug\02.VariableAndNamingBestPractices.pdb
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\04.VariablesDataExpressionsConstants\02.VariableAndNamingBestPractices\bin\Debug\02.VariableAndNamingBestPractices.exe.config
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\04.VariablesDataExpressionsConstants\02.VariableAndNamingBestPractices\obj\Debug\02.VariableAndNamingBestPractices.exe
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\04.VariablesDataExpressionsConstants\02.VariableAndNamingBestPractices\obj\Debug\02.VariableAndNamingBestPractices.pdb

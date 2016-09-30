@@ -1,0 +1,6 @@
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\23.ReplaceIdenticalLetter\bin\Debug\23.ReplaceIdenticalLetter.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\23.ReplaceIdenticalLetter\bin\Debug\23.ReplaceIdenticalLetter.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\23.ReplaceIdenticalLetter\bin\Debug\23.ReplaceIdenticalLetter.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\23.ReplaceIdenticalLetter\obj\Debug\23.ReplaceIdenticalLetter.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\23.ReplaceIdenticalLetter\obj\Debug\23.ReplaceIdenticalLetter.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\23.ReplaceIdenticalLetter\obj\Debug\23.ReplaceIdenticalLetter.csprojResolveAssemblyReference.cache

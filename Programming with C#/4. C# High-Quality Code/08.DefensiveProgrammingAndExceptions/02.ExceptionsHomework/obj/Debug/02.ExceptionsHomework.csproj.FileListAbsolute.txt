@@ -1,0 +1,9 @@
+C:\Users\plamen\Desktop\08.DefensiveProgrammingAndExceptions\02.ExceptionsHomework\bin\Debug\02.ExceptionsHomework.exe.config
+C:\Users\plamen\Desktop\08.DefensiveProgrammingAndExceptions\02.ExceptionsHomework\bin\Debug\02.ExceptionsHomework.exe
+C:\Users\plamen\Desktop\08.DefensiveProgrammingAndExceptions\02.ExceptionsHomework\bin\Debug\02.ExceptionsHomework.pdb
+C:\Users\plamen\Desktop\08.DefensiveProgrammingAndExceptions\02.ExceptionsHomework\obj\Debug\02.ExceptionsHomework.exe
+C:\Users\plamen\Desktop\08.DefensiveProgrammingAndExceptions\02.ExceptionsHomework\obj\Debug\02.ExceptionsHomework.pdb
+C:\Users\plamen\Desktop\08.DefensiveProgrammingAndExceptions\02.ExceptionsHomework\obj\Debug\02.ExceptionsHomework.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\08.DefensiveProgrammingAndExceptions\02.ExceptionsHomework\bin\Debug\02.ExceptionsHomework.exe.config
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\08.DefensiveProgrammingAndExceptions\02.ExceptionsHomework\obj\Debug\02.ExceptionsHomework.exe
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\08.DefensiveProgrammingAndExceptions\02.ExceptionsHomework\obj\Debug\02.ExceptionsHomework.pdb

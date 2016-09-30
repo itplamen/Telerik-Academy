@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.RefactorFirstExample", "01.RefactorFirstExample\01.RefactorFirstExample.csproj", "{E4948E21-F14C-4915-A0A8-E69103BEF94B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.RefactorSecondExample", "02.RefactorSecondExample\02.RefactorSecondExample.csproj", "{60F670E1-25C2-47F4-AF46-4F593A261F8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ClassicMineGame", "03.ClassicMineGame\03.ClassicMineGame.csproj", "{F0E5887B-72E8-4CCB-915B-3958131E3C36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4948E21-F14C-4915-A0A8-E69103BEF94B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4948E21-F14C-4915-A0A8-E69103BEF94B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4948E21-F14C-4915-A0A8-E69103BEF94B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4948E21-F14C-4915-A0A8-E69103BEF94B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60F670E1-25C2-47F4-AF46-4F593A261F8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60F670E1-25C2-47F4-AF46-4F593A261F8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60F670E1-25C2-47F4-AF46-4F593A261F8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60F670E1-25C2-47F4-AF46-4F593A261F8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0E5887B-72E8-4CCB-915B-3958131E3C36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0E5887B-72E8-4CCB-915B-3958131E3C36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0E5887B-72E8-4CCB-915B-3958131E3C36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0E5887B-72E8-4CCB-915B-3958131E3C36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

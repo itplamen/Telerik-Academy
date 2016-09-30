@@ -1,0 +1,6 @@
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\21.CountDiffrentLetters\bin\Debug\21.CountDiffrentLetters.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\21.CountDiffrentLetters\bin\Debug\21.CountDiffrentLetters.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\21.CountDiffrentLetters\bin\Debug\21.CountDiffrentLetters.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\21.CountDiffrentLetters\obj\Debug\21.CountDiffrentLetters.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\21.CountDiffrentLetters\obj\Debug\21.CountDiffrentLetters.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\21.CountDiffrentLetters\obj\Debug\21.CountDiffrentLetters.csprojResolveAssemblyReference.cache

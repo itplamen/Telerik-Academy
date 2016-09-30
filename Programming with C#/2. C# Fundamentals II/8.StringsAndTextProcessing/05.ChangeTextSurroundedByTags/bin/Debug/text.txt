@@ -1,0 +1,4 @@
+We are living in a <upcase>yellow submarine</upcase>. We don't have
+<upcase>anything</upcase> else. Strings are represented by System.String
+objects in <upcase>.NET Framework</upcase>.
+<upcase>Finding the first string</upcase> in a lexicographical orderfrom a given list of strings.

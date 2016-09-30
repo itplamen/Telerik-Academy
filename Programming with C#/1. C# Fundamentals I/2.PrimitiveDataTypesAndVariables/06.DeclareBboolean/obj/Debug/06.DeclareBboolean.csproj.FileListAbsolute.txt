@@ -1,0 +1,8 @@
+C:\Users\paco\Desktop\2.PrimitiveDataTypesAndVariables\06.DeclareBboolean\bin\Debug\06.DeclareBboolean.exe.config
+C:\Users\paco\Desktop\2.PrimitiveDataTypesAndVariables\06.DeclareBboolean\bin\Debug\06.DeclareBboolean.exe
+C:\Users\paco\Desktop\2.PrimitiveDataTypesAndVariables\06.DeclareBboolean\bin\Debug\06.DeclareBboolean.pdb
+C:\Users\paco\Desktop\2.PrimitiveDataTypesAndVariables\06.DeclareBboolean\obj\Debug\06.DeclareBboolean.exe
+C:\Users\paco\Desktop\2.PrimitiveDataTypesAndVariables\06.DeclareBboolean\obj\Debug\06.DeclareBboolean.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\2.PrimitiveDataTypesAndVariables\06.DeclareBboolean\bin\Debug\06.DeclareBboolean.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\2.PrimitiveDataTypesAndVariables\06.DeclareBboolean\obj\Debug\06.DeclareBboolean.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\2.PrimitiveDataTypesAndVariables\06.DeclareBboolean\obj\Debug\06.DeclareBboolean.pdb

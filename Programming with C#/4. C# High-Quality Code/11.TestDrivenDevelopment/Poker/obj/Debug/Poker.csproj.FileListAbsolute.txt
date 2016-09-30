@@ -1,0 +1,8 @@
+C:\Users\plamen\Desktop\11.TestDrivenDevelopment\Poker\bin\Debug\Poker.exe.config
+C:\Users\plamen\Desktop\11.TestDrivenDevelopment\Poker\bin\Debug\Poker.exe
+C:\Users\plamen\Desktop\11.TestDrivenDevelopment\Poker\bin\Debug\Poker.pdb
+C:\Users\plamen\Desktop\11.TestDrivenDevelopment\Poker\obj\Debug\Poker.exe
+C:\Users\plamen\Desktop\11.TestDrivenDevelopment\Poker\obj\Debug\Poker.pdb
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\11.TestDrivenDevelopment\Poker\bin\Debug\Poker.exe.config
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\11.TestDrivenDevelopment\Poker\obj\Debug\Poker.exe
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\11.TestDrivenDevelopment\Poker\obj\Debug\Poker.pdb

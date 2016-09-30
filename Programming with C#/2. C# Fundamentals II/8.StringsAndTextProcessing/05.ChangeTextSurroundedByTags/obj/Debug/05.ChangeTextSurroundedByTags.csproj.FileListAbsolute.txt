@@ -1,0 +1,6 @@
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\05.ChangeTextSurroundedByTags\bin\Debug\05.ChangeTextSurroundedByTags.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\05.ChangeTextSurroundedByTags\bin\Debug\05.ChangeTextSurroundedByTags.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\05.ChangeTextSurroundedByTags\bin\Debug\05.ChangeTextSurroundedByTags.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\05.ChangeTextSurroundedByTags\obj\Debug\05.ChangeTextSurroundedByTags.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\05.ChangeTextSurroundedByTags\obj\Debug\05.ChangeTextSurroundedByTags.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\05.ChangeTextSurroundedByTags\obj\Debug\05.ChangeTextSurroundedByTags.pdb

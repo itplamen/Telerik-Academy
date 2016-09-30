@@ -1,0 +1,6 @@
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\03.CompareTwoCharArraysLexicographically\bin\Debug\03.CompareTwoCharArraysLexicographically.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\03.CompareTwoCharArraysLexicographically\bin\Debug\03.CompareTwoCharArraysLexicographically.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\03.CompareTwoCharArraysLexicographically\bin\Debug\03.CompareTwoCharArraysLexicographically.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\03.CompareTwoCharArraysLexicographically\obj\Debug\03.CompareTwoCharArraysLexicographically.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\03.CompareTwoCharArraysLexicographically\obj\Debug\03.CompareTwoCharArraysLexicographically.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\03.CompareTwoCharArraysLexicographically\obj\Debug\03.CompareTwoCharArraysLexicographically.pdb

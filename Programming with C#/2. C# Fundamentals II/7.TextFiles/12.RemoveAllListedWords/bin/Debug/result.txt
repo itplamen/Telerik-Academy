@@ -1,0 +1,6 @@
+Write a   that removes from a text   all    ed in given another text  . 
+Handle all possible   in your  .
+Write a   that reads a   of   from a    .txt and finds how many times each of the   is 
+contained in another   test.txt. The result should be written in the   result.txt and the   should be 
+sorted by the   of their occurrences in descending order. Handle all possible   in your  .
+

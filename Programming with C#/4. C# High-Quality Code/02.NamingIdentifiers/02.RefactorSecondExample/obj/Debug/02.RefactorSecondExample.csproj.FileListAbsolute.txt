@@ -1,0 +1,9 @@
+C:\Users\plamen\Desktop\02.NamingIdentifiers\02.RefactorSecondExample\bin\Debug\02.RefactorSecondExample.exe.config
+C:\Users\plamen\Desktop\02.NamingIdentifiers\02.RefactorSecondExample\bin\Debug\02.RefactorSecondExample.exe
+C:\Users\plamen\Desktop\02.NamingIdentifiers\02.RefactorSecondExample\bin\Debug\02.RefactorSecondExample.pdb
+C:\Users\plamen\Desktop\02.NamingIdentifiers\02.RefactorSecondExample\obj\Debug\02.RefactorSecondExample.csprojResolveAssemblyReference.cache
+C:\Users\plamen\Desktop\02.NamingIdentifiers\02.RefactorSecondExample\obj\Debug\02.RefactorSecondExample.exe
+C:\Users\plamen\Desktop\02.NamingIdentifiers\02.RefactorSecondExample\obj\Debug\02.RefactorSecondExample.pdb
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\02.NamingIdentifiers\02.RefactorSecondExample\bin\Debug\02.RefactorSecondExample.exe.config
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\02.NamingIdentifiers\02.RefactorSecondExample\obj\Debug\02.RefactorSecondExample.exe
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\02.NamingIdentifiers\02.RefactorSecondExample\obj\Debug\02.RefactorSecondExample.pdb

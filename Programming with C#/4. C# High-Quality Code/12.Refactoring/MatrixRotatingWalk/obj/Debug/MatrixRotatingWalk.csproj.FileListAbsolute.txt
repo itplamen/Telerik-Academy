@@ -1,0 +1,15 @@
+C:\Users\plamen\Desktop\12.Refactoring\MatrixRotatingWalk\bin\Debug\Matrix.exe.config
+C:\Users\plamen\Desktop\12.Refactoring\MatrixRotatingWalk\obj\Debug\Matrix.exe
+C:\Users\plamen\Desktop\12.Refactoring\MatrixRotatingWalk\obj\Debug\Matrix.pdb
+C:\Users\plamen\Desktop\12.Refactoring\MatrixRotatingWalk\obj\Debug\MatrixRotatingWalk.csprojResolveAssemblyReference.cache
+C:\Users\plamen\Desktop\12.Refactoring\MatrixRotatingWalk\bin\Debug\Matrix.exe
+C:\Users\plamen\Desktop\12.Refactoring\MatrixRotatingWalk\bin\Debug\Matrix.pdb
+D:\12.Refactoring\MatrixRotatingWalk\bin\Debug\Matrix.exe.config
+D:\12.Refactoring\MatrixRotatingWalk\obj\Debug\Matrix.exe
+D:\12.Refactoring\MatrixRotatingWalk\obj\Debug\Matrix.pdb
+D:\12.Refactoring\MatrixRotatingWalk\bin\Debug\Matrix.exe
+D:\12.Refactoring\MatrixRotatingWalk\bin\Debug\Matrix.pdb
+D:\12.Refactoring\MatrixRotatingWalk\obj\Debug\MatrixRotatingWalk.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\12.Refactoring\MatrixRotatingWalk\bin\Debug\Matrix.exe.config
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\12.Refactoring\MatrixRotatingWalk\obj\Debug\Matrix.exe
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\12.Refactoring\MatrixRotatingWalk\obj\Debug\Matrix.pdb

@@ -1,0 +1,9 @@
+C:\Users\plamen\Desktop\05.ControlStructuresConditionalStatementsLoops\02.RefactorIfStatements\bin\Debug\02.RefactorIfStatements.exe.config
+C:\Users\plamen\Desktop\05.ControlStructuresConditionalStatementsLoops\02.RefactorIfStatements\obj\Debug\02.RefactorIfStatements.csprojResolveAssemblyReference.cache
+C:\Users\plamen\Desktop\05.ControlStructuresConditionalStatementsLoops\02.RefactorIfStatements\bin\Debug\02.RefactorIfStatements.exe
+C:\Users\plamen\Desktop\05.ControlStructuresConditionalStatementsLoops\02.RefactorIfStatements\bin\Debug\02.RefactorIfStatements.pdb
+C:\Users\plamen\Desktop\05.ControlStructuresConditionalStatementsLoops\02.RefactorIfStatements\obj\Debug\02.RefactorIfStatements.exe
+C:\Users\plamen\Desktop\05.ControlStructuresConditionalStatementsLoops\02.RefactorIfStatements\obj\Debug\02.RefactorIfStatements.pdb
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\05.ControlStructuresConditionalStatementsLoops\02.RefactorIfStatements\bin\Debug\02.RefactorIfStatements.exe.config
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\05.ControlStructuresConditionalStatementsLoops\02.RefactorIfStatements\obj\Debug\02.RefactorIfStatements.exe
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\05.ControlStructuresConditionalStatementsLoops\02.RefactorIfStatements\obj\Debug\02.RefactorIfStatements.pdb

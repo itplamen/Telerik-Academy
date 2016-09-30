@@ -1,0 +1,6 @@
+C:\Users\plamen\Desktop\6.Common-Type-System\02.FieldWithNullValue\bin\Debug\02.FieldWithNullValue.exe.config
+C:\Users\plamen\Desktop\6.Common-Type-System\02.FieldWithNullValue\bin\Debug\02.FieldWithNullValue.exe
+C:\Users\plamen\Desktop\6.Common-Type-System\02.FieldWithNullValue\bin\Debug\02.FieldWithNullValue.pdb
+C:\Users\plamen\Desktop\6.Common-Type-System\02.FieldWithNullValue\obj\Debug\02.FieldWithNullValue.csprojResolveAssemblyReference.cache
+C:\Users\plamen\Desktop\6.Common-Type-System\02.FieldWithNullValue\obj\Debug\02.FieldWithNullValue.exe
+C:\Users\plamen\Desktop\6.Common-Type-System\02.FieldWithNullValue\obj\Debug\02.FieldWithNullValue.pdb

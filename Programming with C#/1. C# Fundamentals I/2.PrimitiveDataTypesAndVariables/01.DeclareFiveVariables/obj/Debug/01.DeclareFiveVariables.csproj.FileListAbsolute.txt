@@ -1,0 +1,14 @@
+C:\Users\paco\Desktop\2.PrimitiveDataTypesAndVariables\01.DeclareFiveVariables\bin\Debug\01.DeclareFiveVariables.exe.config
+C:\Users\paco\Desktop\2.PrimitiveDataTypesAndVariables\01.DeclareFiveVariables\bin\Debug\01.DeclareFiveVariables.exe
+C:\Users\paco\Desktop\2.PrimitiveDataTypesAndVariables\01.DeclareFiveVariables\bin\Debug\01.DeclareFiveVariables.pdb
+C:\Users\paco\Desktop\2.PrimitiveDataTypesAndVariables\01.DeclareFiveVariables\obj\Debug\01.DeclareFiveVariables.exe
+C:\Users\paco\Desktop\2.PrimitiveDataTypesAndVariables\01.DeclareFiveVariables\obj\Debug\01.DeclareFiveVariables.pdb
+D:\2.PrimitiveDataTypesAndVariables\01.DeclareFiveVariables\bin\Debug\01.DeclareFiveVariables.exe.config
+D:\2.PrimitiveDataTypesAndVariables\01.DeclareFiveVariables\obj\Debug\01.DeclareFiveVariables.exe
+D:\2.PrimitiveDataTypesAndVariables\01.DeclareFiveVariables\obj\Debug\01.DeclareFiveVariables.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\2.PrimitiveDataTypesAndVariables\01.DeclareFiveVariables\bin\Debug\01.DeclareFiveVariables.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\2.PrimitiveDataTypesAndVariables\01.DeclareFiveVariables\obj\Debug\01.DeclareFiveVariables.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\2.PrimitiveDataTypesAndVariables\01.DeclareFiveVariables\obj\Debug\01.DeclareFiveVariables.pdb
+D:\Telerik-Academy\Programming with C#\1. C# Fundamentals I\2.PrimitiveDataTypesAndVariables\01.DeclareFiveVariables\bin\Debug\01.DeclareFiveVariables.exe.config
+D:\Telerik-Academy\Programming with C#\1. C# Fundamentals I\2.PrimitiveDataTypesAndVariables\01.DeclareFiveVariables\obj\Debug\01.DeclareFiveVariables.exe
+D:\Telerik-Academy\Programming with C#\1. C# Fundamentals I\2.PrimitiveDataTypesAndVariables\01.DeclareFiveVariables\obj\Debug\01.DeclareFiveVariables.pdb

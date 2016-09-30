@@ -1,0 +1,21 @@
+C:\Users\plamen\Desktop\01.LinearDataStructures\01.SequenceOfPositiveIntegerNumbers\bin\Debug\01.SequenceOfPositiveIntegerNumbers.exe.config
+C:\Users\plamen\Desktop\01.LinearDataStructures\01.SequenceOfPositiveIntegerNumbers\obj\Debug\01.SequenceOfPositiveIntegerNumbers.csprojResolveAssemblyReference.cache
+C:\Users\plamen\Desktop\01.LinearDataStructures\01.SequenceOfPositiveIntegerNumbers\bin\Debug\01.SequenceOfPositiveIntegerNumbers.exe
+C:\Users\plamen\Desktop\01.LinearDataStructures\01.SequenceOfPositiveIntegerNumbers\bin\Debug\01.SequenceOfPositiveIntegerNumbers.pdb
+C:\Users\plamen\Desktop\01.LinearDataStructures\01.SequenceOfPositiveIntegerNumbers\obj\Debug\01.SequenceOfPositiveIntegerNumbers.exe
+C:\Users\plamen\Desktop\01.LinearDataStructures\01.SequenceOfPositiveIntegerNumbers\obj\Debug\01.SequenceOfPositiveIntegerNumbers.pdb
+C:\Users\itplamen\Desktop\01.LinearDataStructures\01.SequenceOfPositiveIntegerNumbers\bin\Debug\01.SequenceOfPositiveIntegerNumbers.exe.config
+C:\Users\itplamen\Desktop\01.LinearDataStructures\01.SequenceOfPositiveIntegerNumbers\obj\Debug\01.SequenceOfPositiveIntegerNumbers.exe
+C:\Users\itplamen\Desktop\01.LinearDataStructures\01.SequenceOfPositiveIntegerNumbers\obj\Debug\01.SequenceOfPositiveIntegerNumbers.pdb
+C:\Users\itplamen\Desktop\01.LinearDataStructures\01.SequenceOfPositiveIntegerNumbers\bin\Debug\01.SequenceOfPositiveIntegerNumbers.exe
+C:\Users\itplamen\Desktop\01.LinearDataStructures\01.SequenceOfPositiveIntegerNumbers\bin\Debug\01.SequenceOfPositiveIntegerNumbers.pdb
+C:\Users\itplamen\Desktop\01.LinearDataStructures\01.SequenceOfPositiveIntegerNumbers\obj\Debug\01.SequenceOfPositiveIntegerNumbers.csprojResolveAssemblyReference.cache
+D:\01.LinearDataStructures\01.SequenceOfPositiveIntegerNumbers\bin\Debug\01.SequenceOfPositiveIntegerNumbers.exe.config
+D:\01.LinearDataStructures\01.SequenceOfPositiveIntegerNumbers\obj\Debug\01.SequenceOfPositiveIntegerNumbers.exe
+D:\01.LinearDataStructures\01.SequenceOfPositiveIntegerNumbers\obj\Debug\01.SequenceOfPositiveIntegerNumbers.pdb
+D:\01.LinearDataStructures\01.SequenceOfPositiveIntegerNumbers\bin\Debug\01.SequenceOfPositiveIntegerNumbers.exe
+D:\01.LinearDataStructures\01.SequenceOfPositiveIntegerNumbers\bin\Debug\01.SequenceOfPositiveIntegerNumbers.pdb
+D:\01.LinearDataStructures\01.SequenceOfPositiveIntegerNumbers\obj\Debug\01.SequenceOfPositiveIntegerNumbers.csprojResolveAssemblyReference.cache
+D:\Telerik-Academy\Programming with C#\5. C# Data Structures and Algorithms\01.LinearDataStructures\01.SequenceOfPositiveIntegerNumbers\bin\Debug\01.SequenceOfPositiveIntegerNumbers.exe.config
+D:\Telerik-Academy\Programming with C#\5. C# Data Structures and Algorithms\01.LinearDataStructures\01.SequenceOfPositiveIntegerNumbers\obj\Debug\01.SequenceOfPositiveIntegerNumbers.exe
+D:\Telerik-Academy\Programming with C#\5. C# Data Structures and Algorithms\01.LinearDataStructures\01.SequenceOfPositiveIntegerNumbers\obj\Debug\01.SequenceOfPositiveIntegerNumbers.pdb

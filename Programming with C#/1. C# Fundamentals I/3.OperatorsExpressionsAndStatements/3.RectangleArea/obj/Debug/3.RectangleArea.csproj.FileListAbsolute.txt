@@ -1,0 +1,9 @@
+C:\Users\paco\Desktop\3.OperatorsExpressionsAndStatements\3.RectangleArea\bin\Debug\3.RectangleArea.exe.config
+C:\Users\paco\Desktop\3.OperatorsExpressionsAndStatements\3.RectangleArea\bin\Debug\3.RectangleArea.exe
+C:\Users\paco\Desktop\3.OperatorsExpressionsAndStatements\3.RectangleArea\bin\Debug\3.RectangleArea.pdb
+C:\Users\paco\Desktop\3.OperatorsExpressionsAndStatements\3.RectangleArea\obj\Debug\3.RectangleArea.csprojResolveAssemblyReference.cache
+C:\Users\paco\Desktop\3.OperatorsExpressionsAndStatements\3.RectangleArea\obj\Debug\3.RectangleArea.exe
+C:\Users\paco\Desktop\3.OperatorsExpressionsAndStatements\3.RectangleArea\obj\Debug\3.RectangleArea.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\3.OperatorsExpressionsAndStatements\3.RectangleArea\bin\Debug\3.RectangleArea.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\3.OperatorsExpressionsAndStatements\3.RectangleArea\obj\Debug\3.RectangleArea.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\3.OperatorsExpressionsAndStatements\3.RectangleArea\obj\Debug\3.RectangleArea.pdb

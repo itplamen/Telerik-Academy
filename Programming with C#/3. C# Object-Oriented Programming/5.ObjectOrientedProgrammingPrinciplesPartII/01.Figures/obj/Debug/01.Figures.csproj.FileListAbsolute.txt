@@ -1,0 +1,9 @@
+C:\Users\paco\Desktop\5.ObjectOrientedProgrammingPrinciplesPartII\01.Figures\bin\Debug\01.Figures.exe.config
+C:\Users\paco\Desktop\5.ObjectOrientedProgrammingPrinciplesPartII\01.Figures\obj\Debug\01.Figures.csprojResolveAssemblyReference.cache
+C:\Users\paco\Desktop\5.ObjectOrientedProgrammingPrinciplesPartII\01.Figures\bin\Debug\01.Figures.exe
+C:\Users\paco\Desktop\5.ObjectOrientedProgrammingPrinciplesPartII\01.Figures\bin\Debug\01.Figures.pdb
+C:\Users\paco\Desktop\5.ObjectOrientedProgrammingPrinciplesPartII\01.Figures\obj\Debug\01.Figures.exe
+C:\Users\paco\Desktop\5.ObjectOrientedProgrammingPrinciplesPartII\01.Figures\obj\Debug\01.Figures.pdb
+D:\Telerik Academy\TelerikAcademy---OOP\5.ObjectOrientedProgrammingPrinciplesPartII\01.Figures\bin\Debug\01.Figures.exe.config
+D:\Telerik Academy\TelerikAcademy---OOP\5.ObjectOrientedProgrammingPrinciplesPartII\01.Figures\obj\Debug\01.Figures.exe
+D:\Telerik Academy\TelerikAcademy---OOP\5.ObjectOrientedProgrammingPrinciplesPartII\01.Figures\obj\Debug\01.Figures.pdb

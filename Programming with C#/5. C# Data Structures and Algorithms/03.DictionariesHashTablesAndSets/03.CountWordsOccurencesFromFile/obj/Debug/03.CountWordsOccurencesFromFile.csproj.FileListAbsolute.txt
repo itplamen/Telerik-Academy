@@ -1,0 +1,9 @@
+C:\Users\itplamen\Desktop\03.DictionariesHashTablesAndSets\03.CountWordsOccurencesFromFile\bin\Debug\03.CountWordsOccurencesFromFile.exe.config
+C:\Users\itplamen\Desktop\03.DictionariesHashTablesAndSets\03.CountWordsOccurencesFromFile\bin\Debug\03.CountWordsOccurencesFromFile.exe
+C:\Users\itplamen\Desktop\03.DictionariesHashTablesAndSets\03.CountWordsOccurencesFromFile\bin\Debug\03.CountWordsOccurencesFromFile.pdb
+C:\Users\itplamen\Desktop\03.DictionariesHashTablesAndSets\03.CountWordsOccurencesFromFile\obj\Debug\03.CountWordsOccurencesFromFile.exe
+C:\Users\itplamen\Desktop\03.DictionariesHashTablesAndSets\03.CountWordsOccurencesFromFile\obj\Debug\03.CountWordsOccurencesFromFile.pdb
+C:\Users\itplamen\Desktop\03.DictionariesHashTablesAndSets\03.CountWordsOccurencesFromFile\obj\Debug\03.CountWordsOccurencesFromFile.csprojResolveAssemblyReference.cache
+D:\Telerik-Academy\Programming with C#\5. C# Data Structures and Algorithms\03.DictionariesHashTablesAndSets\03.CountWordsOccurencesFromFile\bin\Debug\03.CountWordsOccurencesFromFile.exe.config
+D:\Telerik-Academy\Programming with C#\5. C# Data Structures and Algorithms\03.DictionariesHashTablesAndSets\03.CountWordsOccurencesFromFile\obj\Debug\03.CountWordsOccurencesFromFile.exe
+D:\Telerik-Academy\Programming with C#\5. C# Data Structures and Algorithms\03.DictionariesHashTablesAndSets\03.CountWordsOccurencesFromFile\obj\Debug\03.CountWordsOccurencesFromFile.pdb

@@ -1,0 +1,5 @@
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\15.SieveOfEratosthenesAlgorithm\bin\Debug\15.SieveOfEratosthenesAlgorithm.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\15.SieveOfEratosthenesAlgorithm\bin\Debug\15.SieveOfEratosthenesAlgorithm.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\15.SieveOfEratosthenesAlgorithm\bin\Debug\15.SieveOfEratosthenesAlgorithm.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\15.SieveOfEratosthenesAlgorithm\obj\Debug\15.SieveOfEratosthenesAlgorithm.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\15.SieveOfEratosthenesAlgorithm\obj\Debug\15.SieveOfEratosthenesAlgorithm.pdb

@@ -1,0 +1,9 @@
+D:\2.PrimitiveDataTypesAndVariables\13.NullableVariables\bin\Debug\13.NullableVariables.exe.config
+D:\2.PrimitiveDataTypesAndVariables\13.NullableVariables\obj\Debug\13.NullableVariables.csprojResolveAssemblyReference.cache
+D:\2.PrimitiveDataTypesAndVariables\13.NullableVariables\bin\Debug\13.NullableVariables.exe
+D:\2.PrimitiveDataTypesAndVariables\13.NullableVariables\bin\Debug\13.NullableVariables.pdb
+D:\2.PrimitiveDataTypesAndVariables\13.NullableVariables\obj\Debug\13.NullableVariables.exe
+D:\2.PrimitiveDataTypesAndVariables\13.NullableVariables\obj\Debug\13.NullableVariables.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\2.PrimitiveDataTypesAndVariables\13.NullableVariables\bin\Debug\13.NullableVariables.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\2.PrimitiveDataTypesAndVariables\13.NullableVariables\obj\Debug\13.NullableVariables.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\2.PrimitiveDataTypesAndVariables\13.NullableVariables\obj\Debug\13.NullableVariables.pdb

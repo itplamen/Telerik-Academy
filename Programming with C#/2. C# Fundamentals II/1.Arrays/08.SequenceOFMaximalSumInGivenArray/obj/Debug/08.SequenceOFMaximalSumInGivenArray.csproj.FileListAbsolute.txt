@@ -1,0 +1,6 @@
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\08.SequenceOFMaximalSumInGivenArray\bin\Debug\08.SequenceOFMaximalSumInGivenArray.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\08.SequenceOFMaximalSumInGivenArray\bin\Debug\08.SequenceOFMaximalSumInGivenArray.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\08.SequenceOFMaximalSumInGivenArray\bin\Debug\08.SequenceOFMaximalSumInGivenArray.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\08.SequenceOFMaximalSumInGivenArray\obj\Debug\08.SequenceOFMaximalSumInGivenArray.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\08.SequenceOFMaximalSumInGivenArray\obj\Debug\08.SequenceOFMaximalSumInGivenArray.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\08.SequenceOFMaximalSumInGivenArray\obj\Debug\08.SequenceOFMaximalSumInGivenArray.pdb

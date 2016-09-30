@@ -1,0 +1,5 @@
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\5.UsingClassesAndObjects\04.CalculateSurfaceOFTriangle\bin\Debug\04.CalculateSurfaceOFTriangle.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\5.UsingClassesAndObjects\04.CalculateSurfaceOFTriangle\bin\Debug\04.CalculateSurfaceOFTriangle.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\5.UsingClassesAndObjects\04.CalculateSurfaceOFTriangle\bin\Debug\04.CalculateSurfaceOFTriangle.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\5.UsingClassesAndObjects\04.CalculateSurfaceOFTriangle\obj\Debug\04.CalculateSurfaceOFTriangle.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\5.UsingClassesAndObjects\04.CalculateSurfaceOFTriangle\obj\Debug\04.CalculateSurfaceOFTriangle.pdb

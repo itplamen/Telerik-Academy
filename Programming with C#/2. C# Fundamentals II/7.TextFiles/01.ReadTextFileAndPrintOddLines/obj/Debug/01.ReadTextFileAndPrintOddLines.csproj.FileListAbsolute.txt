@@ -1,0 +1,5 @@
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\01.ReadTextFileAndPrintOddLines\bin\Debug\01.ReadTextFileAndPrintOddLines.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\01.ReadTextFileAndPrintOddLines\bin\Debug\01.ReadTextFileAndPrintOddLines.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\01.ReadTextFileAndPrintOddLines\bin\Debug\01.ReadTextFileAndPrintOddLines.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\01.ReadTextFileAndPrintOddLines\obj\Debug\01.ReadTextFileAndPrintOddLines.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\01.ReadTextFileAndPrintOddLines\obj\Debug\01.ReadTextFileAndPrintOddLines.pdb

@@ -1,0 +1,9 @@
+C:\Users\paco\Desktop\3.OperatorsExpressionsAndStatements\12.SetBitValue\bin\Debug\12.SetBitValue.exe.config
+C:\Users\paco\Desktop\3.OperatorsExpressionsAndStatements\12.SetBitValue\bin\Debug\12.SetBitValue.exe
+C:\Users\paco\Desktop\3.OperatorsExpressionsAndStatements\12.SetBitValue\bin\Debug\12.SetBitValue.pdb
+C:\Users\paco\Desktop\3.OperatorsExpressionsAndStatements\12.SetBitValue\obj\Debug\12.SetBitValue.csprojResolveAssemblyReference.cache
+C:\Users\paco\Desktop\3.OperatorsExpressionsAndStatements\12.SetBitValue\obj\Debug\12.SetBitValue.exe
+C:\Users\paco\Desktop\3.OperatorsExpressionsAndStatements\12.SetBitValue\obj\Debug\12.SetBitValue.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\3.OperatorsExpressionsAndStatements\12.SetBitValue\bin\Debug\12.SetBitValue.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\3.OperatorsExpressionsAndStatements\12.SetBitValue\obj\Debug\12.SetBitValue.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\3.OperatorsExpressionsAndStatements\12.SetBitValue\obj\Debug\12.SetBitValue.pdb

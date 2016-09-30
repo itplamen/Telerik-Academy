@@ -1,0 +1,11 @@
+C:\Users\paco\Desktop\2.PrimitiveDataTypesAndVariables\04.DeclareHexInt\bin\Debug\04.DeclareHexInt.exe.config
+C:\Users\paco\Desktop\2.PrimitiveDataTypesAndVariables\04.DeclareHexInt\bin\Debug\04.DeclareHexInt.exe
+C:\Users\paco\Desktop\2.PrimitiveDataTypesAndVariables\04.DeclareHexInt\bin\Debug\04.DeclareHexInt.pdb
+C:\Users\paco\Desktop\2.PrimitiveDataTypesAndVariables\04.DeclareHexInt\obj\Debug\04.DeclareHexInt.exe
+C:\Users\paco\Desktop\2.PrimitiveDataTypesAndVariables\04.DeclareHexInt\obj\Debug\04.DeclareHexInt.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\2.PrimitiveDataTypesAndVariables\04.DeclareHexInt\bin\Debug\04.DeclareHexInt.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\2.PrimitiveDataTypesAndVariables\04.DeclareHexInt\obj\Debug\04.DeclareHexInt.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\2.PrimitiveDataTypesAndVariables\04.DeclareHexInt\obj\Debug\04.DeclareHexInt.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\2.PrimitiveDataTypesAndVariables\04.DeclareHexInt\bin\Debug\04.DeclareHexInt.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\2.PrimitiveDataTypesAndVariables\04.DeclareHexInt\bin\Debug\04.DeclareHexInt.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\2.PrimitiveDataTypesAndVariables\04.DeclareHexInt\obj\Debug\04.DeclareHexInt.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\paco\Desktop\2.PrimitiveDataTypesAndVariables\02.AssignedToFloatAndDouble\bin\Debug\02.AssignedToFloatAndDouble.exe.config
+C:\Users\paco\Desktop\2.PrimitiveDataTypesAndVariables\02.AssignedToFloatAndDouble\bin\Debug\02.AssignedToFloatAndDouble.exe
+C:\Users\paco\Desktop\2.PrimitiveDataTypesAndVariables\02.AssignedToFloatAndDouble\bin\Debug\02.AssignedToFloatAndDouble.pdb
+C:\Users\paco\Desktop\2.PrimitiveDataTypesAndVariables\02.AssignedToFloatAndDouble\obj\Debug\02.AssignedToFloatAndDouble.csprojResolveAssemblyReference.cache
+C:\Users\paco\Desktop\2.PrimitiveDataTypesAndVariables\02.AssignedToFloatAndDouble\obj\Debug\02.AssignedToFloatAndDouble.exe
+C:\Users\paco\Desktop\2.PrimitiveDataTypesAndVariables\02.AssignedToFloatAndDouble\obj\Debug\02.AssignedToFloatAndDouble.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\2.PrimitiveDataTypesAndVariables\02.AssignedToFloatAndDouble\bin\Debug\02.AssignedToFloatAndDouble.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\2.PrimitiveDataTypesAndVariables\02.AssignedToFloatAndDouble\obj\Debug\02.AssignedToFloatAndDouble.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\2.PrimitiveDataTypesAndVariables\02.AssignedToFloatAndDouble\obj\Debug\02.AssignedToFloatAndDouble.pdb

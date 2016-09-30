@@ -1,0 +1,12 @@
+C:\Users\paco\Desktop\3.ExtensionMethodsDelegatesLambdaLINQ\05.TimerDelegates\bin\Debug\05.TimerDelegates.exe.config
+C:\Users\paco\Desktop\3.ExtensionMethodsDelegatesLambdaLINQ\05.TimerDelegates\bin\Debug\05.TimerDelegates.exe
+C:\Users\paco\Desktop\3.ExtensionMethodsDelegatesLambdaLINQ\05.TimerDelegates\bin\Debug\05.TimerDelegates.pdb
+C:\Users\paco\Desktop\3.ExtensionMethodsDelegatesLambdaLINQ\05.TimerDelegates\obj\Debug\05.TimerDelegates.exe
+C:\Users\paco\Desktop\3.ExtensionMethodsDelegatesLambdaLINQ\05.TimerDelegates\obj\Debug\05.TimerDelegates.pdb
+C:\Users\paco\Desktop\3.ExtensionMethodsDelegatesLambdaLINQ\05.TimerDelegates\obj\Debug\05.TimerDelegates.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\TelerikAcademy---OOP\3.ExtensionMethodsDelegatesLambdaLINQ\05.TimerDelegates\bin\Debug\05.TimerDelegates.exe.config
+D:\Telerik Academy\TelerikAcademy---OOP\3.ExtensionMethodsDelegatesLambdaLINQ\05.TimerDelegates\obj\Debug\05.TimerDelegates.exe
+D:\Telerik Academy\TelerikAcademy---OOP\3.ExtensionMethodsDelegatesLambdaLINQ\05.TimerDelegates\obj\Debug\05.TimerDelegates.pdb
+D:\Telerik Academy\TelerikAcademy---OOP\3.ExtensionMethodsDelegatesLambdaLINQ\05.TimerDelegates\bin\Debug\05.TimerDelegates.exe
+D:\Telerik Academy\TelerikAcademy---OOP\3.ExtensionMethodsDelegatesLambdaLINQ\05.TimerDelegates\bin\Debug\05.TimerDelegates.pdb
+D:\Telerik Academy\TelerikAcademy---OOP\3.ExtensionMethodsDelegatesLambdaLINQ\05.TimerDelegates\obj\Debug\05.TimerDelegates.csprojResolveAssemblyReference.cache

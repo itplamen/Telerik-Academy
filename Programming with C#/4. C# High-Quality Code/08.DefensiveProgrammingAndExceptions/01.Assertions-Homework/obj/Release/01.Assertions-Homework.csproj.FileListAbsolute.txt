@@ -1,0 +1,5 @@
+C:\Users\plamen\Desktop\08.DefensiveProgrammingAndExceptions\01.Assertions-Homework\bin\Release\01.Assertions-Homework.exe.config
+C:\Users\plamen\Desktop\08.DefensiveProgrammingAndExceptions\01.Assertions-Homework\bin\Release\01.Assertions-Homework.exe
+C:\Users\plamen\Desktop\08.DefensiveProgrammingAndExceptions\01.Assertions-Homework\bin\Release\01.Assertions-Homework.pdb
+C:\Users\plamen\Desktop\08.DefensiveProgrammingAndExceptions\01.Assertions-Homework\obj\Release\01.Assertions-Homework.exe
+C:\Users\plamen\Desktop\08.DefensiveProgrammingAndExceptions\01.Assertions-Homework\obj\Release\01.Assertions-Homework.pdb

@@ -1,0 +1,6 @@
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\20.GeneratesVariationsOfElements\bin\Debug\20.GeneratesVariationsOfElements.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\20.GeneratesVariationsOfElements\bin\Debug\20.GeneratesVariationsOfElements.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\20.GeneratesVariationsOfElements\bin\Debug\20.GeneratesVariationsOfElements.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\20.GeneratesVariationsOfElements\obj\Debug\20.GeneratesVariationsOfElements.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\20.GeneratesVariationsOfElements\obj\Debug\20.GeneratesVariationsOfElements.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\20.GeneratesVariationsOfElements\obj\Debug\20.GeneratesVariationsOfElements.pdb

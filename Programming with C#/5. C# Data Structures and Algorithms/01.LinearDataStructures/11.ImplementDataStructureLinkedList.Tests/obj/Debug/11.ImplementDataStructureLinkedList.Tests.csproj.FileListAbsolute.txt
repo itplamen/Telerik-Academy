@@ -1,0 +1,7 @@
+D:\01.LinearDataStructures\11.ImplementDataStructureLinkedList.Tests\bin\Debug\11.ImplementDataStructureLinkedList.Tests.dll
+D:\01.LinearDataStructures\11.ImplementDataStructureLinkedList.Tests\bin\Debug\11.ImplementDataStructureLinkedList.Tests.pdb
+D:\01.LinearDataStructures\11.ImplementDataStructureLinkedList.Tests\bin\Debug\11.ImplementDataStructureLinkedList.exe
+D:\01.LinearDataStructures\11.ImplementDataStructureLinkedList.Tests\bin\Debug\11.ImplementDataStructureLinkedList.pdb
+D:\01.LinearDataStructures\11.ImplementDataStructureLinkedList.Tests\obj\Debug\11.ImplementDataStructureLinkedList.Tests.csprojResolveAssemblyReference.cache
+D:\01.LinearDataStructures\11.ImplementDataStructureLinkedList.Tests\obj\Debug\11.ImplementDataStructureLinkedList.Tests.dll
+D:\01.LinearDataStructures\11.ImplementDataStructureLinkedList.Tests\obj\Debug\11.ImplementDataStructureLinkedList.Tests.pdb

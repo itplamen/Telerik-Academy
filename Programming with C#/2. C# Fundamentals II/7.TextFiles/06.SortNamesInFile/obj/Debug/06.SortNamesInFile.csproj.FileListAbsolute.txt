@@ -1,0 +1,5 @@
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\06.SortNamesInFile\bin\Debug\06.SortNamesInFile.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\06.SortNamesInFile\bin\Debug\06.SortNamesInFile.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\06.SortNamesInFile\bin\Debug\06.SortNamesInFile.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\06.SortNamesInFile\obj\Debug\06.SortNamesInFile.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\06.SortNamesInFile\obj\Debug\06.SortNamesInFile.pdb

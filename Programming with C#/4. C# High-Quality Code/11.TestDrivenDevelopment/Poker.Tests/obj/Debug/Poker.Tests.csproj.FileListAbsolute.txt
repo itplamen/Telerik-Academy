@@ -1,0 +1,7 @@
+C:\Users\plamen\Desktop\11.TestDrivenDevelopment\Poker.Tests\bin\Debug\Poker.Tests.dll
+C:\Users\plamen\Desktop\11.TestDrivenDevelopment\Poker.Tests\bin\Debug\Poker.Tests.pdb
+C:\Users\plamen\Desktop\11.TestDrivenDevelopment\Poker.Tests\bin\Debug\Poker.exe
+C:\Users\plamen\Desktop\11.TestDrivenDevelopment\Poker.Tests\bin\Debug\Poker.pdb
+C:\Users\plamen\Desktop\11.TestDrivenDevelopment\Poker.Tests\obj\Debug\Poker.Tests.csprojResolveAssemblyReference.cache
+C:\Users\plamen\Desktop\11.TestDrivenDevelopment\Poker.Tests\obj\Debug\Poker.Tests.dll
+C:\Users\plamen\Desktop\11.TestDrivenDevelopment\Poker.Tests\obj\Debug\Poker.Tests.pdb

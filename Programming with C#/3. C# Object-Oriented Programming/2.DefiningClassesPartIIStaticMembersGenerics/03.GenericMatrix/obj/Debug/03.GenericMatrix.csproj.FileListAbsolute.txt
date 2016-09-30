@@ -1,0 +1,12 @@
+C:\Users\paco\Desktop\2.DefiningClassesPartIIStaticMembersGenerics\03.GenericMatrix\bin\Debug\03.GenericMatrix.exe.config
+C:\Users\paco\Desktop\2.DefiningClassesPartIIStaticMembersGenerics\03.GenericMatrix\obj\Debug\03.GenericMatrix.csprojResolveAssemblyReference.cache
+C:\Users\paco\Desktop\2.DefiningClassesPartIIStaticMembersGenerics\03.GenericMatrix\bin\Debug\03.GenericMatrix.exe
+C:\Users\paco\Desktop\2.DefiningClassesPartIIStaticMembersGenerics\03.GenericMatrix\bin\Debug\03.GenericMatrix.pdb
+C:\Users\paco\Desktop\2.DefiningClassesPartIIStaticMembersGenerics\03.GenericMatrix\obj\Debug\03.GenericMatrix.exe
+C:\Users\paco\Desktop\2.DefiningClassesPartIIStaticMembersGenerics\03.GenericMatrix\obj\Debug\03.GenericMatrix.pdb
+D:\Telerik Academy\TelerikAcademy---OOP\2.DefiningClassesPartIIStaticMembersGenerics\03.GenericMatrix\bin\Debug\03.GenericMatrix.exe.config
+D:\Telerik Academy\TelerikAcademy---OOP\2.DefiningClassesPartIIStaticMembersGenerics\03.GenericMatrix\obj\Debug\03.GenericMatrix.exe
+D:\Telerik Academy\TelerikAcademy---OOP\2.DefiningClassesPartIIStaticMembersGenerics\03.GenericMatrix\obj\Debug\03.GenericMatrix.pdb
+D:\Telerik Academy\TelerikAcademy---OOP\2.DefiningClassesPartIIStaticMembersGenerics\03.GenericMatrix\bin\Debug\03.GenericMatrix.exe
+D:\Telerik Academy\TelerikAcademy---OOP\2.DefiningClassesPartIIStaticMembersGenerics\03.GenericMatrix\bin\Debug\03.GenericMatrix.pdb
+D:\Telerik Academy\TelerikAcademy---OOP\2.DefiningClassesPartIIStaticMembersGenerics\03.GenericMatrix\obj\Debug\03.GenericMatrix.csprojResolveAssemblyReference.cache

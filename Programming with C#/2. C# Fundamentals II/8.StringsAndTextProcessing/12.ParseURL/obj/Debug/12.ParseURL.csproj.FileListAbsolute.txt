@@ -1,0 +1,5 @@
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\12.ParseURL\bin\Debug\12.ParseURL.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\12.ParseURL\bin\Debug\12.ParseURL.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\12.ParseURL\bin\Debug\12.ParseURL.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\12.ParseURL\obj\Debug\12.ParseURL.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\12.ParseURL\obj\Debug\12.ParseURL.pdb

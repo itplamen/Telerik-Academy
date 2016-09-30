@@ -1,0 +1,9 @@
+C:\Users\paco\Desktop\3.ExtensionMethodsDelegatesLambdaLINQ\06.StudentsInformation\bin\Debug\06.StudentsInformation.exe.config
+C:\Users\paco\Desktop\3.ExtensionMethodsDelegatesLambdaLINQ\06.StudentsInformation\obj\Debug\06.StudentsInformation.csprojResolveAssemblyReference.cache
+C:\Users\paco\Desktop\3.ExtensionMethodsDelegatesLambdaLINQ\06.StudentsInformation\bin\Debug\06.StudentsInformation.exe
+C:\Users\paco\Desktop\3.ExtensionMethodsDelegatesLambdaLINQ\06.StudentsInformation\bin\Debug\06.StudentsInformation.pdb
+C:\Users\paco\Desktop\3.ExtensionMethodsDelegatesLambdaLINQ\06.StudentsInformation\obj\Debug\06.StudentsInformation.exe
+C:\Users\paco\Desktop\3.ExtensionMethodsDelegatesLambdaLINQ\06.StudentsInformation\obj\Debug\06.StudentsInformation.pdb
+D:\Telerik Academy\TelerikAcademy---OOP\3.ExtensionMethodsDelegatesLambdaLINQ\06.StudentsInformation\bin\Debug\06.StudentsInformation.exe.config
+D:\Telerik Academy\TelerikAcademy---OOP\3.ExtensionMethodsDelegatesLambdaLINQ\06.StudentsInformation\obj\Debug\06.StudentsInformation.exe
+D:\Telerik Academy\TelerikAcademy---OOP\3.ExtensionMethodsDelegatesLambdaLINQ\06.StudentsInformation\obj\Debug\06.StudentsInformation.pdb

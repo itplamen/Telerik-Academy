@@ -1,0 +1,12 @@
+C:\Users\paco\Desktop\2.DefiningClassesPartIIStaticMembersGenerics\01.Euclidean3DSpace\bin\Debug\01.Euclidean3DSpace.exe.config
+C:\Users\paco\Desktop\2.DefiningClassesPartIIStaticMembersGenerics\01.Euclidean3DSpace\bin\Debug\01.Euclidean3DSpace.exe
+C:\Users\paco\Desktop\2.DefiningClassesPartIIStaticMembersGenerics\01.Euclidean3DSpace\bin\Debug\01.Euclidean3DSpace.pdb
+C:\Users\paco\Desktop\2.DefiningClassesPartIIStaticMembersGenerics\01.Euclidean3DSpace\obj\Debug\01.Euclidean3DSpace.exe
+C:\Users\paco\Desktop\2.DefiningClassesPartIIStaticMembersGenerics\01.Euclidean3DSpace\obj\Debug\01.Euclidean3DSpace.pdb
+C:\Users\paco\Desktop\2.DefiningClassesPartIIStaticMembersGenerics\01.Euclidean3DSpace\obj\Debug\01.Euclidean3DSpace.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\TelerikAcademy---OOP\2.DefiningClassesPartIIStaticMembersGenerics\01.Euclidean3DSpace\bin\Debug\01.Euclidean3DSpace.exe.config
+D:\Telerik Academy\TelerikAcademy---OOP\2.DefiningClassesPartIIStaticMembersGenerics\01.Euclidean3DSpace\obj\Debug\01.Euclidean3DSpace.exe
+D:\Telerik Academy\TelerikAcademy---OOP\2.DefiningClassesPartIIStaticMembersGenerics\01.Euclidean3DSpace\obj\Debug\01.Euclidean3DSpace.pdb
+D:\Telerik Academy\TelerikAcademy---OOP\2.DefiningClassesPartIIStaticMembersGenerics\01.Euclidean3DSpace\bin\Debug\01.Euclidean3DSpace.exe
+D:\Telerik Academy\TelerikAcademy---OOP\2.DefiningClassesPartIIStaticMembersGenerics\01.Euclidean3DSpace\bin\Debug\01.Euclidean3DSpace.pdb
+D:\Telerik Academy\TelerikAcademy---OOP\2.DefiningClassesPartIIStaticMembersGenerics\01.Euclidean3DSpace\obj\Debug\01.Euclidean3DSpace.csprojResolveAssemblyReference.cache

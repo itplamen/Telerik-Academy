@@ -1,0 +1,3 @@
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\18.ExtractEmailAddresse\bin\Debug\18.ExtractEmailAddresse.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\18.ExtractEmailAddresse\obj\Debug\18.ExtractEmailAddresse.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\18.ExtractEmailAddresse\obj\Debug\18.ExtractEmailAddresse.pdb

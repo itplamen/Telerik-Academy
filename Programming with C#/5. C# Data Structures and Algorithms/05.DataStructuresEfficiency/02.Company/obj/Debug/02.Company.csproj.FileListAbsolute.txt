@@ -1,0 +1,8 @@
+C:\Users\itplamen\Desktop\05.DataStructuresEfficiency\02.Company\bin\Debug\02.Company.exe.config
+C:\Users\itplamen\Desktop\05.DataStructuresEfficiency\02.Company\obj\Debug\02.Company.csprojResolveAssemblyReference.cache
+C:\Users\itplamen\Desktop\05.DataStructuresEfficiency\02.Company\bin\Debug\02.Company.exe
+C:\Users\itplamen\Desktop\05.DataStructuresEfficiency\02.Company\bin\Debug\02.Company.pdb
+C:\Users\itplamen\Desktop\05.DataStructuresEfficiency\02.Company\obj\Debug\02.Company.exe
+C:\Users\itplamen\Desktop\05.DataStructuresEfficiency\02.Company\obj\Debug\02.Company.pdb
+C:\Users\itplamen\Desktop\05.DataStructuresEfficiency\02.Company\bin\Debug\PowerCollections.dll
+C:\Users\itplamen\Desktop\05.DataStructuresEfficiency\02.Company\bin\Debug\PowerCollections.xml

@@ -1,0 +1,9 @@
+C:\Users\itplamen\Desktop\03.DictionariesHashTablesAndSets\01.CountOccurrencesOfValue\bin\Debug\01.CountOccurrencesOfValue.exe.config
+C:\Users\itplamen\Desktop\03.DictionariesHashTablesAndSets\01.CountOccurrencesOfValue\bin\Debug\01.CountOccurrencesOfValue.exe
+C:\Users\itplamen\Desktop\03.DictionariesHashTablesAndSets\01.CountOccurrencesOfValue\bin\Debug\01.CountOccurrencesOfValue.pdb
+C:\Users\itplamen\Desktop\03.DictionariesHashTablesAndSets\01.CountOccurrencesOfValue\obj\Debug\01.CountOccurrencesOfValue.csprojResolveAssemblyReference.cache
+C:\Users\itplamen\Desktop\03.DictionariesHashTablesAndSets\01.CountOccurrencesOfValue\obj\Debug\01.CountOccurrencesOfValue.exe
+C:\Users\itplamen\Desktop\03.DictionariesHashTablesAndSets\01.CountOccurrencesOfValue\obj\Debug\01.CountOccurrencesOfValue.pdb
+D:\Telerik-Academy\Programming with C#\5. C# Data Structures and Algorithms\03.DictionariesHashTablesAndSets\01.CountOccurrencesOfValue\bin\Debug\01.CountOccurrencesOfValue.exe.config
+D:\Telerik-Academy\Programming with C#\5. C# Data Structures and Algorithms\03.DictionariesHashTablesAndSets\01.CountOccurrencesOfValue\obj\Debug\01.CountOccurrencesOfValue.exe
+D:\Telerik-Academy\Programming with C#\5. C# Data Structures and Algorithms\03.DictionariesHashTablesAndSets\01.CountOccurrencesOfValue\obj\Debug\01.CountOccurrencesOfValue.pdb

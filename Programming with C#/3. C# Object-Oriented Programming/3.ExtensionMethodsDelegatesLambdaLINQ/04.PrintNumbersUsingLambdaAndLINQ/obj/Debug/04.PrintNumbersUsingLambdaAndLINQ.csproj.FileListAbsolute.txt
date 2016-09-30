@@ -1,0 +1,6 @@
+C:\Users\paco\Desktop\3.ExtensionMethodsDelegatesLambdaLINQ\04.PrintNumbersUsingLambdaAndLINQ\bin\Debug\04.PrintNumbersUsingLambdaAndLINQ.exe.config
+C:\Users\paco\Desktop\3.ExtensionMethodsDelegatesLambdaLINQ\04.PrintNumbersUsingLambdaAndLINQ\obj\Debug\04.PrintNumbersUsingLambdaAndLINQ.csprojResolveAssemblyReference.cache
+C:\Users\paco\Desktop\3.ExtensionMethodsDelegatesLambdaLINQ\04.PrintNumbersUsingLambdaAndLINQ\bin\Debug\04.PrintNumbersUsingLambdaAndLINQ.exe
+C:\Users\paco\Desktop\3.ExtensionMethodsDelegatesLambdaLINQ\04.PrintNumbersUsingLambdaAndLINQ\bin\Debug\04.PrintNumbersUsingLambdaAndLINQ.pdb
+C:\Users\paco\Desktop\3.ExtensionMethodsDelegatesLambdaLINQ\04.PrintNumbersUsingLambdaAndLINQ\obj\Debug\04.PrintNumbersUsingLambdaAndLINQ.exe
+C:\Users\paco\Desktop\3.ExtensionMethodsDelegatesLambdaLINQ\04.PrintNumbersUsingLambdaAndLINQ\obj\Debug\04.PrintNumbersUsingLambdaAndLINQ.pdb

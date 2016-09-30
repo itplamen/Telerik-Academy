@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AddCodeDocumentation</name>
+    </assembly>
+    <members>
+        <member name="T:AddCodeDocumentation.StringExtensions">
+            <summary>
+            Contains string extension methods for <seealso cref="T:System.String"/>
+            </summary>
+        </member>
+        <member name="M:AddCodeDocumentation.StringExtensions.ToMd5Hash(System.String)">
+            <summary>
+            Returns the given <paramref name="input"/> as <seealso cref="T:System.String"/> in 128bit hash value format.
+            </summary>
+            <param name="input">The string whose hash will be calculated.</param>
+            <returns>128bit hash value as <seealso cref="T:System.String"/>.</returns>
+        </member>
+        <member name="M:AddCodeDocumentation.StringExtensions.ToBoolean(System.String)">
+            <summary>
+            Check if the given string contains boolean value.
+            </summary>
+            <param name="input">The given string, that will be checked.</param>
+            <returns>True if contains a boolean value, false if not.</returns>
+        </member>
+        <member name="M:AddCodeDocumentation.StringExtensions.ToShort(System.String)">
+            <summary>
+            Parsing the given string to <seealso cref="T:System.Int16"/>
+            </summary>
+            <param name="input">The given string, that will be parsed to Short number.</param>
+            <returns>Returns number if the parse is successful, otherwise returns number zero (0).</returns>
+        </member>
+        <member name="M:AddCodeDocumentation.StringExtensions.ToInteger(System.String)">
+            <summary>
+            Parsing the given string to <seealso cref="T:System.Int32"/>
+            </summary>
+            <param name="input">The given string, that will be parsed to Integer number.</param>
+            <returns>Returns number if the parse is successful, otherwise returns number zero (0).</returns>
+        </member>
+        <member name="M:AddCodeDocumentation.StringExtensions.ToLong(System.String)">
+            <summary>
+            Parsing the given string to <seealso cref="T:System.Int64"/>
+            </summary>
+            <param name="input">The given string, that will be parsed to Long number.</param>
+            <returns>Returns number if the parse is successful, otherwise returns number zero (0).</returns>
+        </member>
+        <member name="M:AddCodeDocumentation.StringExtensions.ToDateTime(System.String)">
+            <summary>
+            Parsing the given string to <seealso cref="T:System.DateTime"/>
+            </summary>
+            <param name="input">The given string, that will be parsed to DateTime type value.</param>
+            <returns>Returns DateTime value if the parse is successful, otherwise returns the default DateTime value.</returns>
+        </member>
+        <member name="M:AddCodeDocumentation.StringExtensions.CapitalizeFirstLetter(System.String)">
+            <summary>
+            Capitalize the first letter of a given string.
+            </summary>
+            <param name="input">The given string value.</param>
+            <returns>The given string with capitalized first letter, otherwise returns null if <paramref name="input"/> is null or empty.</returns>
+        </member>
+        <member name="M:AddCodeDocumentation.StringExtensions.GetStringBetween(System.String,System.String,System.String,System.Int32)">
+            <summary>
+            Extract substring from a given string.
+            </summary>
+            <param name="input">The given string that should be processed.</param>
+            <param name="startString">The left part of the given string.</param>
+            <param name="endString">The right part of the given string.</param>
+            <param name="startFrom">Optional param, which if left unvalueted gets default value 0, else the given value.</param>
+            <returns>The extracted substring, otherwise returns String.Empty if the given string is empty.</returns>
+        </member>
+        <member name="M:AddCodeDocumentation.StringExtensions.ConvertCyrillicToLatinLetters(System.String)">
+            <summary>
+            Replace cyrillic letters of the given string value with latin representation.
+            </summary>
+            <param name="input">The given string value.</param>
+            <returns>The given string in bulgarian to it's latin representation, otherwise returns null if <paramref name="input"/> is empty.</returns>
+        </member>
+        <member name="M:AddCodeDocumentation.StringExtensions.ConvertLatinToCyrillicKeyboard(System.String)">
+            <summary>
+            Replace latin letters with latin representation of bulgarian letters.
+            </summary>
+            <param name="input">The given string value.</param>
+            <returns>The given string in bulgarian to it's latin representation, otherwise returns null if <paramref name="input"/> is empty.</returns>
+        </member>
+        <member name="M:AddCodeDocumentation.StringExtensions.ToValidUsername(System.String)">
+            <summary>
+            Replace symbols from <paramref name="input"/> which are not in valid username format.
+            </summary>
+            <param name="input">The given string value.</param>
+            <returns>Returns the given <paramref name="input"/> in valid username format.</returns>
+        </member>
+        <member name="M:AddCodeDocumentation.StringExtensions.ToValidLatinFileName(System.String)">
+            <summary>
+            Replace symbols from <paramref name="input"/> which are not in valid file name format.
+            </summary>
+            <param name="input">The given string value.</param>
+            <returns>Returns the given <paramref name="input"/> in valid file name format.</returns>
+        </member>
+        <member name="M:AddCodeDocumentation.StringExtensions.GetFirstCharacters(System.String,System.Int32)">
+            <summary>
+            Extract substring from the given <paramref name="input"/>, starting from the first character.
+            </summary>
+            <param name="input">The given string value that will be processed.</param>
+            <param name="charsCount">The length of the substring.</param>
+            <returns>The extracted substring.</returns>
+        </member>
+        <member name="M:AddCodeDocumentation.StringExtensions.GetFileExtension(System.String)">
+            <summary>
+            Extract substring from the given <paramref name="fileName"/>, starting from character "dot" (.).
+            </summary>
+            <param name="fileName">The given string value.</param>
+            <returns>The extracted substring, otherwise returns String.Empty if <paramref name="fileName"/> is null or empty.</returns>
+            <example>
+            <code>
+            string fileName = "Program.cs";
+            Console.WriteLine(StringExtensions.GetFileExtension(fileName)); // Output: cs
+            </code>
+            </example>
+        </member>
+        <member name="M:AddCodeDocumentation.StringExtensions.ToContentType(System.String)">
+            <summary>
+            Process the given <paramref name="fileName"/> as <seealso cref="T:System.String"/>, returning its content type.
+            </summary>
+            <param name="fileExtension">The given string value.</param>
+            <returns>The file content type, otherwise returns application/octet-stream.</returns>
+        </member>
+        <member name="M:AddCodeDocumentation.StringExtensions.ToByteArray(System.String)">
+            <summary>
+            Convert the given <paramref name="input"/> as <seealso cref="T:System.String"/>.
+            </summary>
+            <param name="input">The given string.</param>
+            <returns>A array of bytes, containing each symbol of the given instance converted to byte.</returns>
+            <example>
+            <code>
+            var input = "Telerik".ToByteArray();
+            Console.WriteLine(String.Join(" ", input)); // Output: 84 0 101 0 108 0 101 0 114 0 105 0 107 0
+            </code>
+            </example>
+        </member>
+    </members>
+</doc>

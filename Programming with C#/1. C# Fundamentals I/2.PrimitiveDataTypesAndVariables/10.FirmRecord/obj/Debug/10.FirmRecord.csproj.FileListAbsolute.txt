@@ -1,0 +1,15 @@
+C:\Users\paco\Desktop\2.PrimitiveDataTypesAndVariables\10.FirmRecord\bin\Debug\10.FirmRecord.exe.config
+C:\Users\paco\Desktop\2.PrimitiveDataTypesAndVariables\10.FirmRecord\bin\Debug\10.FirmRecord.exe
+C:\Users\paco\Desktop\2.PrimitiveDataTypesAndVariables\10.FirmRecord\bin\Debug\10.FirmRecord.pdb
+C:\Users\paco\Desktop\2.PrimitiveDataTypesAndVariables\10.FirmRecord\obj\Debug\10.FirmRecord.exe
+C:\Users\paco\Desktop\2.PrimitiveDataTypesAndVariables\10.FirmRecord\obj\Debug\10.FirmRecord.pdb
+C:\Users\paco\Desktop\2.PrimitiveDataTypesAndVariables\10.FirmRecord\obj\Debug\10.FirmRecord.csprojResolveAssemblyReference.cache
+D:\2.PrimitiveDataTypesAndVariables\10.FirmRecord\bin\Debug\10.FirmRecord.exe.config
+D:\2.PrimitiveDataTypesAndVariables\10.FirmRecord\obj\Debug\10.FirmRecord.exe
+D:\2.PrimitiveDataTypesAndVariables\10.FirmRecord\obj\Debug\10.FirmRecord.pdb
+D:\2.PrimitiveDataTypesAndVariables\10.FirmRecord\bin\Debug\10.FirmRecord.exe
+D:\2.PrimitiveDataTypesAndVariables\10.FirmRecord\bin\Debug\10.FirmRecord.pdb
+D:\2.PrimitiveDataTypesAndVariables\10.FirmRecord\obj\Debug\10.FirmRecord.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\2.PrimitiveDataTypesAndVariables\10.FirmRecord\bin\Debug\10.FirmRecord.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\2.PrimitiveDataTypesAndVariables\10.FirmRecord\obj\Debug\10.FirmRecord.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\2.PrimitiveDataTypesAndVariables\10.FirmRecord\obj\Debug\10.FirmRecord.pdb

@@ -1,0 +1,9 @@
+C:\Users\paco\Desktop\3.ExtensionMethodsDelegatesLambdaLINQ\08.ExtractsStudentsGoupedBGroupName\bin\Debug\08.ExtractsStudentsGoupedBGroupName.exe.config
+C:\Users\paco\Desktop\3.ExtensionMethodsDelegatesLambdaLINQ\08.ExtractsStudentsGoupedBGroupName\obj\Debug\08.ExtractsStudentsGoupedBGroupName.csprojResolveAssemblyReference.cache
+C:\Users\paco\Desktop\3.ExtensionMethodsDelegatesLambdaLINQ\08.ExtractsStudentsGoupedBGroupName\bin\Debug\08.ExtractsStudentsGoupedBGroupName.exe
+C:\Users\paco\Desktop\3.ExtensionMethodsDelegatesLambdaLINQ\08.ExtractsStudentsGoupedBGroupName\bin\Debug\08.ExtractsStudentsGoupedBGroupName.pdb
+C:\Users\paco\Desktop\3.ExtensionMethodsDelegatesLambdaLINQ\08.ExtractsStudentsGoupedBGroupName\obj\Debug\08.ExtractsStudentsGoupedBGroupName.exe
+C:\Users\paco\Desktop\3.ExtensionMethodsDelegatesLambdaLINQ\08.ExtractsStudentsGoupedBGroupName\obj\Debug\08.ExtractsStudentsGoupedBGroupName.pdb
+D:\Telerik Academy\TelerikAcademy---OOP\3.ExtensionMethodsDelegatesLambdaLINQ\08.ExtractsStudentsGoupedBGroupName\bin\Debug\08.ExtractsStudentsGoupedBGroupName.exe.config
+D:\Telerik Academy\TelerikAcademy---OOP\3.ExtensionMethodsDelegatesLambdaLINQ\08.ExtractsStudentsGoupedBGroupName\obj\Debug\08.ExtractsStudentsGoupedBGroupName.exe
+D:\Telerik Academy\TelerikAcademy---OOP\3.ExtensionMethodsDelegatesLambdaLINQ\08.ExtractsStudentsGoupedBGroupName\obj\Debug\08.ExtractsStudentsGoupedBGroupName.pdb

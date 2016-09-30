@@ -1,0 +1,5 @@
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\2.MultidimensionalArrays\01.PrintMatrix\bin\Debug\01.PrintMatrix.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\2.MultidimensionalArrays\01.PrintMatrix\bin\Debug\01.PrintMatrix.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\2.MultidimensionalArrays\01.PrintMatrix\bin\Debug\01.PrintMatrix.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\2.MultidimensionalArrays\01.PrintMatrix\obj\Debug\01.PrintMatrix.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\2.MultidimensionalArrays\01.PrintMatrix\obj\Debug\01.PrintMatrix.pdb

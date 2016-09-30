@@ -1,0 +1,2 @@
+D:\2.PrimitiveDataTypesAndVariables\12.PrintASCII\bin\Debug\12.PrintASCII.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\2.PrimitiveDataTypesAndVariables\12.PrintASCII\bin\Debug\12.PrintASCII.exe.config

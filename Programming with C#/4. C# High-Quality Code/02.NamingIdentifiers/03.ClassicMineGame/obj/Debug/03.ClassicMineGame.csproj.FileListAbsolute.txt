@@ -1,0 +1,9 @@
+C:\Users\plamen\Desktop\02.NamingIdentifiers\03.ClassicMineGame\bin\Debug\03.ClassicMineGame.exe.config
+C:\Users\plamen\Desktop\02.NamingIdentifiers\03.ClassicMineGame\bin\Debug\03.ClassicMineGame.exe
+C:\Users\plamen\Desktop\02.NamingIdentifiers\03.ClassicMineGame\bin\Debug\03.ClassicMineGame.pdb
+C:\Users\plamen\Desktop\02.NamingIdentifiers\03.ClassicMineGame\obj\Debug\03.ClassicMineGame.csprojResolveAssemblyReference.cache
+C:\Users\plamen\Desktop\02.NamingIdentifiers\03.ClassicMineGame\obj\Debug\03.ClassicMineGame.exe
+C:\Users\plamen\Desktop\02.NamingIdentifiers\03.ClassicMineGame\obj\Debug\03.ClassicMineGame.pdb
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\02.NamingIdentifiers\03.ClassicMineGame\bin\Debug\03.ClassicMineGame.exe.config
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\02.NamingIdentifiers\03.ClassicMineGame\obj\Debug\03.ClassicMineGame.exe
+D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\02.NamingIdentifiers\03.ClassicMineGame\obj\Debug\03.ClassicMineGame.pdb

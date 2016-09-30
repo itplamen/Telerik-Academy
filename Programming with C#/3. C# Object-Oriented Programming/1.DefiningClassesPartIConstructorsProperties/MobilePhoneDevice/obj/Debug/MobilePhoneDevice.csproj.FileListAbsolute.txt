@@ -1,0 +1,12 @@
+D:\Telerik Academy\TelerikAcademy---OOP\1.DefiningClassesPartIConstructorsProperties\MobilePhoneDevice\bin\Debug\MobilePhoneDevice.exe.config
+D:\Telerik Academy\TelerikAcademy---OOP\1.DefiningClassesPartIConstructorsProperties\MobilePhoneDevice\bin\Debug\MobilePhoneDevice.exe
+D:\Telerik Academy\TelerikAcademy---OOP\1.DefiningClassesPartIConstructorsProperties\MobilePhoneDevice\bin\Debug\MobilePhoneDevice.pdb
+D:\Telerik Academy\TelerikAcademy---OOP\1.DefiningClassesPartIConstructorsProperties\MobilePhoneDevice\obj\Debug\MobilePhoneDevice.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\TelerikAcademy---OOP\1.DefiningClassesPartIConstructorsProperties\MobilePhoneDevice\obj\Debug\MobilePhoneDevice.exe
+D:\Telerik Academy\TelerikAcademy---OOP\1.DefiningClassesPartIConstructorsProperties\MobilePhoneDevice\obj\Debug\MobilePhoneDevice.pdb
+C:\Users\paco\Desktop\1.DefiningClassesPartIConstructorsProperties\MobilePhoneDevice\bin\Debug\MobilePhoneDevice.exe.config
+C:\Users\paco\Desktop\1.DefiningClassesPartIConstructorsProperties\MobilePhoneDevice\obj\Debug\MobilePhoneDevice.exe
+C:\Users\paco\Desktop\1.DefiningClassesPartIConstructorsProperties\MobilePhoneDevice\obj\Debug\MobilePhoneDevice.pdb
+D:\Telerik-Academy\Programming with C#\3. C# Object-Oriented Programming\1.DefiningClassesPartIConstructorsProperties\MobilePhoneDevice\bin\Debug\MobilePhoneDevice.exe.config
+D:\Telerik-Academy\Programming with C#\3. C# Object-Oriented Programming\1.DefiningClassesPartIConstructorsProperties\MobilePhoneDevice\obj\Debug\MobilePhoneDevice.exe
+D:\Telerik-Academy\Programming with C#\3. C# Object-Oriented Programming\1.DefiningClassesPartIConstructorsProperties\MobilePhoneDevice\obj\Debug\MobilePhoneDevice.pdb

@@ -1,0 +1,9 @@
+D:\2.PrimitiveDataTypesAndVariables\11.IntegerExchange\bin\Debug\11.IntegerExchange.exe.config
+D:\2.PrimitiveDataTypesAndVariables\11.IntegerExchange\bin\Debug\11.IntegerExchange.exe
+D:\2.PrimitiveDataTypesAndVariables\11.IntegerExchange\bin\Debug\11.IntegerExchange.pdb
+D:\2.PrimitiveDataTypesAndVariables\11.IntegerExchange\obj\Debug\11.IntegerExchange.csprojResolveAssemblyReference.cache
+D:\2.PrimitiveDataTypesAndVariables\11.IntegerExchange\obj\Debug\11.IntegerExchange.exe
+D:\2.PrimitiveDataTypesAndVariables\11.IntegerExchange\obj\Debug\11.IntegerExchange.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\2.PrimitiveDataTypesAndVariables\11.IntegerExchange\bin\Debug\11.IntegerExchange.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\2.PrimitiveDataTypesAndVariables\11.IntegerExchange\obj\Debug\11.IntegerExchange.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\2.PrimitiveDataTypesAndVariables\11.IntegerExchange\obj\Debug\11.IntegerExchange.pdb

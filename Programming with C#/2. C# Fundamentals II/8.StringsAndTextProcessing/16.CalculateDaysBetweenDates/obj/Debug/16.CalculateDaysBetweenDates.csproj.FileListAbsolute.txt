@@ -1,0 +1,5 @@
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\16.CalculateDaysBetweenDates\bin\Debug\16.CalculateDaysBetweenDates.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\16.CalculateDaysBetweenDates\bin\Debug\16.CalculateDaysBetweenDates.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\16.CalculateDaysBetweenDates\bin\Debug\16.CalculateDaysBetweenDates.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\16.CalculateDaysBetweenDates\obj\Debug\16.CalculateDaysBetweenDates.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\16.CalculateDaysBetweenDates\obj\Debug\16.CalculateDaysBetweenDates.pdb

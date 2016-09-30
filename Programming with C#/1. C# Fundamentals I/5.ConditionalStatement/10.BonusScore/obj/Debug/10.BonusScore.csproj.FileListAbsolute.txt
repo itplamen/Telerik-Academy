@@ -1,0 +1,8 @@
+C:\Users\paco\Desktop\5.ConditionalStatement\10.BonusScore\bin\Debug\10.BonusScore.exe.config
+C:\Users\paco\Desktop\5.ConditionalStatement\10.BonusScore\bin\Debug\10.BonusScore.exe
+C:\Users\paco\Desktop\5.ConditionalStatement\10.BonusScore\bin\Debug\10.BonusScore.pdb
+C:\Users\paco\Desktop\5.ConditionalStatement\10.BonusScore\obj\Debug\10.BonusScore.exe
+C:\Users\paco\Desktop\5.ConditionalStatement\10.BonusScore\obj\Debug\10.BonusScore.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\5.ConditionalStatement\10.BonusScore\bin\Debug\10.BonusScore.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\5.ConditionalStatement\10.BonusScore\obj\Debug\10.BonusScore.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\5.ConditionalStatement\10.BonusScore\obj\Debug\10.BonusScore.pdb

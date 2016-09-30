@@ -1,0 +1,9 @@
+C:\Users\itplamen\Desktop\05.DataStructuresEfficiency\03.ImplementClassBiDictionary.Tests\obj\Debug\03.ImplementClassBiDictionary.Tests.csprojResolveAssemblyReference.cache
+C:\Users\itplamen\Desktop\05.DataStructuresEfficiency\03.ImplementClassBiDictionary.Tests\bin\Debug\03.ImplementClassBiDictionary.Tests.dll
+C:\Users\itplamen\Desktop\05.DataStructuresEfficiency\03.ImplementClassBiDictionary.Tests\bin\Debug\03.ImplementClassBiDictionary.Tests.pdb
+C:\Users\itplamen\Desktop\05.DataStructuresEfficiency\03.ImplementClassBiDictionary.Tests\bin\Debug\03.ImplementClassBiDictionary.exe
+C:\Users\itplamen\Desktop\05.DataStructuresEfficiency\03.ImplementClassBiDictionary.Tests\bin\Debug\PowerCollections.dll
+C:\Users\itplamen\Desktop\05.DataStructuresEfficiency\03.ImplementClassBiDictionary.Tests\bin\Debug\03.ImplementClassBiDictionary.pdb
+C:\Users\itplamen\Desktop\05.DataStructuresEfficiency\03.ImplementClassBiDictionary.Tests\bin\Debug\PowerCollections.xml
+C:\Users\itplamen\Desktop\05.DataStructuresEfficiency\03.ImplementClassBiDictionary.Tests\obj\Debug\03.ImplementClassBiDictionary.Tests.dll
+C:\Users\itplamen\Desktop\05.DataStructuresEfficiency\03.ImplementClassBiDictionary.Tests\obj\Debug\03.ImplementClassBiDictionary.Tests.pdb

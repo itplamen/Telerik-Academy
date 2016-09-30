@@ -1,0 +1,12 @@
+C:\Users\itplamen\Desktop\04.AdvancedDataStructures\03.Trie\bin\Debug\03.Trie.exe.config
+C:\Users\itplamen\Desktop\04.AdvancedDataStructures\03.Trie\bin\Debug\03.Trie.exe
+C:\Users\itplamen\Desktop\04.AdvancedDataStructures\03.Trie\bin\Debug\03.Trie.pdb
+C:\Users\itplamen\Desktop\04.AdvancedDataStructures\03.Trie\obj\Debug\03.Trie.csprojResolveAssemblyReference.cache
+C:\Users\itplamen\Desktop\04.AdvancedDataStructures\03.Trie\obj\Debug\03.Trie.exe
+C:\Users\itplamen\Desktop\04.AdvancedDataStructures\03.Trie\obj\Debug\03.Trie.pdb
+D:\Telerik-Academy\Programming with C#\5. C# Data Structures and Algorithms\04.AdvancedDataStructures\03.Trie\bin\Debug\03.Trie.exe.config
+D:\Telerik-Academy\Programming with C#\5. C# Data Structures and Algorithms\04.AdvancedDataStructures\03.Trie\obj\Debug\03.Trie.exe
+D:\Telerik-Academy\Programming with C#\5. C# Data Structures and Algorithms\04.AdvancedDataStructures\03.Trie\obj\Debug\03.Trie.pdb
+D:\Telerik-Academy\Programming with C#\5. C# Data Structures and Algorithms\04.AdvancedDataStructures\03.Trie\bin\Debug\03.Trie.exe
+D:\Telerik-Academy\Programming with C#\5. C# Data Structures and Algorithms\04.AdvancedDataStructures\03.Trie\bin\Debug\03.Trie.pdb
+D:\Telerik-Academy\Programming with C#\5. C# Data Structures and Algorithms\04.AdvancedDataStructures\03.Trie\obj\Debug\03.Trie.csprojResolveAssemblyReference.cache

@@ -1,0 +1,19 @@
+﻿namespace StudentProject
+{
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+    using System.Text;
+    using System.Threading.Tasks;
+
+    public enum TypeOfCourses
+    {
+        Databases,
+        OOP,
+        HTML, 
+        CSS,
+        CSharp,
+        JavaScript,
+        XML
+    }
+}

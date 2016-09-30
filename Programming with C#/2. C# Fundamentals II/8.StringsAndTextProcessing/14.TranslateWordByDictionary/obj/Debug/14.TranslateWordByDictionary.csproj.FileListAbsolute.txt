@@ -1,0 +1,5 @@
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\14.TranslateWordByDictionary\bin\Debug\14.TranslateWordByDictionary.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\14.TranslateWordByDictionary\bin\Debug\14.TranslateWordByDictionary.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\14.TranslateWordByDictionary\bin\Debug\14.TranslateWordByDictionary.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\14.TranslateWordByDictionary\obj\Debug\14.TranslateWordByDictionary.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\14.TranslateWordByDictionary\obj\Debug\14.TranslateWordByDictionary.pdb

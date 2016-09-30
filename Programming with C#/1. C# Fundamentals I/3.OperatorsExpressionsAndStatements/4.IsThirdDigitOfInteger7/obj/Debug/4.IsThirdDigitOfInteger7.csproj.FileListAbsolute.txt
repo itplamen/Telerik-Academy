@@ -1,0 +1,9 @@
+C:\Users\paco\Desktop\3.OperatorsExpressionsAndStatements\4.IsThirdDigitOfInteger7\bin\Debug\4.IsThirdDigitOfInteger7.exe.config
+C:\Users\paco\Desktop\3.OperatorsExpressionsAndStatements\4.IsThirdDigitOfInteger7\bin\Debug\4.IsThirdDigitOfInteger7.exe
+C:\Users\paco\Desktop\3.OperatorsExpressionsAndStatements\4.IsThirdDigitOfInteger7\bin\Debug\4.IsThirdDigitOfInteger7.pdb
+C:\Users\paco\Desktop\3.OperatorsExpressionsAndStatements\4.IsThirdDigitOfInteger7\obj\Debug\4.IsThirdDigitOfInteger7.csprojResolveAssemblyReference.cache
+C:\Users\paco\Desktop\3.OperatorsExpressionsAndStatements\4.IsThirdDigitOfInteger7\obj\Debug\4.IsThirdDigitOfInteger7.exe
+C:\Users\paco\Desktop\3.OperatorsExpressionsAndStatements\4.IsThirdDigitOfInteger7\obj\Debug\4.IsThirdDigitOfInteger7.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\3.OperatorsExpressionsAndStatements\4.IsThirdDigitOfInteger7\bin\Debug\4.IsThirdDigitOfInteger7.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\3.OperatorsExpressionsAndStatements\4.IsThirdDigitOfInteger7\obj\Debug\4.IsThirdDigitOfInteger7.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\3.OperatorsExpressionsAndStatements\4.IsThirdDigitOfInteger7\obj\Debug\4.IsThirdDigitOfInteger7.pdb

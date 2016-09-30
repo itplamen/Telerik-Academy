@@ -1,0 +1,12 @@
+C:\Users\paco\Desktop\2.DefiningClassesPartIIStaticMembersGenerics\04.CreateAttribute\bin\Debug\04.CreateAttribute.exe.config
+C:\Users\paco\Desktop\2.DefiningClassesPartIIStaticMembersGenerics\04.CreateAttribute\obj\Debug\04.CreateAttribute.csprojResolveAssemblyReference.cache
+C:\Users\paco\Desktop\2.DefiningClassesPartIIStaticMembersGenerics\04.CreateAttribute\bin\Debug\04.CreateAttribute.exe
+C:\Users\paco\Desktop\2.DefiningClassesPartIIStaticMembersGenerics\04.CreateAttribute\bin\Debug\04.CreateAttribute.pdb
+C:\Users\paco\Desktop\2.DefiningClassesPartIIStaticMembersGenerics\04.CreateAttribute\obj\Debug\04.CreateAttribute.exe
+C:\Users\paco\Desktop\2.DefiningClassesPartIIStaticMembersGenerics\04.CreateAttribute\obj\Debug\04.CreateAttribute.pdb
+D:\Telerik Academy\TelerikAcademy---OOP\2.DefiningClassesPartIIStaticMembersGenerics\04.CreateAttribute\bin\Debug\04.CreateAttribute.exe.config
+D:\Telerik Academy\TelerikAcademy---OOP\2.DefiningClassesPartIIStaticMembersGenerics\04.CreateAttribute\obj\Debug\04.CreateAttribute.exe
+D:\Telerik Academy\TelerikAcademy---OOP\2.DefiningClassesPartIIStaticMembersGenerics\04.CreateAttribute\obj\Debug\04.CreateAttribute.pdb
+D:\Telerik Academy\TelerikAcademy---OOP\2.DefiningClassesPartIIStaticMembersGenerics\04.CreateAttribute\bin\Debug\04.CreateAttribute.exe
+D:\Telerik Academy\TelerikAcademy---OOP\2.DefiningClassesPartIIStaticMembersGenerics\04.CreateAttribute\bin\Debug\04.CreateAttribute.pdb
+D:\Telerik Academy\TelerikAcademy---OOP\2.DefiningClassesPartIIStaticMembersGenerics\04.CreateAttribute\obj\Debug\04.CreateAttribute.csprojResolveAssemblyReference.cache

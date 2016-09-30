@@ -1,0 +1,15 @@
+C:\Users\itplamen\Desktop\02.TreesAndTraversals\03.DirectoryTree\bin\Debug\03.DirectoryTree.exe.config
+C:\Users\itplamen\Desktop\02.TreesAndTraversals\03.DirectoryTree\obj\Debug\03.DirectoryTree.csprojResolveAssemblyReference.cache
+C:\Users\itplamen\Desktop\02.TreesAndTraversals\03.DirectoryTree\bin\Debug\03.DirectoryTree.exe
+C:\Users\itplamen\Desktop\02.TreesAndTraversals\03.DirectoryTree\bin\Debug\03.DirectoryTree.pdb
+C:\Users\itplamen\Desktop\02.TreesAndTraversals\03.DirectoryTree\obj\Debug\03.DirectoryTree.exe
+C:\Users\itplamen\Desktop\02.TreesAndTraversals\03.DirectoryTree\obj\Debug\03.DirectoryTree.pdb
+D:\02.TreesAndTraversals\03.DirectoryTree\bin\Debug\03.DirectoryTree.exe.config
+D:\02.TreesAndTraversals\03.DirectoryTree\bin\Debug\03.DirectoryTree.exe
+D:\02.TreesAndTraversals\03.DirectoryTree\bin\Debug\03.DirectoryTree.pdb
+D:\02.TreesAndTraversals\03.DirectoryTree\obj\Debug\03.DirectoryTree.csprojResolveAssemblyReference.cache
+D:\02.TreesAndTraversals\03.DirectoryTree\obj\Debug\03.DirectoryTree.exe
+D:\02.TreesAndTraversals\03.DirectoryTree\obj\Debug\03.DirectoryTree.pdb
+D:\Telerik-Academy\Programming with C#\5. C# Data Structures and Algorithms\02.TreesAndTraversals\03.DirectoryTree\bin\Debug\03.DirectoryTree.exe.config
+D:\Telerik-Academy\Programming with C#\5. C# Data Structures and Algorithms\02.TreesAndTraversals\03.DirectoryTree\obj\Debug\03.DirectoryTree.exe
+D:\Telerik-Academy\Programming with C#\5. C# Data Structures and Algorithms\02.TreesAndTraversals\03.DirectoryTree\obj\Debug\03.DirectoryTree.pdb

@@ -1,0 +1,6 @@
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\09.DeleteOddLinesFromFile\bin\Debug\09.DeleteOddLinesFromFile.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\09.DeleteOddLinesFromFile\bin\Debug\09.DeleteOddLinesFromFile.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\09.DeleteOddLinesFromFile\bin\Debug\09.DeleteOddLinesFromFile.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\09.DeleteOddLinesFromFile\obj\Debug\09.DeleteOddLinesFromFile.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\09.DeleteOddLinesFromFile\obj\Debug\09.DeleteOddLinesFromFile.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\7.TextFiles\09.DeleteOddLinesFromFile\obj\Debug\09.DeleteOddLinesFromFile.csprojResolveAssemblyReference.cache

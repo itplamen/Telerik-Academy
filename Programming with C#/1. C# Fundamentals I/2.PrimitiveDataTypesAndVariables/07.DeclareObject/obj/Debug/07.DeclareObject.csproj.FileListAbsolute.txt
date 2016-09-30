@@ -1,0 +1,8 @@
+C:\Users\paco\Desktop\2.PrimitiveDataTypesAndVariables\07.DeclareObject\bin\Debug\07.DeclareObject.exe.config
+C:\Users\paco\Desktop\2.PrimitiveDataTypesAndVariables\07.DeclareObject\bin\Debug\07.DeclareObject.exe
+C:\Users\paco\Desktop\2.PrimitiveDataTypesAndVariables\07.DeclareObject\bin\Debug\07.DeclareObject.pdb
+C:\Users\paco\Desktop\2.PrimitiveDataTypesAndVariables\07.DeclareObject\obj\Debug\07.DeclareObject.exe
+C:\Users\paco\Desktop\2.PrimitiveDataTypesAndVariables\07.DeclareObject\obj\Debug\07.DeclareObject.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\2.PrimitiveDataTypesAndVariables\07.DeclareObject\bin\Debug\07.DeclareObject.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\2.PrimitiveDataTypesAndVariables\07.DeclareObject\obj\Debug\07.DeclareObject.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\2.PrimitiveDataTypesAndVariables\07.DeclareObject\obj\Debug\07.DeclareObject.pdb

@@ -1,0 +1,11 @@
+C:\Users\itplamen\Desktop\03.DictionariesHashTablesAndSets\06.Phonebook\bin\Debug\06.Phonebook.exe.config
+C:\Users\itplamen\Desktop\03.DictionariesHashTablesAndSets\06.Phonebook\obj\Debug\06.Phonebook.csprojResolveAssemblyReference.cache
+C:\Users\itplamen\Desktop\03.DictionariesHashTablesAndSets\06.Phonebook\bin\Debug\06.Phonebook.exe
+C:\Users\itplamen\Desktop\03.DictionariesHashTablesAndSets\06.Phonebook\bin\Debug\06.Phonebook.pdb
+C:\Users\itplamen\Desktop\03.DictionariesHashTablesAndSets\06.Phonebook\bin\Debug\PowerCollections.dll
+C:\Users\itplamen\Desktop\03.DictionariesHashTablesAndSets\06.Phonebook\bin\Debug\PowerCollections.xml
+C:\Users\itplamen\Desktop\03.DictionariesHashTablesAndSets\06.Phonebook\obj\Debug\06.Phonebook.exe
+C:\Users\itplamen\Desktop\03.DictionariesHashTablesAndSets\06.Phonebook\obj\Debug\06.Phonebook.pdb
+D:\Telerik-Academy\Programming with C#\5. C# Data Structures and Algorithms\03.DictionariesHashTablesAndSets\06.Phonebook\bin\Debug\06.Phonebook.exe.config
+D:\Telerik-Academy\Programming with C#\5. C# Data Structures and Algorithms\03.DictionariesHashTablesAndSets\06.Phonebook\obj\Debug\06.Phonebook.exe
+D:\Telerik-Academy\Programming with C#\5. C# Data Structures and Algorithms\03.DictionariesHashTablesAndSets\06.Phonebook\obj\Debug\06.Phonebook.pdb

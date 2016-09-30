@@ -1,0 +1,6 @@
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\22.CountDifferentWords\bin\Debug\22.CountDifferentWords.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\22.CountDifferentWords\bin\Debug\22.CountDifferentWords.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\22.CountDifferentWords\bin\Debug\22.CountDifferentWords.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\22.CountDifferentWords\obj\Debug\22.CountDifferentWords.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\22.CountDifferentWords\obj\Debug\22.CountDifferentWords.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\22.CountDifferentWords\obj\Debug\22.CountDifferentWords.pdb

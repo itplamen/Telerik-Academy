@@ -1,0 +1,6 @@
+D:\01.LinearDataStructures\09.UsingQueueForSequence\bin\Debug\09.UsingQueueForSequence.exe.config
+D:\01.LinearDataStructures\09.UsingQueueForSequence\bin\Debug\09.UsingQueueForSequence.exe
+D:\01.LinearDataStructures\09.UsingQueueForSequence\bin\Debug\09.UsingQueueForSequence.pdb
+D:\01.LinearDataStructures\09.UsingQueueForSequence\obj\Debug\09.UsingQueueForSequence.csprojResolveAssemblyReference.cache
+D:\01.LinearDataStructures\09.UsingQueueForSequence\obj\Debug\09.UsingQueueForSequence.exe
+D:\01.LinearDataStructures\09.UsingQueueForSequence\obj\Debug\09.UsingQueueForSequence.pdb

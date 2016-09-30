@@ -1,0 +1,9 @@
+C:\Users\paco\Desktop\6.Loops\04.CalculatesFactorial\bin\Debug\04.CalculatesFactorial.exe.config
+C:\Users\paco\Desktop\6.Loops\04.CalculatesFactorial\bin\Debug\04.CalculatesFactorial.exe
+C:\Users\paco\Desktop\6.Loops\04.CalculatesFactorial\bin\Debug\04.CalculatesFactorial.pdb
+C:\Users\paco\Desktop\6.Loops\04.CalculatesFactorial\obj\Debug\04.CalculatesFactorial.csprojResolveAssemblyReference.cache
+C:\Users\paco\Desktop\6.Loops\04.CalculatesFactorial\obj\Debug\04.CalculatesFactorial.exe
+C:\Users\paco\Desktop\6.Loops\04.CalculatesFactorial\obj\Debug\04.CalculatesFactorial.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\6.Loops\04.CalculatesFactorial\bin\Debug\04.CalculatesFactorial.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\6.Loops\04.CalculatesFactorial\obj\Debug\04.CalculatesFactorial.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\6.Loops\04.CalculatesFactorial\obj\Debug\04.CalculatesFactorial.pdb

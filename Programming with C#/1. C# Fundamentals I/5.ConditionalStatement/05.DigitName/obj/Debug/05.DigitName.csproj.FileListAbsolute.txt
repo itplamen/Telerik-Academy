@@ -1,0 +1,9 @@
+C:\Users\paco\Desktop\5.ConditionalStatement\05.DigitName\bin\Debug\05.DigitName.exe.config
+C:\Users\paco\Desktop\5.ConditionalStatement\05.DigitName\bin\Debug\05.DigitName.exe
+C:\Users\paco\Desktop\5.ConditionalStatement\05.DigitName\bin\Debug\05.DigitName.pdb
+C:\Users\paco\Desktop\5.ConditionalStatement\05.DigitName\obj\Debug\05.DigitName.exe
+C:\Users\paco\Desktop\5.ConditionalStatement\05.DigitName\obj\Debug\05.DigitName.pdb
+C:\Users\paco\Desktop\5.ConditionalStatement\05.DigitName\obj\Debug\05.DigitName.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\5.ConditionalStatement\05.DigitName\bin\Debug\05.DigitName.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\5.ConditionalStatement\05.DigitName\obj\Debug\05.DigitName.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\5.ConditionalStatement\05.DigitName\obj\Debug\05.DigitName.pdb

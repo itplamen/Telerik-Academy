@@ -1,0 +1,8 @@
+C:\Users\paco\Desktop\1.IntroductionToProgramming\3.PrintName\bin\Debug\3.PrintName.exe.config
+C:\Users\paco\Desktop\1.IntroductionToProgramming\3.PrintName\bin\Debug\3.PrintName.exe
+C:\Users\paco\Desktop\1.IntroductionToProgramming\3.PrintName\bin\Debug\3.PrintName.pdb
+C:\Users\paco\Desktop\1.IntroductionToProgramming\3.PrintName\obj\Debug\3.PrintName.exe
+C:\Users\paco\Desktop\1.IntroductionToProgramming\3.PrintName\obj\Debug\3.PrintName.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\1.IntroductionToProgramming\3.PrintName\bin\Debug\3.PrintName.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\1.IntroductionToProgramming\3.PrintName\obj\Debug\3.PrintName.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\1.IntroductionToProgramming\3.PrintName\obj\Debug\3.PrintName.pdb

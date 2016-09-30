@@ -1,0 +1,9 @@
+C:\Users\paco\Desktop\3.OperatorsExpressionsAndStatements\1.OddOrEven\bin\Debug\1.OddOrEven.exe.config
+C:\Users\paco\Desktop\3.OperatorsExpressionsAndStatements\1.OddOrEven\bin\Debug\1.OddOrEven.exe
+C:\Users\paco\Desktop\3.OperatorsExpressionsAndStatements\1.OddOrEven\bin\Debug\1.OddOrEven.pdb
+C:\Users\paco\Desktop\3.OperatorsExpressionsAndStatements\1.OddOrEven\obj\Debug\1.OddOrEven.csprojResolveAssemblyReference.cache
+C:\Users\paco\Desktop\3.OperatorsExpressionsAndStatements\1.OddOrEven\obj\Debug\1.OddOrEven.exe
+C:\Users\paco\Desktop\3.OperatorsExpressionsAndStatements\1.OddOrEven\obj\Debug\1.OddOrEven.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\3.OperatorsExpressionsAndStatements\1.OddOrEven\bin\Debug\1.OddOrEven.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\3.OperatorsExpressionsAndStatements\1.OddOrEven\obj\Debug\1.OddOrEven.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\3.OperatorsExpressionsAndStatements\1.OddOrEven\obj\Debug\1.OddOrEven.pdb

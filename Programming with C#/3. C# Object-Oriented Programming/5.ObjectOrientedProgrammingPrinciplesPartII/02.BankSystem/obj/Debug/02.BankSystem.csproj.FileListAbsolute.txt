@@ -1,0 +1,9 @@
+C:\Users\paco\Desktop\5.ObjectOrientedProgrammingPrinciplesPartII\02.BankSystem\bin\Debug\02.BankSystem.exe.config
+C:\Users\paco\Desktop\5.ObjectOrientedProgrammingPrinciplesPartII\02.BankSystem\obj\Debug\02.BankSystem.csprojResolveAssemblyReference.cache
+C:\Users\paco\Desktop\5.ObjectOrientedProgrammingPrinciplesPartII\02.BankSystem\bin\Debug\02.BankSystem.exe
+C:\Users\paco\Desktop\5.ObjectOrientedProgrammingPrinciplesPartII\02.BankSystem\bin\Debug\02.BankSystem.pdb
+C:\Users\paco\Desktop\5.ObjectOrientedProgrammingPrinciplesPartII\02.BankSystem\obj\Debug\02.BankSystem.exe
+C:\Users\paco\Desktop\5.ObjectOrientedProgrammingPrinciplesPartII\02.BankSystem\obj\Debug\02.BankSystem.pdb
+D:\Telerik Academy\TelerikAcademy---OOP\5.ObjectOrientedProgrammingPrinciplesPartII\02.BankSystem\bin\Debug\02.BankSystem.exe.config
+D:\Telerik Academy\TelerikAcademy---OOP\5.ObjectOrientedProgrammingPrinciplesPartII\02.BankSystem\obj\Debug\02.BankSystem.exe
+D:\Telerik Academy\TelerikAcademy---OOP\5.ObjectOrientedProgrammingPrinciplesPartII\02.BankSystem\obj\Debug\02.BankSystem.pdb

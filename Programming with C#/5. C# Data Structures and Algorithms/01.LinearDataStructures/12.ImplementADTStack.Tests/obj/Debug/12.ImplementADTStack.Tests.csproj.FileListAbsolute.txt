@@ -1,0 +1,7 @@
+D:\01.LinearDataStructures\12.ImplementADTStack.Tests\bin\Debug\12.ImplementADTStack.Tests.dll
+D:\01.LinearDataStructures\12.ImplementADTStack.Tests\bin\Debug\12.ImplementADTStack.Tests.pdb
+D:\01.LinearDataStructures\12.ImplementADTStack.Tests\obj\Debug\12.ImplementADTStack.Tests.dll
+D:\01.LinearDataStructures\12.ImplementADTStack.Tests\obj\Debug\12.ImplementADTStack.Tests.pdb
+D:\01.LinearDataStructures\12.ImplementADTStack.Tests\bin\Debug\12.ImplementADTStack.exe
+D:\01.LinearDataStructures\12.ImplementADTStack.Tests\bin\Debug\12.ImplementADTStack.pdb
+D:\01.LinearDataStructures\12.ImplementADTStack.Tests\obj\Debug\12.ImplementADTStack.Tests.csprojResolveAssemblyReference.cache

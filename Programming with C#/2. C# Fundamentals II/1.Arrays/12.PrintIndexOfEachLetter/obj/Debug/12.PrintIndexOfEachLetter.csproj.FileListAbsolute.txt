@@ -1,0 +1,6 @@
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\12.PrintIndexOfEachLetter\bin\Debug\12.PrintIndexOfEachLetter.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\12.PrintIndexOfEachLetter\bin\Debug\12.PrintIndexOfEachLetter.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\12.PrintIndexOfEachLetter\bin\Debug\12.PrintIndexOfEachLetter.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\12.PrintIndexOfEachLetter\obj\Debug\12.PrintIndexOfEachLetter.csprojResolveAssemblyReference.cache
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\12.PrintIndexOfEachLetter\obj\Debug\12.PrintIndexOfEachLetter.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\1.Arrays\12.PrintIndexOfEachLetter\obj\Debug\12.PrintIndexOfEachLetter.pdb

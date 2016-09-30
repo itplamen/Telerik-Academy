@@ -1,0 +1,9 @@
+C:\Users\paco\Desktop\4.ConsoleInputOutput\01.ReadIntegerNumbers\bin\Debug\01.ReadIntegerNumbers.exe.config
+C:\Users\paco\Desktop\4.ConsoleInputOutput\01.ReadIntegerNumbers\bin\Debug\01.ReadIntegerNumbers.exe
+C:\Users\paco\Desktop\4.ConsoleInputOutput\01.ReadIntegerNumbers\bin\Debug\01.ReadIntegerNumbers.pdb
+C:\Users\paco\Desktop\4.ConsoleInputOutput\01.ReadIntegerNumbers\obj\Debug\01.ReadIntegerNumbers.csprojResolveAssemblyReference.cache
+C:\Users\paco\Desktop\4.ConsoleInputOutput\01.ReadIntegerNumbers\obj\Debug\01.ReadIntegerNumbers.exe
+C:\Users\paco\Desktop\4.ConsoleInputOutput\01.ReadIntegerNumbers\obj\Debug\01.ReadIntegerNumbers.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\4.ConsoleInputOutput\01.ReadIntegerNumbers\bin\Debug\01.ReadIntegerNumbers.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\4.ConsoleInputOutput\01.ReadIntegerNumbers\obj\Debug\01.ReadIntegerNumbers.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartOne\4.ConsoleInputOutput\01.ReadIntegerNumbers\obj\Debug\01.ReadIntegerNumbers.pdb

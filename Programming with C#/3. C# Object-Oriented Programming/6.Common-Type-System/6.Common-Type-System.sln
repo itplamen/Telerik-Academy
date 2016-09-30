@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.OverrideSystemObjectMethods", "01.OverrideSystemObjectMethods\01.OverrideSystemObjectMethods.csproj", "{F2B612DE-E9C7-429C-BD22-A5202308EA4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.FieldWithNullValue", "02.FieldWithNullValue\02.FieldWithNullValue.csproj", "{DFDB8EC5-C3F7-4854-ABC1-1A12BCFB218E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2B612DE-E9C7-429C-BD22-A5202308EA4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2B612DE-E9C7-429C-BD22-A5202308EA4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2B612DE-E9C7-429C-BD22-A5202308EA4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2B612DE-E9C7-429C-BD22-A5202308EA4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFDB8EC5-C3F7-4854-ABC1-1A12BCFB218E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFDB8EC5-C3F7-4854-ABC1-1A12BCFB218E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFDB8EC5-C3F7-4854-ABC1-1A12BCFB218E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFDB8EC5-C3F7-4854-ABC1-1A12BCFB218E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

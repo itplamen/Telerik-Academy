@@ -1,0 +1,5 @@
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\5.UsingClassesAndObjects\02.PrintRandomValues\bin\Debug\02.PrintRandomValues.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\5.UsingClassesAndObjects\02.PrintRandomValues\bin\Debug\02.PrintRandomValues.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\5.UsingClassesAndObjects\02.PrintRandomValues\bin\Debug\02.PrintRandomValues.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\5.UsingClassesAndObjects\02.PrintRandomValues\obj\Debug\02.PrintRandomValues.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\5.UsingClassesAndObjects\02.PrintRandomValues\obj\Debug\02.PrintRandomValues.pdb

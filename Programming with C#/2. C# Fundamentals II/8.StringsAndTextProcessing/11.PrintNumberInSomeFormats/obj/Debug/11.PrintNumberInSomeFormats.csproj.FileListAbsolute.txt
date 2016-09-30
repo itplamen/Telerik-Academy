@@ -1,0 +1,5 @@
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\11.PrintNumberInSomeFormats\bin\Debug\11.PrintNumberInSomeFormats.exe.config
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\11.PrintNumberInSomeFormats\bin\Debug\11.PrintNumberInSomeFormats.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\11.PrintNumberInSomeFormats\bin\Debug\11.PrintNumberInSomeFormats.pdb
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\11.PrintNumberInSomeFormats\obj\Debug\11.PrintNumberInSomeFormats.exe
+D:\Telerik Academy\TelerikAcademy---CSharpPartTwo\8.StringsAndTextProcessing\11.PrintNumberInSomeFormats\obj\Debug\11.PrintNumberInSomeFormats.pdb
