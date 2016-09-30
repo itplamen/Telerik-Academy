@@ -1,0 +1,48 @@
+<!--
+01. Create a module that exposes methods for performing HTTP requests by given URL and headers
+- getJSON and postJSON
+    - Both methods should work with promises
+-->
+
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+
+    <style>
+        input[type="text"] {
+            width: 100px;
+        }
+
+        #info {
+            margin-top: 20px;
+            border: 1px solid black;
+            border-radius: 10px;
+            width: 400px;
+            height: 400px;
+            overflow: auto;
+        }
+
+        li {
+            margin: 10px;
+            list-style-type: none;
+        }
+    </style>
+
+    <script src="../libs/jquery-2.0.2.js"></script>
+</head>
+<body>
+    <input type="text" id="name" placeholder="Add name..."/>
+    <input type="text" id="grade" placeholder="Add grade..."/>
+    <input type="button" id="add-student" value="Add student"/>
+    <input type="button" id="get-all-students" value="Get all students"/>
+
+    <div id="info">
+        <ul></ul>
+    </div>
+
+    <script type="text/javascript" src="Modules/HttpRequest.js"></script>
+    <script type="text/javascript" src="script.js"></script>
+</body>
+</html>

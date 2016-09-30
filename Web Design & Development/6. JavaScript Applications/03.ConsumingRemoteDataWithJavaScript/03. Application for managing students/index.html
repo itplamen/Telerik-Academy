@@ -1,0 +1,56 @@
+<!--
+03. Using the REST API at 'localhost:3000/students' create a web application for managing students
+- The REST API provides methods as follows:
+    - POST creates a new student
+    - GET returns all students
+    - DELETE deletes a student by Id
+- You may extend the demo for jQuery.ajax()
+-->
+
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+
+    <style>
+        input[type="text"] {
+            width: 100px;
+        }
+
+        #info {
+            margin-top: 20px;
+            border: 1px solid black;
+            border-radius: 10px;
+            width: 400px;
+            height: 400px;
+            overflow: auto;
+        }
+
+        li {
+            margin: 10px;
+            list-style-type: none;
+        }
+
+        button {
+            margin-left: 5px;
+            height: 18px;
+        }
+    </style>
+
+    <script src="../libs/jquery-2.0.2.js"></script>
+</head>
+<body>
+    <input type="text" id="name" placeholder="Add name..."/>
+    <input type="text" id="grade" placeholder="Add grade..."/>
+    <input type="button" id="add-student" value="Add student"/>
+    <input type="button" id="get-all-students" value="Get all students"/>
+
+    <div id="info">
+        <ul></ul>
+    </div>
+
+    <script type="text/javascript" src="scripts/Modules/HttpRequest.js"></script>
+    <script type="text/javascript" src="scripts/script.js"></script>
+</body>
+</html>
