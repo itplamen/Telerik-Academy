@@ -1,0 +1,6 @@
+C:\Users\plamen\Desktop\07. Sorting and Searching Algorithms\Algorithms\bin\Debug\Algorithms.exe.config
+C:\Users\plamen\Desktop\07. Sorting and Searching Algorithms\Algorithms\bin\Debug\Algorithms.exe
+C:\Users\plamen\Desktop\07. Sorting and Searching Algorithms\Algorithms\bin\Debug\Algorithms.pdb
+C:\Users\plamen\Desktop\07. Sorting and Searching Algorithms\Algorithms\obj\Debug\Algorithms.csprojResolveAssemblyReference.cache
+C:\Users\plamen\Desktop\07. Sorting and Searching Algorithms\Algorithms\obj\Debug\Algorithms.exe
+C:\Users\plamen\Desktop\07. Sorting and Searching Algorithms\Algorithms\obj\Debug\Algorithms.pdb
