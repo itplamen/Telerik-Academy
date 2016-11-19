@@ -16,7 +16,8 @@ the requested .aspx page since the start of the Web
 application. Keep the number of visitors in the
 Application object. What happens when the Web
 server is stopped?* Re-implement the previous task to keep the total
-number of visitors in SQL Server database.* *Implement the Tic-Tac-Toe game which allows
+number of visitors in SQL Server database.* 
+* Implement the Tic-Tac-Toe game which allows
 Internet users to play one against another. Multiple
 game sessions should be supported to run in
 parallel. The main page (Default.aspx) should list
