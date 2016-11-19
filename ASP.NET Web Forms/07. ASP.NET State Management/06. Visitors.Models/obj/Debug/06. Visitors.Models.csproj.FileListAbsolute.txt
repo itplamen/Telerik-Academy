@@ -1,0 +1,10 @@
+C:\Users\itplamen\Desktop\07. ASP.NET State Management\06. Visitors.Models\bin\Debug\_06.Visitors.Models.dll.config
+C:\Users\itplamen\Desktop\07. ASP.NET State Management\06. Visitors.Models\bin\Debug\_06.Visitors.Models.dll
+C:\Users\itplamen\Desktop\07. ASP.NET State Management\06. Visitors.Models\bin\Debug\_06.Visitors.Models.pdb
+C:\Users\itplamen\Desktop\07. ASP.NET State Management\06. Visitors.Models\bin\Debug\EntityFramework.dll
+C:\Users\itplamen\Desktop\07. ASP.NET State Management\06. Visitors.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\itplamen\Desktop\07. ASP.NET State Management\06. Visitors.Models\bin\Debug\EntityFramework.xml
+C:\Users\itplamen\Desktop\07. ASP.NET State Management\06. Visitors.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\itplamen\Desktop\07. ASP.NET State Management\06. Visitors.Models\obj\Debug\06. Visitors.Models.csprojResolveAssemblyReference.cache
+C:\Users\itplamen\Desktop\07. ASP.NET State Management\06. Visitors.Models\obj\Debug\_06.Visitors.Models.dll
+C:\Users\itplamen\Desktop\07. ASP.NET State Management\06. Visitors.Models\obj\Debug\_06.Visitors.Models.pdb
