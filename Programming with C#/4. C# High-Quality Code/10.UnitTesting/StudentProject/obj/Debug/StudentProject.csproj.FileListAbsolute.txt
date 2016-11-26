@@ -10,3 +10,6 @@ D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\10.UnitTesting\St
 D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\10.UnitTesting\StudentProject\bin\Debug\StudentProject.exe
 D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\10.UnitTesting\StudentProject\bin\Debug\StudentProject.pdb
 D:\Telerik Academy\TelerikAcademy---HighQualityProgrammingCode\10.UnitTesting\StudentProject\obj\Debug\StudentProject.csprojResolveAssemblyReference.cache
+D:\GitHub Repositories\Telerik-Academy\Programming with C#\4. C# High-Quality Code\10.UnitTesting\StudentProject\bin\Debug\StudentProject.exe.config
+D:\GitHub Repositories\Telerik-Academy\Programming with C#\4. C# High-Quality Code\10.UnitTesting\StudentProject\obj\Debug\StudentProject.exe
+D:\GitHub Repositories\Telerik-Academy\Programming with C#\4. C# High-Quality Code\10.UnitTesting\StudentProject\obj\Debug\StudentProject.pdb

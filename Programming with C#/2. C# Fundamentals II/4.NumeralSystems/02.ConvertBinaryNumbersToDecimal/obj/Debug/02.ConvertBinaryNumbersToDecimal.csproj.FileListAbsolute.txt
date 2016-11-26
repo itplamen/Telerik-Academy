@@ -1,0 +1,6 @@
+D:\GitHub Repositories\Telerik-Academy\Programming with C#\2. C# Fundamentals II\4.NumeralSystems\02.ConvertBinaryNumbersToDecimal\bin\Debug\02.ConvertBinaryNumbersToDecimal.exe.config
+D:\GitHub Repositories\Telerik-Academy\Programming with C#\2. C# Fundamentals II\4.NumeralSystems\02.ConvertBinaryNumbersToDecimal\bin\Debug\02.ConvertBinaryNumbersToDecimal.exe
+D:\GitHub Repositories\Telerik-Academy\Programming with C#\2. C# Fundamentals II\4.NumeralSystems\02.ConvertBinaryNumbersToDecimal\bin\Debug\02.ConvertBinaryNumbersToDecimal.pdb
+D:\GitHub Repositories\Telerik-Academy\Programming with C#\2. C# Fundamentals II\4.NumeralSystems\02.ConvertBinaryNumbersToDecimal\obj\Debug\02.ConvertBinaryNumbersToDecimal.csprojResolveAssemblyReference.cache
+D:\GitHub Repositories\Telerik-Academy\Programming with C#\2. C# Fundamentals II\4.NumeralSystems\02.ConvertBinaryNumbersToDecimal\obj\Debug\02.ConvertBinaryNumbersToDecimal.exe
+D:\GitHub Repositories\Telerik-Academy\Programming with C#\2. C# Fundamentals II\4.NumeralSystems\02.ConvertBinaryNumbersToDecimal\obj\Debug\02.ConvertBinaryNumbersToDecimal.pdb
