@@ -1,0 +1,33 @@
+C:\Users\itplamen\Desktop\11. ASP.NET User Controls\Menu Control\bin\ApplicationInsights.config
+C:\Users\itplamen\Desktop\11. ASP.NET User Controls\Menu Control\bin\roslyn\csc.exe
+C:\Users\itplamen\Desktop\11. ASP.NET User Controls\Menu Control\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\itplamen\Desktop\11. ASP.NET User Controls\Menu Control\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\itplamen\Desktop\11. ASP.NET User Controls\Menu Control\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\itplamen\Desktop\11. ASP.NET User Controls\Menu Control\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\itplamen\Desktop\11. ASP.NET User Controls\Menu Control\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\itplamen\Desktop\11. ASP.NET User Controls\Menu Control\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\itplamen\Desktop\11. ASP.NET User Controls\Menu Control\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\itplamen\Desktop\11. ASP.NET User Controls\Menu Control\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\itplamen\Desktop\11. ASP.NET User Controls\Menu Control\bin\roslyn\vbc.exe
+C:\Users\itplamen\Desktop\11. ASP.NET User Controls\Menu Control\bin\roslyn\VBCSCompiler.exe
+C:\Users\itplamen\Desktop\11. ASP.NET User Controls\Menu Control\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\itplamen\Desktop\11. ASP.NET User Controls\Menu Control\bin\Menu Control.dll.config
+C:\Users\itplamen\Desktop\11. ASP.NET User Controls\Menu Control\bin\Menu Control.dll
+C:\Users\itplamen\Desktop\11. ASP.NET User Controls\Menu Control\bin\Menu Control.pdb
+C:\Users\itplamen\Desktop\11. ASP.NET User Controls\Menu Control\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\itplamen\Desktop\11. ASP.NET User Controls\Menu Control\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\itplamen\Desktop\11. ASP.NET User Controls\Menu Control\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\itplamen\Desktop\11. ASP.NET User Controls\Menu Control\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\itplamen\Desktop\11. ASP.NET User Controls\Menu Control\bin\Microsoft.AI.Web.dll
+C:\Users\itplamen\Desktop\11. ASP.NET User Controls\Menu Control\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\itplamen\Desktop\11. ASP.NET User Controls\Menu Control\bin\Microsoft.ApplicationInsights.dll
+C:\Users\itplamen\Desktop\11. ASP.NET User Controls\Menu Control\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\itplamen\Desktop\11. ASP.NET User Controls\Menu Control\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\itplamen\Desktop\11. ASP.NET User Controls\Menu Control\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\itplamen\Desktop\11. ASP.NET User Controls\Menu Control\bin\Microsoft.AI.Web.xml
+C:\Users\itplamen\Desktop\11. ASP.NET User Controls\Menu Control\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\itplamen\Desktop\11. ASP.NET User Controls\Menu Control\bin\Microsoft.ApplicationInsights.xml
+C:\Users\itplamen\Desktop\11. ASP.NET User Controls\Menu Control\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\itplamen\Desktop\11. ASP.NET User Controls\Menu Control\obj\Debug\Menu Control.csprojResolveAssemblyReference.cache
+C:\Users\itplamen\Desktop\11. ASP.NET User Controls\Menu Control\obj\Debug\Menu Control.dll
+C:\Users\itplamen\Desktop\11. ASP.NET User Controls\Menu Control\obj\Debug\Menu Control.pdb
