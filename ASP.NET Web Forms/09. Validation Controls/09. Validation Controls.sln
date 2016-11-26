@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Registration Form", "01. Registration Form\01. Registration Form.csproj", "{33A5BC41-B08D-4F63-9767-BA836259655A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Registration Form Groups", "02. Registration Form Groups\02. Registration Form Groups.csproj", "{FCCE936E-83BD-4336-96E5-17B70B35849B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33A5BC41-B08D-4F63-9767-BA836259655A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33A5BC41-B08D-4F63-9767-BA836259655A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33A5BC41-B08D-4F63-9767-BA836259655A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33A5BC41-B08D-4F63-9767-BA836259655A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCCE936E-83BD-4336-96E5-17B70B35849B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCCE936E-83BD-4336-96E5-17B70B35849B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCCE936E-83BD-4336-96E5-17B70B35849B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCCE936E-83BD-4336-96E5-17B70B35849B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
