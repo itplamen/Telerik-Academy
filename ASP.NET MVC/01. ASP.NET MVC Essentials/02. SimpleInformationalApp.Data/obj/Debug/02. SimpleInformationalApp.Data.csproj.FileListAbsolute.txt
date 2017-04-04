@@ -1,0 +1,5 @@
+D:\GitHub Repositories\Telerik-Academy\ASP.NET MVC\01. ASP.NET MVC Essentials\02. SimpleInformationalApp.Data\bin\Debug\_02.SimpleInformationalApp.Data.dll
+D:\GitHub Repositories\Telerik-Academy\ASP.NET MVC\01. ASP.NET MVC Essentials\02. SimpleInformationalApp.Data\bin\Debug\_02.SimpleInformationalApp.Data.pdb
+D:\GitHub Repositories\Telerik-Academy\ASP.NET MVC\01. ASP.NET MVC Essentials\02. SimpleInformationalApp.Data\obj\Debug\02. SimpleInformationalApp.Data.csprojResolveAssemblyReference.cache
+D:\GitHub Repositories\Telerik-Academy\ASP.NET MVC\01. ASP.NET MVC Essentials\02. SimpleInformationalApp.Data\obj\Debug\_02.SimpleInformationalApp.Data.dll
+D:\GitHub Repositories\Telerik-Academy\ASP.NET MVC\01. ASP.NET MVC Essentials\02. SimpleInformationalApp.Data\obj\Debug\_02.SimpleInformationalApp.Data.pdb

@@ -1,0 +1,19 @@
+﻿@using _02.SimpleInformationalApp.Web.Models.News
+@model AllNewsViewModel
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>News</h2>
+
+<div class="row">
+    @foreach (var item in Model.News)
+    {
+        <div class="well">
+            <h2>@item.Title</h2>
+            <p>@item.Content</p>
+            <small>@item.Category.Name</small>
+        </div>
+    }
+</div>

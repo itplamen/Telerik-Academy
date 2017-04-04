@@ -1,0 +1,28 @@
+﻿@using _02.SimpleInformationalApp.Web.Areas.Administration.Models.User
+@model AllUsersViewModel
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Role</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model.Users)
+        {
+            <tr>
+                <td>
+                    @user.FirsName @user.LastName
+                </td>
+                <td>
+                    @user.UserRole
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

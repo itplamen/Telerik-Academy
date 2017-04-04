@@ -1,0 +1,47 @@
+﻿@using _01.BitCalculator.Web.Models.BitCalculator
+@model ResultViewModel
+
+@{
+    ViewBag.Title = "Index";
+}
+
+@using (this.Html.BeginForm())
+{
+    <div class="row">
+        <div class="well">
+            @this.Html.LabelFor(m => m.Quantity)
+            @this.Html.TextBoxFor(m => m.Quantity, new { @class = "form-control" })
+        </div>
+        <div class="well">
+            @this.Html.LabelFor(m => m.Type)
+            @this.Html.DropDownListFor(m => m.Type, new SelectList(Model.Type, "Abbreviation", "Name", 1), new { @class = "form-control" })
+        </div>
+        <div class="well">
+            @this.Html.LabelFor(m => m.Kilo)
+            @this.Html.DropDownListFor(m => m.Kilo, new SelectList(Model.Kilo, "Value", "Value", 1), new { @class = "form-controll" })
+        </div>
+        <input type="submit" value="GO" class="btn btn-info" />
+    </div>
+}
+
+<div class="row">
+    <div class="well">
+        <table>
+            <thead>
+                <tr>
+                    <th>Kilo: @Model.Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.Type)
+                {
+                    <tr>
+                        <td>@item.Name</td>
+                        <td>(@item.Abbreviation)</td>
+                        <td> -> @item.Value</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

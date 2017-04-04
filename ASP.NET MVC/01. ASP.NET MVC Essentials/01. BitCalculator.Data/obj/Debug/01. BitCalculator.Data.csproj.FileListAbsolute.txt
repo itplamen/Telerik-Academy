@@ -1,0 +1,5 @@
+D:\GitHub Repositories\Telerik-Academy\ASP.NET MVC\01. ASP.NET MVC Essentials\01. BitCalculator.Data\bin\Debug\_01.BitCalculator.Data.dll
+D:\GitHub Repositories\Telerik-Academy\ASP.NET MVC\01. ASP.NET MVC Essentials\01. BitCalculator.Data\bin\Debug\_01.BitCalculator.Data.pdb
+D:\GitHub Repositories\Telerik-Academy\ASP.NET MVC\01. ASP.NET MVC Essentials\01. BitCalculator.Data\obj\Debug\_01.BitCalculator.Data.dll
+D:\GitHub Repositories\Telerik-Academy\ASP.NET MVC\01. ASP.NET MVC Essentials\01. BitCalculator.Data\obj\Debug\_01.BitCalculator.Data.pdb
+D:\GitHub Repositories\Telerik-Academy\ASP.NET MVC\01. ASP.NET MVC Essentials\01. BitCalculator.Data\obj\Debug\01. BitCalculator.Data.csprojResolveAssemblyReference.cache

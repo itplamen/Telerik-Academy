@@ -1,0 +1,11 @@
+﻿@using _02.SimpleInformationalApp.Web.Models.News
+@model NewsByIdViewModel
+
+@{
+    ViewBag.Title = "Get News";
+}
+
+<h2>@Model.Title</h2>
+<p>@Model.Content</p>
+<small>@Html.Partial("_CategoryPartial", Model.Category)</small>
+
