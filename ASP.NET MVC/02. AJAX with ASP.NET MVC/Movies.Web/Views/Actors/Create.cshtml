@@ -1,0 +1,44 @@
+﻿@using Movies.Web.Models.Actors
+
+@model ActorViewModel
+
+<h2>Create</h2>
+
+@using (this.Ajax.BeginForm("Create", null,
+    new AjaxOptions
+    {
+        UpdateTargetId = "Result",
+        InsertionMode = InsertionMode.Replace,
+        HttpMethod = "POST"
+    }, new { id = "AjaxForm" }))
+{
+    <div class="row">
+        <div class="well">
+            @this.Html.LabelFor(m => m.FirstName)
+            @this.Html.TextBoxFor(m => m.FirstName, new { @class = "form-control" })
+        </div>
+
+        <div class="well">
+            @this.Html.LabelFor(m => m.LastName)
+            @this.Html.TextBoxFor(m => m.LastName, new { @class = "form-control" })
+        </div>
+
+        <div class="well">
+            @this.Html.LabelFor(m => m.Age)
+            @this.Html.TextBoxFor(m => m.Age, new { @class = "form-control", @type = "number" })
+        </div>
+
+        <div class="well">
+            @this.Html.LabelFor(m => m.Gender)
+            @this.Html.EnumDropDownListFor(m => m.Gender, new { @class = "form-control" })
+        </div>
+
+        <input type="submit" value="Create" class="btn btn-info" />
+    </div>
+}
+<div id="Result">
+    @if (Model != null)
+    {
+        @Html.Partial("_CreateActorPartial", Model)
+    }
+</div>

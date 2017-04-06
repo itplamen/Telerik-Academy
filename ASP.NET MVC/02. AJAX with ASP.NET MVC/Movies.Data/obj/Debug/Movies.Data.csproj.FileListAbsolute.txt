@@ -1,0 +1,4 @@
+D:\GitHub Repositories\Telerik-Academy\ASP.NET MVC\02. AJAX with ASP.NET MVC\Movies.Data\bin\Debug\Movies.Data.dll
+D:\GitHub Repositories\Telerik-Academy\ASP.NET MVC\02. AJAX with ASP.NET MVC\Movies.Data\bin\Debug\Movies.Data.pdb
+D:\GitHub Repositories\Telerik-Academy\ASP.NET MVC\02. AJAX with ASP.NET MVC\Movies.Data\obj\Debug\Movies.Data.dll
+D:\GitHub Repositories\Telerik-Academy\ASP.NET MVC\02. AJAX with ASP.NET MVC\Movies.Data\obj\Debug\Movies.Data.pdb

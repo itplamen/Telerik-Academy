@@ -1,0 +1,36 @@
+﻿@using Movies.Web.Models.Actors
+
+@model ActorViewModel
+
+@{
+    ViewBag.Title = "Update";
+}
+
+<h2>Update</h2>
+
+@using (this.Html.BeginForm())
+{
+    <div class="row">
+        <div class="well">
+            @this.Html.LabelFor(m => m.FirstName)
+            @this.Html.TextBoxFor(m => m.FirstName, new { @class = "form-control", @value = Model.FirstName })
+        </div>
+
+        <div class="well">
+            @this.Html.LabelFor(m => m.LastName)
+            @this.Html.TextBoxFor(m => m.LastName, new { @class = "form-control", @value = Model.LastName })
+        </div>
+
+        <div class="well">
+            @this.Html.LabelFor(m => m.Age)
+            @this.Html.TextBoxFor(m => m.Age, new { @class = "form-control", @type = "number", @value = Model.Age })
+        </div>
+
+        <div class="well">
+            @this.Html.LabelFor(m => m.Gender)
+            @this.Html.EnumDropDownListFor(m => m.Gender, new { @class = "form-control", @value = Model.Gender })
+        </div>
+
+        <input type="submit" value="Update" class="btn btn-info" />
+    </div>
+}

@@ -1,0 +1,28 @@
+﻿@using Movies.Web.Models.Actors
+
+@model List<AllActorsViewModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<div id="Time"></div>
+
+@this.Ajax.ActionLink("Server time", "ServerTime", null,
+    new AjaxOptions
+    {
+        UpdateTargetId = "Time",
+        HttpMethod = "GET"
+    }, new { @class = "btn btn-info" })
+
+<h2>Actors</h2>
+
+<div class="row">
+    @foreach (var actor in Model)
+    {
+        <div class="well">
+            <h4>ID: @actor.Id @actor.FullName</h4>
+            <small>@actor.Gender</small>
+        </div>
+    }
+</div>

@@ -1,0 +1,36 @@
+﻿@using Movies.Web.Models.Actors
+
+@model ActorViewModel
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+@using (this.Html.BeginForm("DeleteActor", "Actors"))
+{
+    @Html.HttpMethodOverride(HttpVerbs.Delete)
+
+    <div class="row">
+        <div class="well">
+            @this.Html.LabelFor(m => m.FirstName)
+            @this.Html.TextBoxFor(m => m.FirstName, new { @class = "form-control", @readonly = "readonly" })
+            <br />
+
+            @this.Html.LabelFor(m => m.LastName)
+            @this.Html.TextBoxFor(m => m.LastName, new { @class = "form-control", @readonly = "readonly" })
+            <br />
+
+            @this.Html.LabelFor(m => m.Age)
+            @this.Html.TextBoxFor(m => m.Age, new { @class = "form-control", @readonly = "readonly" })
+            <br />
+
+            @this.Html.LabelFor(m => m.Gender)
+            @this.Html.TextBoxFor(m => m.Gender, new { @class = "form-control", @readonly = "readonly" })
+        </div>
+
+        @this.Html.HiddenFor(m => m.Id)
+
+        <input type="submit" value="Delete" class="btn btn-info" />
+    </div>
+}
